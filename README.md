@@ -12,27 +12,53 @@
 | `markflow/profiles/makashenets_config.py` | Машиночитаемый конфиг для модуля classify |
 | `markflow/core/cut.py` | Rough-Cut: убирает повторные дубли, команды диктора; оставляет последний лучший вариант |
 | `markflow/core/classify.py` | Тегирует сегменты по Style Profile (Putin-момент, цифра, клише, мат...) |
+| `markflow/core/parse_doc.py` | Разбирает Google Doc сценарий: СТЕНДАП / ЛАЙВ с таймкодами / ВСТЫК |
+| `markflow/core/align.py` | Привязывает ASR-сегменты к стендапам из сценария (SequenceMatcher) |
 | `markflow/build/build_prproj.py` | Пишет `.prproj` XML напрямую кодом, без живого Premiere |
 | `markflow/build/check_project.py` | Валидирует проект по файлу; без «ИТОГ: OK» — не отдаём |
+| `markflow/pipeline/run_pipeline.py` | Один скрипт: GDoc → сегменты → .prproj → check |
 
 ### Тесты
 ```bash
 cd /home/user/Artyopa
 python -m markflow.tests.test_cut
 python -m markflow.tests.test_build
+python -m markflow.tests.test_parse_align
 ```
 
 ## Как использовать pipeline
 
 ```
-ASR (GigaAM v2 в облаке)
+Google Doc (сценарий)
+  → parse_doc.py → script_sections.json (СТЕНДАП + ЛАЙВ структура)
+
+ASR (GigaAM v2 в облаке) — нужен видеофайл
   → words.json (слово + таймкод)
   → cut.py → segments.json (чистые отрезки без дублей)
   → classify.py → tagged.json (что делать с каждым куском)
-  → edit_plan.json (вручную или автоматически)
+
+  → align.py → aligned.json (сегменты привязаны к стендапам)
   → build_prproj.py → project.prproj
   → check_project.py → ИТОГ: OK
   → отдать Артёму
+
+Или одной командой:
+```
+
+```bash
+python -m markflow.pipeline.run_pipeline \
+  --gdoc_json gdoc_raw.json \
+  --words_json words.json \
+  --video_path "/path/to/video.mov" \
+  --out_dir ./output
+```
+
+### Режим без видео (только структура по сценарию)
+```bash
+python -m markflow.pipeline.run_pipeline \
+  --gdoc_json gdoc_raw.json \
+  --out_dir ./output
+# → .prproj с 71 маркером (ЛАЙВ-клипы) без видеодорожек
 ```
 
 ## ASR
