@@ -1,0 +1,2157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PremiereData Version="3">
+  <MasterClip ObjectID="{7762C5C3-9F9B-4B58-8D3A-62CCE94D6984}" ClassID="945b3f14-40f7-4e63-9e81-e37756cd9d5d">
+    <Media>
+      <Video>
+        <FrameRate>60.0</FrameRate>
+        <FrameWidth>1920</FrameWidth>
+        <FrameHeight>1080</FrameHeight>
+      </Video>
+    </Media>
+    <File ObjectID="{EA44737E-F28B-46E5-9839-2765DF85AFF4}" ClassID="1d64faf1-9e3e-11d3-9ed1-00600806d7c5">
+      <MediaFilePath>C:/Users/Artem/Videos/Макашенец/МОДНАЯ ПРОПАГАНДА/Копия Keyed-Video_2608311425_0001.mov</MediaFilePath>
+    </File>
+    <ClipIn>1242138240000</ClipIn>
+    <ClipOut>13394009664000</ClipOut>
+  </MasterClip>
+  <ClipItem ObjectID="{6032CC7A-6019-4E18-9462-FB2B676732EC}" ClassID="f70b0c3c-7b7b-4e63-8b1e-8e0e6e6b1234">
+    <MasterClipRef ObjectRef="{7762C5C3-9F9B-4B58-8D3A-62CCE94D6984}"/>
+    <In>1242138240000</In>
+    <Out>13394009664000</Out>
+    <Start>0</Start>
+    <End>12151871424000</End>
+  </ClipItem>
+  <MasterClip ObjectID="{9B73E48E-A161-4FF8-B9AA-FC247D0C5C9C}" ClassID="945b3f14-40f7-4e63-9e81-e37756cd9d5d">
+    <Media>
+      <Video>
+        <FrameRate>60.0</FrameRate>
+        <FrameWidth>1920</FrameWidth>
+        <FrameHeight>1080</FrameHeight>
+      </Video>
+    </Media>
+    <File ObjectID="{D40C7904-60EC-493F-BA61-5EA617E2F692}" ClassID="1d64faf1-9e3e-11d3-9ed1-00600806d7c5">
+      <MediaFilePath>C:/Users/Artem/Videos/Макашенец/МОДНАЯ ПРОПАГАНДА/Копия Keyed-Video_2608311425_0001.mov</MediaFilePath>
+    </File>
+    <ClipIn>43076541312000</ClipIn>
+    <ClipOut>49014927359999</ClipOut>
+  </MasterClip>
+  <ClipItem ObjectID="{A466BC54-94CF-4061-B1DE-357DB231B78F}" ClassID="f70b0c3c-7b7b-4e63-8b1e-8e0e6e6b1234">
+    <MasterClipRef ObjectRef="{9B73E48E-A161-4FF8-B9AA-FC247D0C5C9C}"/>
+    <In>43076541312000</In>
+    <Out>49014927359999</Out>
+    <Start>20026367424000</Start>
+    <End>25964753471999</End>
+  </ClipItem>
+  <MasterClip ObjectID="{33A14572-6ECC-485E-A435-41F6443C0815}" ClassID="945b3f14-40f7-4e63-9e81-e37756cd9d5d">
+    <Media>
+      <Video>
+        <FrameRate>60.0</FrameRate>
+        <FrameWidth>1920</FrameWidth>
+        <FrameHeight>1080</FrameHeight>
+      </Video>
+    </Media>
+    <File ObjectID="{CD56DA74-CB4A-4C61-BEC8-B5CC23326A12}" ClassID="1d64faf1-9e3e-11d3-9ed1-00600806d7c5">
+      <MediaFilePath>C:/Users/Artem/Videos/Макашенец/МОДНАЯ ПРОПАГАНДА/Копия Keyed-Video_2608311425_0001.mov</MediaFilePath>
+    </File>
+    <ClipIn>62030199167999</ClipIn>
+    <ClipOut>68906412287999</ClipOut>
+  </MasterClip>
+  <ClipItem ObjectID="{7FDCF5ED-EA10-4937-8685-BBA208AE3A21}" ClassID="f70b0c3c-7b7b-4e63-8b1e-8e0e6e6b1234">
+    <MasterClipRef ObjectRef="{33A14572-6ECC-485E-A435-41F6443C0815}"/>
+    <In>62030199167999</In>
+    <Out>68906412287999</Out>
+    <Start>38411537471999</Start>
+    <End>45287750591999</End>
+  </ClipItem>
+  <MasterClip ObjectID="{DFAA2F54-7595-4923-A750-F881A97EFD8F}" ClassID="945b3f14-40f7-4e63-9e81-e37756cd9d5d">
+    <Media>
+      <Video>
+        <FrameRate>60.0</FrameRate>
+        <FrameWidth>1920</FrameWidth>
+        <FrameHeight>1080</FrameHeight>
+      </Video>
+    </Media>
+    <File ObjectID="{0B081F11-F3E3-4D0E-9509-EB5DB2D1E351}" ClassID="1d64faf1-9e3e-11d3-9ed1-00600806d7c5">
+      <MediaFilePath>C:/Users/Artem/Videos/Макашенец/МОДНАЯ ПРОПАГАНДА/Копия Keyed-Video_2608311425_0001.mov</MediaFilePath>
+    </File>
+    <ClipIn>74730999168000</ClipIn>
+    <ClipOut>79848659520000</ClipOut>
+  </MasterClip>
+  <ClipItem ObjectID="{28E1FA85-F8F0-4973-B49A-4AA9D787427D}" ClassID="f70b0c3c-7b7b-4e63-8b1e-8e0e6e6b1234">
+    <MasterClipRef ObjectRef="{DFAA2F54-7595-4923-A750-F881A97EFD8F}"/>
+    <In>74730999168000</In>
+    <Out>79848659520000</Out>
+    <Start>50876102591999</Start>
+    <End>55993762943999</End>
+  </ClipItem>
+  <MasterClip ObjectID="{50A4C819-0BA5-441E-B0CB-12A2493F4653}" ClassID="945b3f14-40f7-4e63-9e81-e37756cd9d5d">
+    <Media>
+      <Video>
+        <FrameRate>60.0</FrameRate>
+        <FrameWidth>1920</FrameWidth>
+        <FrameHeight>1080</FrameHeight>
+      </Video>
+    </Media>
+    <File ObjectID="{000B446D-D8F3-4C66-897A-1DECD66778A7}" ClassID="1d64faf1-9e3e-11d3-9ed1-00600806d7c5">
+      <MediaFilePath>C:/Users/Artem/Videos/Макашенец/МОДНАЯ ПРОПАГАНДА/Копия Keyed-Video_2608311425_0001.mov</MediaFilePath>
+    </File>
+    <ClipIn>84969622080000</ClipIn>
+    <ClipOut>87977171520000</ClipOut>
+  </MasterClip>
+  <ClipItem ObjectID="{9B107A74-551F-4DD4-84C3-AE4873A5D950}" ClassID="f70b0c3c-7b7b-4e63-8b1e-8e0e6e6b1234">
+    <MasterClipRef ObjectRef="{50A4C819-0BA5-441E-B0CB-12A2493F4653}"/>
+    <In>84969622080000</In>
+    <Out>87977171520000</Out>
+    <Start>55993762943999</Start>
+    <End>59001312384000</End>
+  </ClipItem>
+  <MasterClip ObjectID="{A4E442A2-0C89-4F40-B91D-A175A3C06930}" ClassID="945b3f14-40f7-4e63-9e81-e37756cd9d5d">
+    <Media>
+      <Video>
+        <FrameRate>60.0</FrameRate>
+        <FrameWidth>1920</FrameWidth>
+        <FrameHeight>1080</FrameHeight>
+      </Video>
+    </Media>
+    <File ObjectID="{466C5649-7FC4-426B-9DF4-18C1E1F6613C}" ClassID="1d64faf1-9e3e-11d3-9ed1-00600806d7c5">
+      <MediaFilePath>C:/Users/Artem/Videos/Макашенец/МОДНАЯ ПРОПАГАНДА/Копия Keyed-Video_2608311425_0001.mov</MediaFilePath>
+    </File>
+    <ClipIn>97318863936000</ClipIn>
+    <ClipOut>109470735360000</ClipOut>
+  </MasterClip>
+  <ClipItem ObjectID="{4B12BF2F-8A71-43B9-8718-09B556D91870}" ClassID="f70b0c3c-7b7b-4e63-8b1e-8e0e6e6b1234">
+    <MasterClipRef ObjectRef="{A4E442A2-0C89-4F40-B91D-A175A3C06930}"/>
+    <In>97318863936000</In>
+    <Out>109470735360000</Out>
+    <Start>66113760383999</Start>
+    <End>78265631807999</End>
+  </ClipItem>
+  <MasterClip ObjectID="{344E6395-3233-4996-A480-0D9145637D43}" ClassID="945b3f14-40f7-4e63-9e81-e37756cd9d5d">
+    <Media>
+      <Video>
+        <FrameRate>60.0</FrameRate>
+        <FrameWidth>1920</FrameWidth>
+        <FrameHeight>1080</FrameHeight>
+      </Video>
+    </Media>
+    <File ObjectID="{5370847A-5A94-495A-B5B3-CB2A8C1E63AA}" ClassID="1d64faf1-9e3e-11d3-9ed1-00600806d7c5">
+      <MediaFilePath>C:/Users/Artem/Videos/Макашенец/МОДНАЯ ПРОПАГАНДА/Копия Keyed-Video_2608311425_0001.mov</MediaFilePath>
+    </File>
+    <ClipIn>114474596544000</ClipIn>
+    <ClipOut>117130333824000</ClipOut>
+  </MasterClip>
+  <ClipItem ObjectID="{C9AE82E9-8B2D-441D-8B6F-115E8517769A}" ClassID="f70b0c3c-7b7b-4e63-8b1e-8e0e6e6b1234">
+    <MasterClipRef ObjectRef="{344E6395-3233-4996-A480-0D9145637D43}"/>
+    <In>114474596544000</In>
+    <Out>117130333824000</Out>
+    <Start>80043743807999</Start>
+    <End>82699481087999</End>
+  </ClipItem>
+  <MasterClip ObjectID="{332C1896-45BF-41DC-8CD2-9C9D0C9F45BA}" ClassID="945b3f14-40f7-4e63-9e81-e37756cd9d5d">
+    <Media>
+      <Video>
+        <FrameRate>60.0</FrameRate>
+        <FrameWidth>1920</FrameWidth>
+        <FrameHeight>1080</FrameHeight>
+      </Video>
+    </Media>
+    <File ObjectID="{DF02180F-7D1B-4592-8FD6-3419224EC67E}" ClassID="1d64faf1-9e3e-11d3-9ed1-00600806d7c5">
+      <MediaFilePath>C:/Users/Artem/Videos/Макашенец/МОДНАЯ ПРОПАГАНДА/Копия Keyed-Video_2608311425_0001.mov</MediaFilePath>
+    </File>
+    <ClipIn>124010103168000</ClipIn>
+    <ClipOut>131120773056000</ClipOut>
+  </MasterClip>
+  <ClipItem ObjectID="{7C145BFA-43EB-4A54-9A85-51D4B82BAB3F}" ClassID="f70b0c3c-7b7b-4e63-8b1e-8e0e6e6b1234">
+    <MasterClipRef ObjectRef="{332C1896-45BF-41DC-8CD2-9C9D0C9F45BA}"/>
+    <In>124010103168000</In>
+    <Out>131120773056000</Out>
+    <Start>82699481087999</Start>
+    <End>89810150976000</End>
+  </ClipItem>
+  <MasterClip ObjectID="{DC9A9C4B-02FD-45A3-B504-AE980D2E3894}" ClassID="945b3f14-40f7-4e63-9e81-e37756cd9d5d">
+    <Media>
+      <Video>
+        <FrameRate>60.0</FrameRate>
+        <FrameWidth>1920</FrameWidth>
+        <FrameHeight>1080</FrameHeight>
+      </Video>
+    </Media>
+    <File ObjectID="{442988AA-68B7-4541-BAB0-8C4641FAB80C}" ClassID="1d64faf1-9e3e-11d3-9ed1-00600806d7c5">
+      <MediaFilePath>C:/Users/Artem/Videos/Макашенец/МОДНАЯ ПРОПАГАНДА/Копия Keyed-Video_2608311425_0001.mov</MediaFilePath>
+    </File>
+    <ClipIn>136476446400000</ClipIn>
+    <ClipOut>140421568896000</ClipOut>
+  </MasterClip>
+  <ClipItem ObjectID="{0CD258AA-842F-4498-ACDA-D132E5ABB7C6}" ClassID="f70b0c3c-7b7b-4e63-8b1e-8e0e6e6b1234">
+    <MasterClipRef ObjectRef="{DC9A9C4B-02FD-45A3-B504-AE980D2E3894}"/>
+    <In>136476446400000</In>
+    <Out>140421568896000</Out>
+    <Start>89810150976000</Start>
+    <End>93755273472000</End>
+  </ClipItem>
+  <MasterClip ObjectID="{75842AE8-BF36-4252-AFA7-A47594A1D02D}" ClassID="945b3f14-40f7-4e63-9e81-e37756cd9d5d">
+    <Media>
+      <Video>
+        <FrameRate>60.0</FrameRate>
+        <FrameWidth>1920</FrameWidth>
+        <FrameHeight>1080</FrameHeight>
+      </Video>
+    </Media>
+    <File ObjectID="{119EECF1-AA92-4899-BBCB-CBC14B8F5F70}" ClassID="1d64faf1-9e3e-11d3-9ed1-00600806d7c5">
+      <MediaFilePath>C:/Users/Artem/Videos/Макашенец/МОДНАЯ ПРОПАГАНДА/Копия Keyed-Video_2608311425_0001.mov</MediaFilePath>
+    </File>
+    <ClipIn>146246155776000</ClipIn>
+    <ClipOut>151129359360000</ClipOut>
+  </MasterClip>
+  <ClipItem ObjectID="{F1C91277-C02E-436C-8BEE-05E0AE579657}" ClassID="f70b0c3c-7b7b-4e63-8b1e-8e0e6e6b1234">
+    <MasterClipRef ObjectRef="{75842AE8-BF36-4252-AFA7-A47594A1D02D}"/>
+    <In>146246155776000</In>
+    <Out>151129359360000</Out>
+    <Start>93755273472000</Start>
+    <End>98638477056000</End>
+  </ClipItem>
+  <MasterClip ObjectID="{48F6A46A-41E5-4910-A325-8725B0189D5E}" ClassID="945b3f14-40f7-4e63-9e81-e37756cd9d5d">
+    <Media>
+      <Video>
+        <FrameRate>60.0</FrameRate>
+        <FrameWidth>1920</FrameWidth>
+        <FrameHeight>1080</FrameHeight>
+      </Video>
+    </Media>
+    <File ObjectID="{2B760DD3-37AF-441B-8915-F4F9EA820CF3}" ClassID="1d64faf1-9e3e-11d3-9ed1-00600806d7c5">
+      <MediaFilePath>C:/Users/Artem/Videos/Макашенец/МОДНАЯ ПРОПАГАНДА/Копия Keyed-Video_2608311425_0001.mov</MediaFilePath>
+    </File>
+    <ClipIn>160236595008000</ClipIn>
+    <ClipOut>172036908288000</ClipOut>
+  </MasterClip>
+  <ClipItem ObjectID="{DC4C3B92-CBEB-4645-BAD2-CB519A017C98}" ClassID="f70b0c3c-7b7b-4e63-8b1e-8e0e6e6b1234">
+    <MasterClipRef ObjectRef="{48F6A46A-41E5-4910-A325-8725B0189D5E}"/>
+    <In>160236595008000</In>
+    <Out>172036908288000</Out>
+    <Start>163158541056000</Start>
+    <End>174958854336000</End>
+  </ClipItem>
+  <MasterClip ObjectID="{4AD8B8C2-9F9B-4EB5-99D0-21B17C7D8CEE}" ClassID="945b3f14-40f7-4e63-9e81-e37756cd9d5d">
+    <Media>
+      <Video>
+        <FrameRate>60.0</FrameRate>
+        <FrameWidth>1920</FrameWidth>
+        <FrameHeight>1080</FrameHeight>
+      </Video>
+    </Media>
+    <File ObjectID="{F00FC6CA-17D1-43A0-9AD5-FA593EDB7D66}" ClassID="1d64faf1-9e3e-11d3-9ed1-00600806d7c5">
+      <MediaFilePath>C:/Users/Artem/Videos/Макашенец/МОДНАЯ ПРОПАГАНДА/Копия Keyed-Video_2608311425_0001.mov</MediaFilePath>
+    </File>
+    <ClipIn>180675230400000</ClipIn>
+    <ClipOut>191185650432000</ClipOut>
+  </MasterClip>
+  <ClipItem ObjectID="{CB99161A-2A7D-4802-AB22-EEE0D91C61E9}" ClassID="f70b0c3c-7b7b-4e63-8b1e-8e0e6e6b1234">
+    <MasterClipRef ObjectRef="{4AD8B8C2-9F9B-4EB5-99D0-21B17C7D8CEE}"/>
+    <In>180675230400000</In>
+    <Out>191185650432000</Out>
+    <Start>174958854336000</Start>
+    <End>185469274368000</End>
+  </ClipItem>
+  <MasterClip ObjectID="{23495B06-8451-4F05-9E08-6ED488F7426F}" ClassID="945b3f14-40f7-4e63-9e81-e37756cd9d5d">
+    <Media>
+      <Video>
+        <FrameRate>60.0</FrameRate>
+        <FrameWidth>1920</FrameWidth>
+        <FrameHeight>1080</FrameHeight>
+      </Video>
+    </Media>
+    <File ObjectID="{47C473E2-35E6-4723-9190-8017F4230D00}" ClassID="1d64faf1-9e3e-11d3-9ed1-00600806d7c5">
+      <MediaFilePath>C:/Users/Artem/Videos/Макашенец/МОДНАЯ ПРОПАГАНДА/Копия Keyed-Video_2608311425_0001.mov</MediaFilePath>
+    </File>
+    <ClipIn>199472414400000</ClipIn>
+    <ClipOut>208341637056000</ClipOut>
+  </MasterClip>
+  <ClipItem ObjectID="{982DBE72-BBFD-4CA7-B9DC-78DD76CA3904}" ClassID="f70b0c3c-7b7b-4e63-8b1e-8e0e6e6b1234">
+    <MasterClipRef ObjectRef="{23495B06-8451-4F05-9E08-6ED488F7426F}"/>
+    <In>199472414400000</In>
+    <Out>208341637056000</Out>
+    <Start>185469274368000</Start>
+    <End>194338497024000</End>
+  </ClipItem>
+  <MasterClip ObjectID="{9C1AE02C-E464-4D46-9635-63FCB457B043}" ClassID="945b3f14-40f7-4e63-9e81-e37756cd9d5d">
+    <Media>
+      <Video>
+        <FrameRate>60.0</FrameRate>
+        <FrameWidth>1920</FrameWidth>
+        <FrameHeight>1080</FrameHeight>
+      </Video>
+    </Media>
+    <File ObjectID="{EE0C8AFF-CA9F-4C98-B392-D413D6CC61B1}" ClassID="1d64faf1-9e3e-11d3-9ed1-00600806d7c5">
+      <MediaFilePath>C:/Users/Artem/Videos/Макашенец/МОДНАЯ ПРОПАГАНДА/Копия Keyed-Video_2608311425_0001.mov</MediaFilePath>
+    </File>
+    <ClipIn>211059354240000</ClipIn>
+    <ClipOut>219694120128000</ClipOut>
+  </MasterClip>
+  <ClipItem ObjectID="{0BF49EBC-39B2-47E7-B32C-96CE4DA9B0B2}" ClassID="f70b0c3c-7b7b-4e63-8b1e-8e0e6e6b1234">
+    <MasterClipRef ObjectRef="{9C1AE02C-E464-4D46-9635-63FCB457B043}"/>
+    <In>211059354240000</In>
+    <Out>219694120128000</Out>
+    <Start>196116609024000</Start>
+    <End>204751374912000</End>
+  </ClipItem>
+  <MasterClip ObjectID="{3662BE08-5814-444B-9F81-D6DA0B790D3D}" ClassID="945b3f14-40f7-4e63-9e81-e37756cd9d5d">
+    <Media>
+      <Video>
+        <FrameRate>60.0</FrameRate>
+        <FrameWidth>1920</FrameWidth>
+        <FrameHeight>1080</FrameHeight>
+      </Video>
+    </Media>
+    <File ObjectID="{47AC9B47-8327-457E-994E-377BD4940AB7}" ClassID="1d64faf1-9e3e-11d3-9ed1-00600806d7c5">
+      <MediaFilePath>C:/Users/Artem/Videos/Макашенец/МОДНАЯ ПРОПАГАНДА/Копия Keyed-Video_2608311425_0001.mov</MediaFilePath>
+    </File>
+    <ClipIn>245038820544000</ClipIn>
+    <ClipOut>252149490432000</ClipOut>
+  </MasterClip>
+  <ClipItem ObjectID="{3EFBFEE6-B07D-48E4-A590-6CEEA8B5FC23}" ClassID="f70b0c3c-7b7b-4e63-8b1e-8e0e6e6b1234">
+    <MasterClipRef ObjectRef="{3662BE08-5814-444B-9F81-D6DA0B790D3D}"/>
+    <In>245038820544000</In>
+    <Out>252149490432000</Out>
+    <Start>206529486912000</Start>
+    <End>213640156800000</End>
+  </ClipItem>
+  <MasterClip ObjectID="{9F1155A2-F065-453F-B94B-8150AE13BA23}" ClassID="945b3f14-40f7-4e63-9e81-e37756cd9d5d">
+    <Media>
+      <Video>
+        <FrameRate>60.0</FrameRate>
+        <FrameWidth>1920</FrameWidth>
+        <FrameHeight>1080</FrameHeight>
+      </Video>
+    </Media>
+    <File ObjectID="{0030B459-9C59-4B42-BE5B-3CBE06A6EC03}" ClassID="1d64faf1-9e3e-11d3-9ed1-00600806d7c5">
+      <MediaFilePath>C:/Users/Artem/Videos/Макашенец/МОДНАЯ ПРОПАГАНДА/Копия Keyed-Video_2608311425_0001.mov</MediaFilePath>
+    </File>
+    <ClipIn>257388062400000</ClipIn>
+    <ClipOut>260864271360000</ClipOut>
+  </MasterClip>
+  <ClipItem ObjectID="{BC88B6A8-2BD2-4EBB-ACCE-6D9C37F3B058}" ClassID="f70b0c3c-7b7b-4e63-8b1e-8e0e6e6b1234">
+    <MasterClipRef ObjectRef="{9F1155A2-F065-453F-B94B-8150AE13BA23}"/>
+    <In>257388062400000</In>
+    <Out>260864271360000</Out>
+    <Start>216688348800000</Start>
+    <End>220164557760000</End>
+  </ClipItem>
+  <MasterClip ObjectID="{68393B48-F3F7-4F68-A5EE-719AE5A24A40}" ClassID="945b3f14-40f7-4e63-9e81-e37756cd9d5d">
+    <Media>
+      <Video>
+        <FrameRate>60.0</FrameRate>
+        <FrameWidth>1920</FrameWidth>
+        <FrameHeight>1080</FrameHeight>
+      </Video>
+    </Media>
+    <File ObjectID="{553EB77C-1DDD-4EB5-8445-CE3BEDE38CED}" ClassID="1d64faf1-9e3e-11d3-9ed1-00600806d7c5">
+      <MediaFilePath>C:/Users/Artem/Videos/Макашенец/МОДНАЯ ПРОПАГАНДА/Копия Keyed-Video_2608311425_0001.mov</MediaFilePath>
+    </File>
+    <ClipIn>268916324544000</ClipIn>
+    <ClipOut>277785547200000</ClipOut>
+  </MasterClip>
+  <ClipItem ObjectID="{DA8B8BCA-B82E-445A-90CC-FAA4DC6CCC33}" ClassID="f70b0c3c-7b7b-4e63-8b1e-8e0e6e6b1234">
+    <MasterClipRef ObjectRef="{68393B48-F3F7-4F68-A5EE-719AE5A24A40}"/>
+    <In>268916324544000</In>
+    <Out>277785547200000</Out>
+    <Start>224990861760000</Start>
+    <End>233860084416000</End>
+  </ClipItem>
+  <MasterClip ObjectID="{3BA8DBFA-A8FA-44CD-80E4-F742BA2E1FA3}" ClassID="945b3f14-40f7-4e63-9e81-e37756cd9d5d">
+    <Media>
+      <Video>
+        <FrameRate>60.0</FrameRate>
+        <FrameWidth>1920</FrameWidth>
+        <FrameHeight>1080</FrameHeight>
+      </Video>
+    </Media>
+    <File ObjectID="{A16E66BD-03CC-453A-88E4-77E370F0A09A}" ClassID="1d64faf1-9e3e-11d3-9ed1-00600806d7c5">
+      <MediaFilePath>C:/Users/Artem/Videos/Макашенец/МОДНАЯ ПРОПАГАНДА/Копия Keyed-Video_2608311425_0001.mov</MediaFilePath>
+    </File>
+    <ClipIn>282086038080000</ClipIn>
+    <ClipOut>283335034752000</ClipOut>
+  </MasterClip>
+  <ClipItem ObjectID="{C58AC630-29F5-4FC8-BD89-EF017F4E09E6}" ClassID="f70b0c3c-7b7b-4e63-8b1e-8e0e6e6b1234">
+    <MasterClipRef ObjectRef="{3BA8DBFA-A8FA-44CD-80E4-F742BA2E1FA3}"/>
+    <In>282086038080000</In>
+    <Out>283335034752000</Out>
+    <Start>238686388416000</Start>
+    <End>239935385088000</End>
+  </ClipItem>
+  <MasterClip ObjectID="{6460C131-BBF3-4E2B-AD94-49528314C40C}" ClassID="945b3f14-40f7-4e63-9e81-e37756cd9d5d">
+    <Media>
+      <Video>
+        <FrameRate>60.0</FrameRate>
+        <FrameWidth>1920</FrameWidth>
+        <FrameHeight>1080</FrameHeight>
+      </Video>
+    </Media>
+    <File ObjectID="{8E88E820-0EE1-4D69-8350-5AAB88FB2B14}" ClassID="1d64faf1-9e3e-11d3-9ed1-00600806d7c5">
+      <MediaFilePath>C:/Users/Artem/Videos/Макашенец/МОДНАЯ ПРОПАГАНДА/Копия Keyed-Video_2608311425_0001.mov</MediaFilePath>
+    </File>
+    <ClipIn>289042266240000</ClipIn>
+    <ClipOut>292752931968000</ClipOut>
+  </MasterClip>
+  <ClipItem ObjectID="{5870B7D2-C839-4A38-83FD-E9005CB74F90}" ClassID="f70b0c3c-7b7b-4e63-8b1e-8e0e6e6b1234">
+    <MasterClipRef ObjectRef="{6460C131-BBF3-4E2B-AD94-49528314C40C}"/>
+    <In>289042266240000</In>
+    <Out>292752931968000</Out>
+    <Start>239935385088000</Start>
+    <End>243646050816000</End>
+  </ClipItem>
+  <MasterClip ObjectID="{9504AB99-5E03-4E09-9A4C-6D7B0898C37A}" ClassID="945b3f14-40f7-4e63-9e81-e37756cd9d5d">
+    <Media>
+      <Video>
+        <FrameRate>60.0</FrameRate>
+        <FrameWidth>1920</FrameWidth>
+        <FrameHeight>1080</FrameHeight>
+      </Video>
+    </Media>
+    <File ObjectID="{2641F756-9E93-4729-A6AB-39B1F6B10863}" ClassID="1d64faf1-9e3e-11d3-9ed1-00600806d7c5">
+      <MediaFilePath>C:/Users/Artem/Videos/Макашенец/МОДНАЯ ПРОПАГАНДА/Копия Keyed-Video_2608311425_0001.mov</MediaFilePath>
+    </File>
+    <ClipIn>299750056704000</ClipIn>
+    <ClipOut>306860726592000</ClipOut>
+  </MasterClip>
+  <ClipItem ObjectID="{D336F2C5-178A-48C9-958A-12CE2827695D}" ClassID="f70b0c3c-7b7b-4e63-8b1e-8e0e6e6b1234">
+    <MasterClipRef ObjectRef="{9504AB99-5E03-4E09-9A4C-6D7B0898C37A}"/>
+    <In>299750056704000</In>
+    <Out>306860726592000</Out>
+    <Start>254568738816000</Start>
+    <End>261679408704000</End>
+  </ClipItem>
+  <MasterClip ObjectID="{4D5473D1-9088-4A34-823D-3473219D083F}" ClassID="945b3f14-40f7-4e63-9e81-e37756cd9d5d">
+    <Media>
+      <Video>
+        <FrameRate>60.0</FrameRate>
+        <FrameWidth>1920</FrameWidth>
+        <FrameHeight>1080</FrameHeight>
+      </Video>
+    </Media>
+    <File ObjectID="{7215934D-D594-42C9-B98A-91528463B749}" ClassID="1d64faf1-9e3e-11d3-9ed1-00600806d7c5">
+      <MediaFilePath>C:/Users/Artem/Videos/Макашенец/МОДНАЯ ПРОПАГАНДА/Копия Keyed-Video_2608311425_0001.mov</MediaFilePath>
+    </File>
+    <ClipIn>312333501312000</ClipIn>
+    <ClipOut>316513334592000</ClipOut>
+  </MasterClip>
+  <ClipItem ObjectID="{747EA9CA-6180-434A-9AE4-8C0F38F8E348}" ClassID="f70b0c3c-7b7b-4e63-8b1e-8e0e6e6b1234">
+    <MasterClipRef ObjectRef="{4D5473D1-9088-4A34-823D-3473219D083F}"/>
+    <In>312333501312000</In>
+    <Out>316513334592000</Out>
+    <Start>261679408704000</Start>
+    <End>265859241984000</End>
+  </ClipItem>
+  <MasterClip ObjectID="{F41D4D1D-6EF7-4362-81E3-23509805A034}" ClassID="945b3f14-40f7-4e63-9e81-e37756cd9d5d">
+    <Media>
+      <Video>
+        <FrameRate>60.0</FrameRate>
+        <FrameWidth>1920</FrameWidth>
+        <FrameHeight>1080</FrameHeight>
+      </Video>
+    </Media>
+    <File ObjectID="{57C56B0B-2219-4913-A6E2-5C4458C399C2}" ClassID="1d64faf1-9e3e-11d3-9ed1-00600806d7c5">
+      <MediaFilePath>C:/Users/Artem/Videos/Макашенец/МОДНАЯ ПРОПАГАНДА/Копия Keyed-Video_2608311425_0001.mov</MediaFilePath>
+    </File>
+    <ClipIn>319231051776000</ClipIn>
+    <ClipOut>329858827200000</ClipOut>
+  </MasterClip>
+  <ClipItem ObjectID="{B6B099B8-6227-44E9-BD36-4EF5F3CFE3D1}" ClassID="f70b0c3c-7b7b-4e63-8b1e-8e0e6e6b1234">
+    <MasterClipRef ObjectRef="{F41D4D1D-6EF7-4362-81E3-23509805A034}"/>
+    <In>319231051776000</In>
+    <Out>329858827200000</Out>
+    <Start>269415465984000</Start>
+    <End>280043241408000</End>
+  </ClipItem>
+  <MasterClip ObjectID="{17BA5497-7C5F-4992-9262-95306BC7C4D2}" ClassID="945b3f14-40f7-4e63-9e81-e37756cd9d5d">
+    <Media>
+      <Video>
+        <FrameRate>60.0</FrameRate>
+        <FrameWidth>1920</FrameWidth>
+        <FrameHeight>1080</FrameHeight>
+      </Video>
+    </Media>
+    <File ObjectID="{826AA9EE-8088-49EC-BBFC-A44781FD506B}" ClassID="1d64faf1-9e3e-11d3-9ed1-00600806d7c5">
+      <MediaFilePath>C:/Users/Artem/Videos/Макашенец/МОДНАЯ ПРОПАГАНДА/Копия Keyed-Video_2608311425_0001.mov</MediaFilePath>
+    </File>
+    <ClipIn>356258710080000</ClipIn>
+    <ClipOut>359031802752000</ClipOut>
+  </MasterClip>
+  <ClipItem ObjectID="{0E78C5C2-1AEB-4A47-9E02-B161DCEA3A2B}" ClassID="f70b0c3c-7b7b-4e63-8b1e-8e0e6e6b1234">
+    <MasterClipRef ObjectRef="{17BA5497-7C5F-4992-9262-95306BC7C4D2}"/>
+    <In>356258710080000</In>
+    <Out>359031802752000</Out>
+    <Start>286647657408000</Start>
+    <End>289420750080000</End>
+  </ClipItem>
+  <MasterClip ObjectID="{4A8629D4-4B26-428E-A3BE-BBBBB3C10C57}" ClassID="945b3f14-40f7-4e63-9e81-e37756cd9d5d">
+    <Media>
+      <Video>
+        <FrameRate>60.0</FrameRate>
+        <FrameWidth>1920</FrameWidth>
+        <FrameHeight>1080</FrameHeight>
+      </Video>
+    </Media>
+    <File ObjectID="{75451983-F145-4DA1-A367-D892A47F35C2}" ClassID="1d64faf1-9e3e-11d3-9ed1-00600806d7c5">
+      <MediaFilePath>C:/Users/Artem/Videos/Макашенец/МОДНАЯ ПРОПАГАНДА/Копия Keyed-Video_2608311425_0001.mov</MediaFilePath>
+    </File>
+    <ClipIn>373570916544000</ClipIn>
+    <ClipOut>377867851200000</ClipOut>
+  </MasterClip>
+  <ClipItem ObjectID="{9BA1B882-5192-4A03-B27E-5B2CE05CB8E5}" ClassID="f70b0c3c-7b7b-4e63-8b1e-8e0e6e6b1234">
+    <MasterClipRef ObjectRef="{4A8629D4-4B26-428E-A3BE-BBBBB3C10C57}"/>
+    <In>373570916544000</In>
+    <Out>377867851200000</Out>
+    <Start>289420750080000</Start>
+    <End>293717684735999</End>
+  </ClipItem>
+  <MasterClip ObjectID="{2A29EC27-7311-40B7-9D20-B53F0EBF7D83}" ClassID="945b3f14-40f7-4e63-9e81-e37756cd9d5d">
+    <Media>
+      <Video>
+        <FrameRate>60.0</FrameRate>
+        <FrameWidth>1920</FrameWidth>
+        <FrameHeight>1080</FrameHeight>
+      </Video>
+    </Media>
+    <File ObjectID="{75A872CF-7A08-4617-BBEF-6D74B90F4D0B}" ClassID="1d64faf1-9e3e-11d3-9ed1-00600806d7c5">
+      <MediaFilePath>C:/Users/Artem/Videos/Макашенец/МОДНАЯ ПРОПАГАНДА/Копия Keyed-Video_2608311425_0001.mov</MediaFilePath>
+    </File>
+    <ClipIn>382402798848000</ClipIn>
+    <ClipOut>384237810432000</ClipOut>
+  </MasterClip>
+  <ClipItem ObjectID="{7CC7EB45-CD44-4CED-8453-4428172BAF82}" ClassID="f70b0c3c-7b7b-4e63-8b1e-8e0e6e6b1234">
+    <MasterClipRef ObjectRef="{2A29EC27-7311-40B7-9D20-B53F0EBF7D83}"/>
+    <In>382402798848000</In>
+    <Out>384237810432000</Out>
+    <Start>293717684735999</Start>
+    <End>295552696319999</End>
+  </ClipItem>
+  <MasterClip ObjectID="{21275EB5-27B3-4881-8B66-438CAA5C67D1}" ClassID="945b3f14-40f7-4e63-9e81-e37756cd9d5d">
+    <Media>
+      <Video>
+        <FrameRate>60.0</FrameRate>
+        <FrameWidth>1920</FrameWidth>
+        <FrameHeight>1080</FrameHeight>
+      </Video>
+    </Media>
+    <File ObjectID="{72944127-DBCF-4503-A231-D835BD9A56BB}" ClassID="1d64faf1-9e3e-11d3-9ed1-00600806d7c5">
+      <MediaFilePath>C:/Users/Artem/Videos/Макашенец/МОДНАЯ ПРОПАГАНДА/Копия Keyed-Video_2608311425_0001.mov</MediaFilePath>
+    </File>
+    <ClipIn>392524574400000</ClipIn>
+    <ClipOut>401393797056000</ClipOut>
+  </MasterClip>
+  <ClipItem ObjectID="{340D53B1-51DA-4257-94FE-038FD5218154}" ClassID="f70b0c3c-7b7b-4e63-8b1e-8e0e6e6b1234">
+    <MasterClipRef ObjectRef="{21275EB5-27B3-4881-8B66-438CAA5C67D1}"/>
+    <In>392524574400000</In>
+    <Out>401393797056000</Out>
+    <Start>295552696319999</Start>
+    <End>304421918975999</End>
+  </ClipItem>
+  <MasterClip ObjectID="{D2E1F9C2-2B05-4733-9651-4CEA8376932A}" ClassID="945b3f14-40f7-4e63-9e81-e37756cd9d5d">
+    <Media>
+      <Video>
+        <FrameRate>60.0</FrameRate>
+        <FrameWidth>1920</FrameWidth>
+        <FrameHeight>1080</FrameHeight>
+      </Video>
+    </Media>
+    <File ObjectID="{294AF3D0-751C-4887-A69D-EC50D32BE2FB}" ClassID="1d64faf1-9e3e-11d3-9ed1-00600806d7c5">
+      <MediaFilePath>C:/Users/Artem/Videos/Макашенец/МОДНАЯ ПРОПАГАНДА/Копия Keyed-Video_2608311425_0001.mov</MediaFilePath>
+    </File>
+    <ClipIn>405459831168000</ClipIn>
+    <ClipOut>406943030592000</ClipOut>
+  </MasterClip>
+  <ClipItem ObjectID="{2A3ADDB5-ECCD-4FA9-B9FE-F3A5B16424D3}" ClassID="f70b0c3c-7b7b-4e63-8b1e-8e0e6e6b1234">
+    <MasterClipRef ObjectRef="{D2E1F9C2-2B05-4733-9651-4CEA8376932A}"/>
+    <In>405459831168000</In>
+    <Out>406943030592000</Out>
+    <Start>304421918975999</Start>
+    <End>305905118399999</End>
+  </ClipItem>
+  <MasterClip ObjectID="{8FECD445-BB96-41F8-BC2E-E9267404A128}" ClassID="945b3f14-40f7-4e63-9e81-e37756cd9d5d">
+    <Media>
+      <Video>
+        <FrameRate>60.0</FrameRate>
+        <FrameWidth>1920</FrameWidth>
+        <FrameHeight>1080</FrameHeight>
+      </Video>
+    </Media>
+    <File ObjectID="{B5213096-E0A8-446F-9B52-6C38FDC2A9EC}" ClassID="1d64faf1-9e3e-11d3-9ed1-00600806d7c5">
+      <MediaFilePath>C:/Users/Artem/Videos/Макашенец/МОДНАЯ ПРОПАГАНДА/Копия Keyed-Video_2608311425_0001.mov</MediaFilePath>
+    </File>
+    <ClipIn>412884718848000</ClipIn>
+    <ClipOut>417767922432000</ClipOut>
+  </MasterClip>
+  <ClipItem ObjectID="{41BA57A5-40AD-4635-AE1D-43CC38BADBC4}" ClassID="f70b0c3c-7b7b-4e63-8b1e-8e0e6e6b1234">
+    <MasterClipRef ObjectRef="{8FECD445-BB96-41F8-BC2E-E9267404A128}"/>
+    <In>412884718848000</In>
+    <Out>417767922432000</Out>
+    <Start>305905118399999</Start>
+    <End>310788321983999</End>
+  </ClipItem>
+  <MasterClip ObjectID="{F1ABFB72-EDD3-4963-B47E-DB9C33A4981C}" ClassID="945b3f14-40f7-4e63-9e81-e37756cd9d5d">
+    <Media>
+      <Video>
+        <FrameRate>60.0</FrameRate>
+        <FrameWidth>1920</FrameWidth>
+        <FrameHeight>1080</FrameHeight>
+      </Video>
+    </Media>
+    <File ObjectID="{2D388592-C5E6-4FF4-92FD-8588FF80F1B6}" ClassID="1d64faf1-9e3e-11d3-9ed1-00600806d7c5">
+      <MediaFilePath>C:/Users/Artem/Videos/Макашенец/МОДНАЯ ПРОПАГАНДА/Копия Keyed-Video_2608311425_0001.mov</MediaFilePath>
+    </File>
+    <ClipIn>422772037632000</ClipIn>
+    <ClipOut>425544876288000</ClipOut>
+  </MasterClip>
+  <ClipItem ObjectID="{404B5FD6-6530-454E-A37A-5EE1536180F7}" ClassID="f70b0c3c-7b7b-4e63-8b1e-8e0e6e6b1234">
+    <MasterClipRef ObjectRef="{F1ABFB72-EDD3-4963-B47E-DB9C33A4981C}"/>
+    <In>422772037632000</In>
+    <Out>425544876288000</Out>
+    <Start>310788321983999</Start>
+    <End>313561160639999</End>
+  </ClipItem>
+  <MasterClip ObjectID="{541A4DA0-EB97-4E2E-A103-ACF6841D064E}" ClassID="945b3f14-40f7-4e63-9e81-e37756cd9d5d">
+    <Media>
+      <Video>
+        <FrameRate>60.0</FrameRate>
+        <FrameWidth>1920</FrameWidth>
+        <FrameHeight>1080</FrameHeight>
+      </Video>
+    </Media>
+    <File ObjectID="{8F89FC98-3ECC-4A57-94CA-30937AE420D1}" ClassID="1d64faf1-9e3e-11d3-9ed1-00600806d7c5">
+      <MediaFilePath>C:/Users/Artem/Videos/Макашенец/МОДНАЯ ПРОПАГАНДА/Копия Keyed-Video_2608311425_0001.mov</MediaFilePath>
+    </File>
+    <ClipIn>431721021312000</ClipIn>
+    <ClipOut>436956037056000</ClipOut>
+  </MasterClip>
+  <ClipItem ObjectID="{9B544283-996A-43C9-9B61-8564F6597BD6}" ClassID="f70b0c3c-7b7b-4e63-8b1e-8e0e6e6b1234">
+    <MasterClipRef ObjectRef="{541A4DA0-EB97-4E2E-A103-ACF6841D064E}"/>
+    <In>431721021312000</In>
+    <Out>436956037056000</Out>
+    <Start>313561160639999</Start>
+    <End>318796176383999</End>
+  </ClipItem>
+  <MasterClip ObjectID="{8DF24306-1CAC-43B6-B12B-FA38805CED32}" ClassID="945b3f14-40f7-4e63-9e81-e37756cd9d5d">
+    <Media>
+      <Video>
+        <FrameRate>60.0</FrameRate>
+        <FrameWidth>1920</FrameWidth>
+        <FrameHeight>1080</FrameHeight>
+      </Video>
+    </Media>
+    <File ObjectID="{2BC39D58-C0F1-4F76-9EC9-AEAE97933546}" ClassID="1d64faf1-9e3e-11d3-9ed1-00600806d7c5">
+      <MediaFilePath>C:/Users/Artem/Videos/Макашенец/МОДНАЯ ПРОПАГАНДА/Копия Keyed-Video_2608311425_0001.mov</MediaFilePath>
+    </File>
+    <ClipIn>444304719936000</ClipIn>
+    <ClipOut>451884303360000</ClipOut>
+  </MasterClip>
+  <ClipItem ObjectID="{F14F389A-405D-4111-98C8-85F817903F99}" ClassID="f70b0c3c-7b7b-4e63-8b1e-8e0e6e6b1234">
+    <MasterClipRef ObjectRef="{8DF24306-1CAC-43B6-B12B-FA38805CED32}"/>
+    <In>444304719936000</In>
+    <Out>451884303360000</Out>
+    <Start>364773072383999</Start>
+    <End>372352655807999</End>
+  </ClipItem>
+  <MasterClip ObjectID="{A1AF07E3-A74A-4437-946B-39AD7EF44459}" ClassID="945b3f14-40f7-4e63-9e81-e37756cd9d5d">
+    <Media>
+      <Video>
+        <FrameRate>60.0</FrameRate>
+        <FrameWidth>1920</FrameWidth>
+        <FrameHeight>1080</FrameHeight>
+      </Video>
+    </Media>
+    <File ObjectID="{85E7752A-CF11-4565-B5F6-5FC36D5BC6A4}" ClassID="1d64faf1-9e3e-11d3-9ed1-00600806d7c5">
+      <MediaFilePath>C:/Users/Artem/Videos/Макашенец/МОДНАЯ ПРОПАГАНДА/Копия Keyed-Video_2608311425_0001.mov</MediaFilePath>
+    </File>
+    <ClipIn>460288168704000</ClipIn>
+    <ClipOut>469978117056000</ClipOut>
+  </MasterClip>
+  <ClipItem ObjectID="{85B5745D-F569-4F2D-ACF9-7ACF41BCA867}" ClassID="f70b0c3c-7b7b-4e63-8b1e-8e0e6e6b1234">
+    <MasterClipRef ObjectRef="{A1AF07E3-A74A-4437-946B-39AD7EF44459}"/>
+    <In>460288168704000</In>
+    <Out>469978117056000</Out>
+    <Start>380227151807999</Start>
+    <End>389917100159999</End>
+  </ClipItem>
+  <MasterClip ObjectID="{97616050-760E-44EA-8902-7842DE1C265A}" ClassID="945b3f14-40f7-4e63-9e81-e37756cd9d5d">
+    <Media>
+      <Video>
+        <FrameRate>60.0</FrameRate>
+        <FrameWidth>1920</FrameWidth>
+        <FrameHeight>1080</FrameHeight>
+      </Video>
+    </Media>
+    <File ObjectID="{AA8F8D48-B0DD-44D0-982E-8765EE8D867D}" ClassID="1d64faf1-9e3e-11d3-9ed1-00600806d7c5">
+      <MediaFilePath>C:/Users/Artem/Videos/Макашенец/МОДНАЯ ПРОПАГАНДА/Копия Keyed-Video_2608311425_0001.mov</MediaFilePath>
+    </File>
+    <ClipIn>475919805312000</ClipIn>
+    <ClipOut>481037465664000</ClipOut>
+  </MasterClip>
+  <ClipItem ObjectID="{D96CC233-F3B3-4E33-967F-BAED8570D1DD}" ClassID="f70b0c3c-7b7b-4e63-8b1e-8e0e6e6b1234">
+    <MasterClipRef ObjectRef="{97616050-760E-44EA-8902-7842DE1C265A}"/>
+    <In>475919805312000</In>
+    <Out>481037465664000</Out>
+    <Start>395759468159999</Start>
+    <End>400877128511999</End>
+  </ClipItem>
+  <MasterClip ObjectID="{0260B4BC-AE01-4BBB-BA9A-DF7265BA2932}" ClassID="945b3f14-40f7-4e63-9e81-e37756cd9d5d">
+    <Media>
+      <Video>
+        <FrameRate>60.0</FrameRate>
+        <FrameWidth>1920</FrameWidth>
+        <FrameHeight>1080</FrameHeight>
+      </Video>
+    </Media>
+    <File ObjectID="{8CC6CA2D-1EC0-47F5-BBCE-13905D135626}" ClassID="1d64faf1-9e3e-11d3-9ed1-00600806d7c5">
+      <MediaFilePath>C:/Users/Artem/Videos/Макашенец/МОДНАЯ ПРОПАГАНДА/Копия Keyed-Video_2608311425_0001.mov</MediaFilePath>
+    </File>
+    <ClipIn>489793143168000</ClipIn>
+    <ClipOut>500889832128000</ClipOut>
+  </MasterClip>
+  <ClipItem ObjectID="{2680F466-D858-4657-8E21-A459007D9E13}" ClassID="f70b0c3c-7b7b-4e63-8b1e-8e0e6e6b1234">
+    <MasterClipRef ObjectRef="{0260B4BC-AE01-4BBB-BA9A-DF7265BA2932}"/>
+    <In>489793143168000</In>
+    <Out>500889832128000</Out>
+    <Start>406973512511999</Start>
+    <End>418070201471999</End>
+  </ClipItem>
+  <MasterClip ObjectID="{7FBF409B-66EF-4C8F-89C4-5E21AB9969DE}" ClassID="945b3f14-40f7-4e63-9e81-e37756cd9d5d">
+    <Media>
+      <Video>
+        <FrameRate>60.0</FrameRate>
+        <FrameWidth>1920</FrameWidth>
+        <FrameHeight>1080</FrameHeight>
+      </Video>
+    </Media>
+    <File ObjectID="{8FCE34AA-1620-4CB4-89C7-D76689D3FAE8}" ClassID="1d64faf1-9e3e-11d3-9ed1-00600806d7c5">
+      <MediaFilePath>C:/Users/Artem/Videos/Макашенец/МОДНАЯ ПРОПАГАНДА/Копия Keyed-Video_2608311425_0001.mov</MediaFilePath>
+    </File>
+    <ClipIn>506714419008000</ClipIn>
+    <ClipOut>511128709056000</ClipOut>
+  </MasterClip>
+  <ClipItem ObjectID="{916F0244-830D-4C92-98EB-AF91CDF219D7}" ClassID="f70b0c3c-7b7b-4e63-8b1e-8e0e6e6b1234">
+    <MasterClipRef ObjectRef="{7FBF409B-66EF-4C8F-89C4-5E21AB9969DE}"/>
+    <In>506714419008000</In>
+    <Out>511128709056000</Out>
+    <Start>419086265471999</Start>
+    <End>423500555519999</End>
+  </ClipItem>
+  <MasterClip ObjectID="{AF8292D3-2A9E-4E90-BBAC-5B74CE4E65C2}" ClassID="945b3f14-40f7-4e63-9e81-e37756cd9d5d">
+    <Media>
+      <Video>
+        <FrameRate>60.0</FrameRate>
+        <FrameWidth>1920</FrameWidth>
+        <FrameHeight>1080</FrameHeight>
+      </Video>
+    </Media>
+    <File ObjectID="{FEF2FCA5-61D4-4DD3-9D3A-ABEB703CE1F1}" ClassID="1d64faf1-9e3e-11d3-9ed1-00600806d7c5">
+      <MediaFilePath>C:/Users/Artem/Videos/Макашенец/МОДНАЯ ПРОПАГАНДА/Копия Keyed-Video_2608311425_0001.mov</MediaFilePath>
+    </File>
+    <ClipIn>515429199936000</ClipIn>
+    <ClipOut>517498668288000</ClipOut>
+  </MasterClip>
+  <ClipItem ObjectID="{772709EE-BBA9-4321-8AA1-75280F7CCA61}" ClassID="f70b0c3c-7b7b-4e63-8b1e-8e0e6e6b1234">
+    <MasterClipRef ObjectRef="{AF8292D3-2A9E-4E90-BBAC-5B74CE4E65C2}"/>
+    <In>515429199936000</In>
+    <Out>517498668288000</Out>
+    <Start>429596939519999</Start>
+    <End>431666407871999</End>
+  </ClipItem>
+  <MasterClip ObjectID="{600E1CF5-D276-42AF-BCA3-0378C8012BE7}" ClassID="945b3f14-40f7-4e63-9e81-e37756cd9d5d">
+    <Media>
+      <Video>
+        <FrameRate>60.0</FrameRate>
+        <FrameWidth>1920</FrameWidth>
+        <FrameHeight>1080</FrameHeight>
+      </Video>
+    </Media>
+    <File ObjectID="{A165E80F-0D3E-44CB-9240-E42655D6984E}" ClassID="1d64faf1-9e3e-11d3-9ed1-00600806d7c5">
+      <MediaFilePath>C:/Users/Artem/Videos/Макашенец/МОДНАЯ ПРОПАГАНДА/Копия Keyed-Video_2608311425_0001.mov</MediaFilePath>
+    </File>
+    <ClipIn>523205899775999</ClipIn>
+    <ClipOut>528206458752000</ClipOut>
+  </MasterClip>
+  <ClipItem ObjectID="{12F7EFA5-0707-4591-94C6-28217CBD3639}" ClassID="f70b0c3c-7b7b-4e63-8b1e-8e0e6e6b1234">
+    <MasterClipRef ObjectRef="{600E1CF5-D276-42AF-BCA3-0378C8012BE7}"/>
+    <In>523205899775999</In>
+    <Out>528206458752000</Out>
+    <Start>434206567871999</Start>
+    <End>439207126847999</End>
+  </ClipItem>
+  <MasterClip ObjectID="{70B64274-AB35-4EF8-BC74-CB4879322CF9}" ClassID="945b3f14-40f7-4e63-9e81-e37756cd9d5d">
+    <Media>
+      <Video>
+        <FrameRate>60.0</FrameRate>
+        <FrameWidth>1920</FrameWidth>
+        <FrameHeight>1080</FrameHeight>
+      </Video>
+    </Media>
+    <File ObjectID="{FC8B802D-BE37-4EC7-B702-4935D5DA8DD8}" ClassID="1d64faf1-9e3e-11d3-9ed1-00600806d7c5">
+      <MediaFilePath>C:/Users/Artem/Videos/Макашенец/МОДНАЯ ПРОПАГАНДА/Копия Keyed-Video_2608311425_0001.mov</MediaFilePath>
+    </File>
+    <ClipIn>534148147007999</ClipIn>
+    <ClipOut>539031350592000</ClipOut>
+  </MasterClip>
+  <ClipItem ObjectID="{3B665F52-3630-4001-AA1E-97B12F851D4B}" ClassID="f70b0c3c-7b7b-4e63-8b1e-8e0e6e6b1234">
+    <MasterClipRef ObjectRef="{70B64274-AB35-4EF8-BC74-CB4879322CF9}"/>
+    <In>534148147007999</In>
+    <Out>539031350592000</Out>
+    <Start>439207126847999</Start>
+    <End>444090330431999</End>
+  </ClipItem>
+  <MasterClip ObjectID="{2AF9D652-C8BE-4B76-963C-2AD69466CAAF}" ClassID="945b3f14-40f7-4e63-9e81-e37756cd9d5d">
+    <Media>
+      <Video>
+        <FrameRate>60.0</FrameRate>
+        <FrameWidth>1920</FrameWidth>
+        <FrameHeight>1080</FrameHeight>
+      </Video>
+    </Media>
+    <File ObjectID="{EAEB198B-2704-45E5-AFBE-714AF77A56CF}" ClassID="1d64faf1-9e3e-11d3-9ed1-00600806d7c5">
+      <MediaFilePath>C:/Users/Artem/Videos/Макашенец/МОДНАЯ ПРОПАГАНДА/Копия Keyed-Video_2608311425_0001.mov</MediaFilePath>
+    </File>
+    <ClipIn>544855937472000</ClipIn>
+    <ClipOut>549387328896000</ClipOut>
+  </MasterClip>
+  <ClipItem ObjectID="{4CAC06C1-E458-45E5-9D2F-DDFB14D52583}" ClassID="f70b0c3c-7b7b-4e63-8b1e-8e0e6e6b1234">
+    <MasterClipRef ObjectRef="{2AF9D652-C8BE-4B76-963C-2AD69466CAAF}"/>
+    <In>544855937472000</In>
+    <Out>549387328896000</Out>
+    <Start>445868442431999</Start>
+    <End>450399833855999</End>
+  </ClipItem>
+  <MasterClip ObjectID="{B8CA2146-3FA6-4FE6-ACD4-1787189C902E}" ClassID="945b3f14-40f7-4e63-9e81-e37756cd9d5d">
+    <Media>
+      <Video>
+        <FrameRate>60.0</FrameRate>
+        <FrameWidth>1920</FrameWidth>
+        <FrameHeight>1080</FrameHeight>
+      </Video>
+    </Media>
+    <File ObjectID="{99A0E04A-B2EA-4B46-B4FA-FB3B8F35CF09}" ClassID="1d64faf1-9e3e-11d3-9ed1-00600806d7c5">
+      <MediaFilePath>C:/Users/Artem/Videos/Макашенец/МОДНАЯ ПРОПАГАНДА/Копия Keyed-Video_2608311425_0001.mov</MediaFilePath>
+    </File>
+    <ClipIn>555915286079999</ClipIn>
+    <ClipOut>561501859968000</ClipOut>
+  </MasterClip>
+  <ClipItem ObjectID="{AC1EDCDB-5A48-4FF3-938C-7CF1CDC6E5E2}" ClassID="f70b0c3c-7b7b-4e63-8b1e-8e0e6e6b1234">
+    <MasterClipRef ObjectRef="{B8CA2146-3FA6-4FE6-ACD4-1787189C902E}"/>
+    <In>555915286079999</In>
+    <Out>561501859968000</Out>
+    <Start>450907865855999</Start>
+    <End>456494439744000</End>
+  </ClipItem>
+  <MasterClip ObjectID="{D1DC93DE-3F99-45F7-A149-981A562E89DC}" ClassID="945b3f14-40f7-4e63-9e81-e37756cd9d5d">
+    <Media>
+      <Video>
+        <FrameRate>60.0</FrameRate>
+        <FrameWidth>1920</FrameWidth>
+        <FrameHeight>1080</FrameHeight>
+      </Video>
+    </Media>
+    <File ObjectID="{8D589B11-F919-4581-BB08-F319D1F3E0B6}" ClassID="1d64faf1-9e3e-11d3-9ed1-00600806d7c5">
+      <MediaFilePath>C:/Users/Artem/Videos/Макашенец/МОДНАЯ ПРОПАГАНДА/Копия Keyed-Video_2608311425_0001.mov</MediaFilePath>
+    </File>
+    <ClipIn>569788623936000</ClipIn>
+    <ClipOut>579126760128000</ClipOut>
+  </MasterClip>
+  <ClipItem ObjectID="{29CA32FB-F791-4952-B43C-EE932EBC2A44}" ClassID="f70b0c3c-7b7b-4e63-8b1e-8e0e6e6b1234">
+    <MasterClipRef ObjectRef="{D1DC93DE-3F99-45F7-A149-981A562E89DC}"/>
+    <In>569788623936000</In>
+    <Out>579126760128000</Out>
+    <Start>459034599744000</Start>
+    <End>468372735936000</End>
+  </ClipItem>
+  <MasterClip ObjectID="{FDB593E3-2B2E-44BC-81C3-03F40C40140C}" ClassID="945b3f14-40f7-4e63-9e81-e37756cd9d5d">
+    <Media>
+      <Video>
+        <FrameRate>60.0</FrameRate>
+        <FrameWidth>1920</FrameWidth>
+        <FrameHeight>1080</FrameHeight>
+      </Video>
+    </Media>
+    <File ObjectID="{493BEF54-A5B8-47B0-B7F9-9759F681B912}" ClassID="1d64faf1-9e3e-11d3-9ed1-00600806d7c5">
+      <MediaFilePath>C:/Users/Artem/Videos/Макашенец/МОДНАЯ ПРОПАГАНДА/Копия Keyed-Video_2608311425_0001.mov</MediaFilePath>
+    </File>
+    <ClipIn>584482433472000</ClipIn>
+    <ClipOut>588427555968000</ClipOut>
+  </MasterClip>
+  <ClipItem ObjectID="{3BED8F9D-3983-49E5-9218-38CED8D33222}" ClassID="f70b0c3c-7b7b-4e63-8b1e-8e0e6e6b1234">
+    <MasterClipRef ObjectRef="{FDB593E3-2B2E-44BC-81C3-03F40C40140C}"/>
+    <In>584482433472000</In>
+    <Out>588427555968000</Out>
+    <Start>475993215936000</Start>
+    <End>479938338432000</End>
+  </ClipItem>
+  <MasterClip ObjectID="{553983BA-D2EC-41FB-95B9-38C686520A34}" ClassID="945b3f14-40f7-4e63-9e81-e37756cd9d5d">
+    <Media>
+      <Video>
+        <FrameRate>60.0</FrameRate>
+        <FrameWidth>1920</FrameWidth>
+        <FrameHeight>1080</FrameHeight>
+      </Video>
+    </Media>
+    <File ObjectID="{F6D61BE9-0891-4F60-82B1-57CB8CF31C04}" ClassID="1d64faf1-9e3e-11d3-9ed1-00600806d7c5">
+      <MediaFilePath>C:/Users/Artem/Videos/Макашенец/МОДНАЯ ПРОПАГАНДА/Копия Keyed-Video_2608311425_0001.mov</MediaFilePath>
+    </File>
+    <ClipIn>595190223936000</ClipIn>
+    <ClipOut>601831980288000</ClipOut>
+  </MasterClip>
+  <ClipItem ObjectID="{BEF07C12-8EEE-428E-95BF-EFBA972416F1}" ClassID="f70b0c3c-7b7b-4e63-8b1e-8e0e6e6b1234">
+    <MasterClipRef ObjectRef="{553983BA-D2EC-41FB-95B9-38C686520A34}"/>
+    <In>595190223936000</In>
+    <Out>601831980288000</Out>
+    <Start>479938338432000</Start>
+    <End>486580094784000</End>
+  </ClipItem>
+  <MasterClip ObjectID="{5AED2EA5-59CF-47BC-BEA3-55BB03FC08F2}" ClassID="945b3f14-40f7-4e63-9e81-e37756cd9d5d">
+    <Media>
+      <Video>
+        <FrameRate>60.0</FrameRate>
+        <FrameWidth>1920</FrameWidth>
+        <FrameHeight>1080</FrameHeight>
+      </Video>
+    </Media>
+    <File ObjectID="{51ED49EC-CEF2-4E69-B3B7-185C499C7978}" ClassID="1d64faf1-9e3e-11d3-9ed1-00600806d7c5">
+      <MediaFilePath>C:/Users/Artem/Videos/Макашенец/МОДНАЯ ПРОПАГАНДА/Копия Keyed-Video_2608311425_0001.mov</MediaFilePath>
+    </File>
+    <ClipIn>606718486079999</ClipIn>
+    <ClipOut>609374223360000</ClipOut>
+  </MasterClip>
+  <ClipItem ObjectID="{78270A35-A6CF-47D9-BD5C-FA541CB70191}" ClassID="f70b0c3c-7b7b-4e63-8b1e-8e0e6e6b1234">
+    <MasterClipRef ObjectRef="{5AED2EA5-59CF-47BC-BEA3-55BB03FC08F2}"/>
+    <In>606718486079999</In>
+    <Out>609374223360000</Out>
+    <Start>486580094784000</Start>
+    <End>489235832064000</End>
+  </ClipItem>
+  <MasterClip ObjectID="{F86154D5-A2BE-4E10-99E7-E238CB31FB6D}" ClassID="945b3f14-40f7-4e63-9e81-e37756cd9d5d">
+    <Media>
+      <Video>
+        <FrameRate>60.0</FrameRate>
+        <FrameWidth>1920</FrameWidth>
+        <FrameHeight>1080</FrameHeight>
+      </Video>
+    </Media>
+    <File ObjectID="{DE9121E3-E0DA-4C0A-B539-FCDEACB547AA}" ClassID="1d64faf1-9e3e-11d3-9ed1-00600806d7c5">
+      <MediaFilePath>C:/Users/Artem/Videos/Макашенец/МОДНАЯ ПРОПАГАНДА/Копия Keyed-Video_2608311425_0001.mov</MediaFilePath>
+    </File>
+    <ClipIn>615785079168000</ClipIn>
+    <ClipOut>621488754432000</ClipOut>
+  </MasterClip>
+  <ClipItem ObjectID="{2F2366A1-E557-4C94-9FC4-F3ED73DFF105}" ClassID="f70b0c3c-7b7b-4e63-8b1e-8e0e6e6b1234">
+    <MasterClipRef ObjectRef="{F86154D5-A2BE-4E10-99E7-E238CB31FB6D}"/>
+    <In>615785079168000</In>
+    <Out>621488754432000</Out>
+    <Start>489235832064000</Start>
+    <End>494939507328000</End>
+  </ClipItem>
+  <MasterClip ObjectID="{A1473F9F-7B8B-45A6-A437-626B07FA0139}" ClassID="945b3f14-40f7-4e63-9e81-e37756cd9d5d">
+    <Media>
+      <Video>
+        <FrameRate>60.0</FrameRate>
+        <FrameWidth>1920</FrameWidth>
+        <FrameHeight>1080</FrameHeight>
+      </Video>
+    </Media>
+    <File ObjectID="{561A50A7-975D-4988-8F4A-0AEACE595095}" ClassID="1d64faf1-9e3e-11d3-9ed1-00600806d7c5">
+      <MediaFilePath>C:/Users/Artem/Videos/Макашенец/МОДНАЯ ПРОПАГАНДА/Копия Keyed-Video_2608311425_0001.mov</MediaFilePath>
+    </File>
+    <ClipIn>627430696704000</ClipIn>
+    <ClipOut>632782813824000</ClipOut>
+  </MasterClip>
+  <ClipItem ObjectID="{6096C89C-1279-4E6B-8AA4-F6A0D826571A}" ClassID="f70b0c3c-7b7b-4e63-8b1e-8e0e6e6b1234">
+    <MasterClipRef ObjectRef="{A1473F9F-7B8B-45A6-A437-626B07FA0139}"/>
+    <In>627430696704000</In>
+    <Out>632782813824000</Out>
+    <Start>494939507328000</Start>
+    <End>500291624448000</End>
+  </ClipItem>
+  <MasterClip ObjectID="{CB3C8F47-6B12-4039-AC0C-E61841E6ED61}" ClassID="945b3f14-40f7-4e63-9e81-e37756cd9d5d">
+    <Media>
+      <Video>
+        <FrameRate>60.0</FrameRate>
+        <FrameWidth>1920</FrameWidth>
+        <FrameHeight>1080</FrameHeight>
+      </Video>
+    </Media>
+    <File ObjectID="{141EFCA4-9AE9-40CA-80C0-9CA94E306C58}" ClassID="1d64faf1-9e3e-11d3-9ed1-00600806d7c5">
+      <MediaFilePath>C:/Users/Artem/Videos/Макашенец/МОДНАЯ ПРОПАГАНДА/Копия Keyed-Video_2608311425_0001.mov</MediaFilePath>
+    </File>
+    <ClipIn>636848847936000</ClipIn>
+    <ClipOut>637863133824000</ClipOut>
+  </MasterClip>
+  <ClipItem ObjectID="{0237EEE9-ECB9-423E-BF91-0AABA8821F5A}" ClassID="f70b0c3c-7b7b-4e63-8b1e-8e0e6e6b1234">
+    <MasterClipRef ObjectRef="{CB3C8F47-6B12-4039-AC0C-E61841E6ED61}"/>
+    <In>636848847936000</In>
+    <Out>637863133824000</Out>
+    <Start>500291624448000</Start>
+    <End>501305910336000</End>
+  </ClipItem>
+  <MasterClip ObjectID="{29E0240F-EB55-4550-BE75-58DD936D987F}" ClassID="945b3f14-40f7-4e63-9e81-e37756cd9d5d">
+    <Media>
+      <Video>
+        <FrameRate>60.0</FrameRate>
+        <FrameWidth>1920</FrameWidth>
+        <FrameHeight>1080</FrameHeight>
+      </Video>
+    </Media>
+    <File ObjectID="{36D73137-9429-4137-B033-0703B4AE3DC3}" ClassID="1d64faf1-9e3e-11d3-9ed1-00600806d7c5">
+      <MediaFilePath>C:/Users/Artem/Videos/Макашенец/МОДНАЯ ПРОПАГАНДА/Копия Keyed-Video_2608311425_0001.mov</MediaFilePath>
+    </File>
+    <ClipIn>644977359936000</ClipIn>
+    <ClipOut>652791400128000</ClipOut>
+  </MasterClip>
+  <ClipItem ObjectID="{294F0CE2-D027-4FA2-AA21-8BF3458F22EC}" ClassID="f70b0c3c-7b7b-4e63-8b1e-8e0e6e6b1234">
+    <MasterClipRef ObjectRef="{29E0240F-EB55-4550-BE75-58DD936D987F}"/>
+    <In>644977359936000</In>
+    <Out>652791400128000</Out>
+    <Start>504354102336000</Start>
+    <End>512168142528000</End>
+  </ClipItem>
+  <MasterClip ObjectID="{D71D25E1-993F-4DAC-A90B-354FBEEFFDD1}" ClassID="945b3f14-40f7-4e63-9e81-e37756cd9d5d">
+    <Media>
+      <Video>
+        <FrameRate>60.0</FrameRate>
+        <FrameWidth>1920</FrameWidth>
+        <FrameHeight>1080</FrameHeight>
+      </Video>
+    </Media>
+    <File ObjectID="{470CA924-98BB-4605-9A9E-C886E4B8AB01}" ClassID="1d64faf1-9e3e-11d3-9ed1-00600806d7c5">
+      <MediaFilePath>C:/Users/Artem/Videos/Макашенец/МОДНАЯ ПРОПАГАНДА/Копия Keyed-Video_2608311425_0001.mov</MediaFilePath>
+    </File>
+    <ClipIn>658498885632000</ClipIn>
+    <ClipOut>663147378432000</ClipOut>
+  </MasterClip>
+  <ClipItem ObjectID="{3B95EEC3-9D2F-405B-B087-000614FBCBAB}" ClassID="f70b0c3c-7b7b-4e63-8b1e-8e0e6e6b1234">
+    <MasterClipRef ObjectRef="{D71D25E1-993F-4DAC-A90B-354FBEEFFDD1}"/>
+    <In>658498885632000</In>
+    <Out>663147378432000</Out>
+    <Start>512168142528000</Start>
+    <End>516816635328000</End>
+  </ClipItem>
+  <MasterClip ObjectID="{1B2713D3-344A-4618-866B-24E165902E32}" ClassID="945b3f14-40f7-4e63-9e81-e37756cd9d5d">
+    <Media>
+      <Video>
+        <FrameRate>60.0</FrameRate>
+        <FrameWidth>1920</FrameWidth>
+        <FrameHeight>1080</FrameHeight>
+      </Video>
+    </Media>
+    <File ObjectID="{8DD01FC7-9B3D-4B8E-B8D2-B075A1B27D4C}" ClassID="1d64faf1-9e3e-11d3-9ed1-00600806d7c5">
+      <MediaFilePath>C:/Users/Artem/Videos/Макашенец/МОДНАЯ ПРОПАГАНДА/Копия Keyed-Video_2608311425_0001.mov</MediaFilePath>
+    </File>
+    <ClipIn>669910046400000</ClipIn>
+    <ClipOut>675965533824000</ClipOut>
+  </MasterClip>
+  <ClipItem ObjectID="{D98F88DD-B986-4154-9224-3F93D018BED6}" ClassID="f70b0c3c-7b7b-4e63-8b1e-8e0e6e6b1234">
+    <MasterClipRef ObjectRef="{1B2713D3-344A-4618-866B-24E165902E32}"/>
+    <In>669910046400000</In>
+    <Out>675965533824000</Out>
+    <Start>516816635328000</Start>
+    <End>522872122752000</End>
+  </ClipItem>
+  <MasterClip ObjectID="{53A0CD44-76E3-47D1-BA98-BFA471FB0493}" ClassID="945b3f14-40f7-4e63-9e81-e37756cd9d5d">
+    <Media>
+      <Video>
+        <FrameRate>60.0</FrameRate>
+        <FrameWidth>1920</FrameWidth>
+        <FrameHeight>1080</FrameHeight>
+      </Video>
+    </Media>
+    <File ObjectID="{509A96E1-3255-4C62-AEED-0287099B0D5E}" ClassID="1d64faf1-9e3e-11d3-9ed1-00600806d7c5">
+      <MediaFilePath>C:/Users/Artem/Videos/Макашенец/МОДНАЯ ПРОПАГАНДА/Копия Keyed-Video_2608311425_0001.mov</MediaFilePath>
+    </File>
+    <ClipIn>682845303168000</ClipIn>
+    <ClipOut>689369704128000</ClipOut>
+  </MasterClip>
+  <ClipItem ObjectID="{76C00F31-8530-47A2-ACBF-02C9CA2BDD91}" ClassID="f70b0c3c-7b7b-4e63-8b1e-8e0e6e6b1234">
+    <MasterClipRef ObjectRef="{53A0CD44-76E3-47D1-BA98-BFA471FB0493}"/>
+    <In>682845303168000</In>
+    <Out>689369704128000</Out>
+    <Start>522872122752000</Start>
+    <End>529396523712000</End>
+  </ClipItem>
+  <MasterClip ObjectID="{7BD15277-C258-49EF-83D2-D4A1120E816F}" ClassID="945b3f14-40f7-4e63-9e81-e37756cd9d5d">
+    <Media>
+      <Video>
+        <FrameRate>60.0</FrameRate>
+        <FrameWidth>1920</FrameWidth>
+        <FrameHeight>1080</FrameHeight>
+      </Video>
+    </Media>
+    <File ObjectID="{51062827-E4F8-4481-8E86-DCB6909D889E}" ClassID="1d64faf1-9e3e-11d3-9ed1-00600806d7c5">
+      <MediaFilePath>C:/Users/Artem/Videos/Макашенец/МОДНАЯ ПРОПАГАНДА/Копия Keyed-Video_2608311425_0001.mov</MediaFilePath>
+    </File>
+    <ClipIn>694139108543999</ClipIn>
+    <ClipOut>696677490432000</ClipOut>
+  </MasterClip>
+  <ClipItem ObjectID="{BE72DDD6-6B49-47B7-85C7-2E54DDBCFFED}" ClassID="f70b0c3c-7b7b-4e63-8b1e-8e0e6e6b1234">
+    <MasterClipRef ObjectRef="{7BD15277-C258-49EF-83D2-D4A1120E816F}"/>
+    <In>694139108543999</In>
+    <Out>696677490432000</Out>
+    <Start>529396523712000</Start>
+    <End>531934905600000</End>
+  </ClipItem>
+  <MasterClip ObjectID="{718329E9-CE08-45F8-B9D3-5F0252D7B4B7}" ClassID="945b3f14-40f7-4e63-9e81-e37756cd9d5d">
+    <Media>
+      <Video>
+        <FrameRate>60.0</FrameRate>
+        <FrameWidth>1920</FrameWidth>
+        <FrameHeight>1080</FrameHeight>
+      </Video>
+    </Media>
+    <File ObjectID="{56ECAED9-D0A8-4D91-8A37-182701929C1E}" ClassID="1d64faf1-9e3e-11d3-9ed1-00600806d7c5">
+      <MediaFilePath>C:/Users/Artem/Videos/Макашенец/МОДНАЯ ПРОПАГАНДА/Копия Keyed-Video_2608311425_0001.mov</MediaFilePath>
+    </File>
+    <ClipIn>704612442240000</ClipIn>
+    <ClipOut>713599020288000</ClipOut>
+  </MasterClip>
+  <ClipItem ObjectID="{3CE84909-5F03-4C85-B600-719FBE3B1F73}" ClassID="f70b0c3c-7b7b-4e63-8b1e-8e0e6e6b1234">
+    <MasterClipRef ObjectRef="{718329E9-CE08-45F8-B9D3-5F0252D7B4B7}"/>
+    <In>704612442240000</In>
+    <Out>713599020288000</Out>
+    <Start>531934905600000</Start>
+    <End>540921483648000</End>
+  </ClipItem>
+  <MasterClip ObjectID="{3CFBA84D-0490-49F3-9890-633CBB9519EB}" ClassID="945b3f14-40f7-4e63-9e81-e37756cd9d5d">
+    <Media>
+      <Video>
+        <FrameRate>60.0</FrameRate>
+        <FrameWidth>1920</FrameWidth>
+        <FrameHeight>1080</FrameHeight>
+      </Video>
+    </Media>
+    <File ObjectID="{44261F7D-04D4-4149-BC20-44099C6FE2C1}" ClassID="1d64faf1-9e3e-11d3-9ed1-00600806d7c5">
+      <MediaFilePath>C:/Users/Artem/Videos/Макашенец/МОДНАЯ ПРОПАГАНДА/Копия Keyed-Video_2608311425_0001.mov</MediaFilePath>
+    </File>
+    <ClipIn>721416616704000</ClipIn>
+    <ClipOut>730051382592000</ClipOut>
+  </MasterClip>
+  <ClipItem ObjectID="{C9CE43A6-B8D5-4CD5-82D0-4B969B42972B}" ClassID="f70b0c3c-7b7b-4e63-8b1e-8e0e6e6b1234">
+    <MasterClipRef ObjectRef="{3CFBA84D-0490-49F3-9890-633CBB9519EB}"/>
+    <In>721416616704000</In>
+    <Out>730051382592000</Out>
+    <Start>587660427648000</Start>
+    <End>596295193536000</End>
+  </ClipItem>
+  <MasterClip ObjectID="{82AFF0D9-ADD9-4B82-A07F-053E18E4C643}" ClassID="945b3f14-40f7-4e63-9e81-e37756cd9d5d">
+    <Media>
+      <Video>
+        <FrameRate>60.0</FrameRate>
+        <FrameWidth>1920</FrameWidth>
+        <FrameHeight>1080</FrameHeight>
+      </Video>
+    </Media>
+    <File ObjectID="{55726A17-7899-441E-8F03-9BA3DC034D0E}" ClassID="1d64faf1-9e3e-11d3-9ed1-00600806d7c5">
+      <MediaFilePath>C:/Users/Artem/Videos/Макашенец/МОДНАЯ ПРОПАГАНДА/Копия Keyed-Video_2608311425_0001.mov</MediaFilePath>
+    </File>
+    <ClipIn>735524157312000</ClipIn>
+    <ClipOut>739821091968000</ClipOut>
+  </MasterClip>
+  <ClipItem ObjectID="{C8B94A89-786E-4565-9936-59F0396BA993}" ClassID="f70b0c3c-7b7b-4e63-8b1e-8e0e6e6b1234">
+    <MasterClipRef ObjectRef="{82AFF0D9-ADD9-4B82-A07F-053E18E4C643}"/>
+    <In>735524157312000</In>
+    <Out>739821091968000</Out>
+    <Start>664625497536000</Start>
+    <End>668922432192000</End>
+  </ClipItem>
+  <MasterClip ObjectID="{22DFBF8A-7A59-4BE9-BD4A-5EA7808D5886}" ClassID="945b3f14-40f7-4e63-9e81-e37756cd9d5d">
+    <Media>
+      <Video>
+        <FrameRate>60.0</FrameRate>
+        <FrameWidth>1920</FrameWidth>
+        <FrameHeight>1080</FrameHeight>
+      </Video>
+    </Media>
+    <File ObjectID="{BD674AFB-0C0E-4EEF-BA05-9F57B20AF437}" ClassID="1d64faf1-9e3e-11d3-9ed1-00600806d7c5">
+      <MediaFilePath>C:/Users/Artem/Videos/Макашенец/МОДНАЯ ПРОПАГАНДА/Копия Keyed-Video_2608311425_0001.mov</MediaFilePath>
+    </File>
+    <ClipIn>742539063168000</ClipIn>
+    <ClipOut>758442496896000</ClipOut>
+  </MasterClip>
+  <ClipItem ObjectID="{0CABCCFC-827B-4B3C-BAAC-3E79D222F19E}" ClassID="f70b0c3c-7b7b-4e63-8b1e-8e0e6e6b1234">
+    <MasterClipRef ObjectRef="{22DFBF8A-7A59-4BE9-BD4A-5EA7808D5886}"/>
+    <In>742539063168000</In>
+    <Out>758442496896000</Out>
+    <Start>668922432192000</Start>
+    <End>684825865920000</End>
+  </ClipItem>
+  <MasterClip ObjectID="{90576878-F82C-4FF3-A7E1-DC6561C9F629}" ClassID="945b3f14-40f7-4e63-9e81-e37756cd9d5d">
+    <Media>
+      <Video>
+        <FrameRate>60.0</FrameRate>
+        <FrameWidth>1920</FrameWidth>
+        <FrameHeight>1080</FrameHeight>
+      </Video>
+    </Media>
+    <File ObjectID="{A3CF8440-F05F-4F99-98E5-5605D2A1A515}" ClassID="1d64faf1-9e3e-11d3-9ed1-00600806d7c5">
+      <MediaFilePath>C:/Users/Artem/Videos/Макашенец/МОДНАЯ ПРОПАГАНДА/Копия Keyed-Video_2608311425_0001.mov</MediaFilePath>
+    </File>
+    <ClipIn>795511051776000</ClipIn>
+    <ClipOut>797346063360000</ClipOut>
+  </MasterClip>
+  <ClipItem ObjectID="{E5C261AD-5292-4964-8699-684F91CB9782}" ClassID="f70b0c3c-7b7b-4e63-8b1e-8e0e6e6b1234">
+    <MasterClipRef ObjectRef="{90576878-F82C-4FF3-A7E1-DC6561C9F629}"/>
+    <In>795511051776000</In>
+    <Out>797346063360000</Out>
+    <Start>684825865920000</Start>
+    <End>686660877504000</End>
+  </ClipItem>
+  <MasterClip ObjectID="{199EA36A-65E9-40D2-BEE7-FFF1342E6EE6}" ClassID="945b3f14-40f7-4e63-9e81-e37756cd9d5d">
+    <Media>
+      <Video>
+        <FrameRate>60.0</FrameRate>
+        <FrameWidth>1920</FrameWidth>
+        <FrameHeight>1080</FrameHeight>
+      </Video>
+    </Media>
+    <File ObjectID="{0C59F983-306E-4FF5-82C5-6F10393E5B57}" ClassID="1d64faf1-9e3e-11d3-9ed1-00600806d7c5">
+      <MediaFilePath>C:/Users/Artem/Videos/Макашенец/МОДНАЯ ПРОПАГАНДА/Копия Keyed-Video_2608311425_0001.mov</MediaFilePath>
+    </File>
+    <ClipIn>803522462400000</ClipIn>
+    <ClipOut>808288310592000</ClipOut>
+  </MasterClip>
+  <ClipItem ObjectID="{F0EB657C-7DE6-4727-A7A7-D6425A31EE22}" ClassID="f70b0c3c-7b7b-4e63-8b1e-8e0e6e6b1234">
+    <MasterClipRef ObjectRef="{199EA36A-65E9-40D2-BEE7-FFF1342E6EE6}"/>
+    <In>803522462400000</In>
+    <Out>808288310592000</Out>
+    <Start>686660877504000</Start>
+    <End>691426725696000</End>
+  </ClipItem>
+  <MasterClip ObjectID="{233F84F8-E588-4752-B6A0-6CB4FCD2C58F}" ClassID="945b3f14-40f7-4e63-9e81-e37756cd9d5d">
+    <Media>
+      <Video>
+        <FrameRate>60.0</FrameRate>
+        <FrameWidth>1920</FrameWidth>
+        <FrameHeight>1080</FrameHeight>
+      </Video>
+    </Media>
+    <File ObjectID="{608BAAD5-E810-450E-9129-6E7CA81B6849}" ClassID="1d64faf1-9e3e-11d3-9ed1-00600806d7c5">
+      <MediaFilePath>C:/Users/Artem/Videos/Макашенец/МОДНАЯ ПРОПАГАНДА/Копия Keyed-Video_2608311425_0001.mov</MediaFilePath>
+    </File>
+    <ClipIn>811006027776000</ClipIn>
+    <ClipOut>820813331520000</ClipOut>
+  </MasterClip>
+  <ClipItem ObjectID="{644DD235-87EF-49D9-A60E-9C98C245B0B1}" ClassID="f70b0c3c-7b7b-4e63-8b1e-8e0e6e6b1234">
+    <MasterClipRef ObjectRef="{233F84F8-E588-4752-B6A0-6CB4FCD2C58F}"/>
+    <In>811006027776000</In>
+    <Out>820813331520000</Out>
+    <Start>691426725696000</Start>
+    <End>701234029440001</End>
+  </ClipItem>
+  <MasterClip ObjectID="{D2C51D67-7C24-456F-AF74-967B9D31B582}" ClassID="945b3f14-40f7-4e63-9e81-e37756cd9d5d">
+    <Media>
+      <Video>
+        <FrameRate>60.0</FrameRate>
+        <FrameWidth>1920</FrameWidth>
+        <FrameHeight>1080</FrameHeight>
+      </Video>
+    </Media>
+    <File ObjectID="{490EE5E1-8DEF-4A40-AFBF-737ABB219413}" ClassID="1d64faf1-9e3e-11d3-9ed1-00600806d7c5">
+      <MediaFilePath>C:/Users/Artem/Videos/Макашенец/МОДНАЯ ПРОПАГАНДА/Копия Keyed-Video_2608311425_0001.mov</MediaFilePath>
+    </File>
+    <ClipIn>845864897472000</ClipIn>
+    <ClipOut>854030749824000</ClipOut>
+  </MasterClip>
+  <ClipItem ObjectID="{182DAC11-2626-4F62-9F1B-5D87215E9DEC}" ClassID="f70b0c3c-7b7b-4e63-8b1e-8e0e6e6b1234">
+    <MasterClipRef ObjectRef="{D2C51D67-7C24-456F-AF74-967B9D31B582}"/>
+    <In>845864897472000</In>
+    <Out>854030749824000</Out>
+    <Start>701234029440001</Start>
+    <End>709399881792000</End>
+  </ClipItem>
+  <MasterClip ObjectID="{96BA3ABF-856F-4349-B82A-7E728756A9F1}" ClassID="945b3f14-40f7-4e63-9e81-e37756cd9d5d">
+    <Media>
+      <Video>
+        <FrameRate>60.0</FrameRate>
+        <FrameWidth>1920</FrameWidth>
+        <FrameHeight>1080</FrameHeight>
+      </Video>
+    </Media>
+    <File ObjectID="{EC7F086C-3F15-440A-93B2-C49C1ACBCB55}" ClassID="1d64faf1-9e3e-11d3-9ed1-00600806d7c5">
+      <MediaFilePath>C:/Users/Artem/Videos/Макашенец/МОДНАЯ ПРОПАГАНДА/Копия Keyed-Video_2608311425_0001.mov</MediaFilePath>
+    </File>
+    <ClipIn>878789181312000</ClipIn>
+    <ClipOut>886134307968000</ClipOut>
+  </MasterClip>
+  <ClipItem ObjectID="{B3AC4015-268D-4BEC-9BFB-37379F28D806}" ClassID="f70b0c3c-7b7b-4e63-8b1e-8e0e6e6b1234">
+    <MasterClipRef ObjectRef="{96BA3ABF-856F-4349-B82A-7E728756A9F1}"/>
+    <In>878789181312000</In>
+    <Out>886134307968000</Out>
+    <Start>709399881792001</Start>
+    <End>716745008448001</End>
+  </ClipItem>
+  <MasterClip ObjectID="{9AF69C11-05D8-4B7A-A416-8A8298EBDC44}" ClassID="945b3f14-40f7-4e63-9e81-e37756cd9d5d">
+    <Media>
+      <Video>
+        <FrameRate>60.0</FrameRate>
+        <FrameWidth>1920</FrameWidth>
+        <FrameHeight>1080</FrameHeight>
+      </Video>
+    </Media>
+    <File ObjectID="{DC1D3432-069A-4BA0-BDE2-A6381B3F684A}" ClassID="1d64faf1-9e3e-11d3-9ed1-00600806d7c5">
+      <MediaFilePath>C:/Users/Artem/Videos/Макашенец/МОДНАЯ ПРОПАГАНДА/Копия Keyed-Video_2608311425_0001.mov</MediaFilePath>
+    </File>
+    <ClipIn>894889985472000</ClipIn>
+    <ClipOut>905048847360000</ClipOut>
+  </MasterClip>
+  <ClipItem ObjectID="{408F6814-EAA6-4453-833D-7D6B655B7413}" ClassID="f70b0c3c-7b7b-4e63-8b1e-8e0e6e6b1234">
+    <MasterClipRef ObjectRef="{9AF69C11-05D8-4B7A-A416-8A8298EBDC44}"/>
+    <In>894889985472000</In>
+    <Out>905048847360000</Out>
+    <Start>716745008448001</Start>
+    <End>726903870336001</End>
+  </ClipItem>
+  <MasterClip ObjectID="{167373D7-1F0D-4DC1-9289-351F86B7CF50}" ClassID="945b3f14-40f7-4e63-9e81-e37756cd9d5d">
+    <Media>
+      <Video>
+        <FrameRate>60.0</FrameRate>
+        <FrameWidth>1920</FrameWidth>
+        <FrameHeight>1080</FrameHeight>
+      </Video>
+    </Media>
+    <File ObjectID="{724A7060-D98E-4A4E-8475-7C180F74B5CB}" ClassID="1d64faf1-9e3e-11d3-9ed1-00600806d7c5">
+      <MediaFilePath>C:/Users/Artem/Videos/Макашенец/МОДНАЯ ПРОПАГАНДА/Копия Keyed-Video_2608311425_0001.mov</MediaFilePath>
+    </File>
+    <ClipIn>907766564543999</ClipIn>
+    <ClipOut>917104954752000</ClipOut>
+  </MasterClip>
+  <ClipItem ObjectID="{E98BEBA8-7ACE-4CDC-BD44-7358066C1B56}" ClassID="f70b0c3c-7b7b-4e63-8b1e-8e0e6e6b1234">
+    <MasterClipRef ObjectRef="{167373D7-1F0D-4DC1-9289-351F86B7CF50}"/>
+    <In>907766564543999</In>
+    <Out>917104954752000</Out>
+    <Start>726903870336001</Start>
+    <End>736242260544001</End>
+  </ClipItem>
+  <MasterClip ObjectID="{74625B88-D785-4C86-A09D-E36738CC4757}" ClassID="945b3f14-40f7-4e63-9e81-e37756cd9d5d">
+    <Media>
+      <Video>
+        <FrameRate>60.0</FrameRate>
+        <FrameWidth>1920</FrameWidth>
+        <FrameHeight>1080</FrameHeight>
+      </Video>
+    </Media>
+    <File ObjectID="{F977EA50-906D-4E82-AE10-397FD3A6AFE2}" ClassID="1d64faf1-9e3e-11d3-9ed1-00600806d7c5">
+      <MediaFilePath>C:/Users/Artem/Videos/Макашенец/МОДНАЯ ПРОПАГАНДА/Копия Keyed-Video_2608311425_0001.mov</MediaFilePath>
+    </File>
+    <ClipIn>940925559168000</ClipIn>
+    <ClipOut>945808762752000</ClipOut>
+  </MasterClip>
+  <ClipItem ObjectID="{851E0718-1CF6-4B67-B751-8837A93C0F29}" ClassID="f70b0c3c-7b7b-4e63-8b1e-8e0e6e6b1234">
+    <MasterClipRef ObjectRef="{74625B88-D785-4C86-A09D-E36738CC4757}"/>
+    <In>940925559168000</In>
+    <Out>945808762752000</Out>
+    <Start>736242260544001</Start>
+    <End>741125464128001</End>
+  </ClipItem>
+  <MasterClip ObjectID="{F45DB334-BCDB-495D-8004-C82ACDB64002}" ClassID="945b3f14-40f7-4e63-9e81-e37756cd9d5d">
+    <Media>
+      <Video>
+        <FrameRate>60.0</FrameRate>
+        <FrameWidth>1920</FrameWidth>
+        <FrameHeight>1080</FrameHeight>
+      </Video>
+    </Media>
+    <File ObjectID="{478E3445-D72B-4D35-B266-4ED84A8AD690}" ClassID="1d64faf1-9e3e-11d3-9ed1-00600806d7c5">
+      <MediaFilePath>C:/Users/Artem/Videos/Макашенец/МОДНАЯ ПРОПАГАНДА/Копия Keyed-Video_2608311425_0001.mov</MediaFilePath>
+    </File>
+    <ClipIn>953626359168000</ClipIn>
+    <ClipOut>961909312896000</ClipOut>
+  </MasterClip>
+  <ClipItem ObjectID="{586CF85F-C2C4-4354-A2C0-8EC47C0FFC28}" ClassID="f70b0c3c-7b7b-4e63-8b1e-8e0e6e6b1234">
+    <MasterClipRef ObjectRef="{F45DB334-BCDB-495D-8004-C82ACDB64002}"/>
+    <In>953626359168000</In>
+    <Out>961909312896000</Out>
+    <Start>741125464128001</Start>
+    <End>749408417856001</End>
+  </ClipItem>
+  <MasterClip ObjectID="{76A34AD2-C102-4A26-9CC0-57BE2E030267}" ClassID="945b3f14-40f7-4e63-9e81-e37756cd9d5d">
+    <Media>
+      <Video>
+        <FrameRate>60.0</FrameRate>
+        <FrameWidth>1920</FrameWidth>
+        <FrameHeight>1080</FrameHeight>
+      </Video>
+    </Media>
+    <File ObjectID="{ADE50012-F755-4B46-A182-8B7CDD6A35A0}" ClassID="1d64faf1-9e3e-11d3-9ed1-00600806d7c5">
+      <MediaFilePath>C:/Users/Artem/Videos/Макашенец/МОДНАЯ ПРОПАГАНДА/Копия Keyed-Video_2608311425_0001.mov</MediaFilePath>
+    </File>
+    <ClipIn>967382341632000</ClipIn>
+    <ClipOut>971444819520000</ClipOut>
+  </MasterClip>
+  <ClipItem ObjectID="{4D0DF2EA-6F5F-4A54-B024-232791EBF450}" ClassID="f70b0c3c-7b7b-4e63-8b1e-8e0e6e6b1234">
+    <MasterClipRef ObjectRef="{76A34AD2-C102-4A26-9CC0-57BE2E030267}"/>
+    <In>967382341632000</In>
+    <Out>971444819520000</Out>
+    <Start>749408417856001</Start>
+    <End>753470895744001</End>
+  </ClipItem>
+  <MasterClip ObjectID="{428877D6-A514-4D5C-973D-08C6DA5074E1}" ClassID="945b3f14-40f7-4e63-9e81-e37756cd9d5d">
+    <Media>
+      <Video>
+        <FrameRate>60.0</FrameRate>
+        <FrameWidth>1920</FrameWidth>
+        <FrameHeight>1080</FrameHeight>
+      </Video>
+    </Media>
+    <File ObjectID="{679F09DB-B5E3-4B91-BC1A-8A58DC011661}" ClassID="1d64faf1-9e3e-11d3-9ed1-00600806d7c5">
+      <MediaFilePath>C:/Users/Artem/Videos/Макашенец/МОДНАЯ ПРОПАГАНДА/Копия Keyed-Video_2608311425_0001.mov</MediaFilePath>
+    </File>
+    <ClipIn>980786511936000</ClipIn>
+    <ClipOut>992938383360000</ClipOut>
+  </MasterClip>
+  <ClipItem ObjectID="{9EEFCA35-15F8-44ED-BEB6-CE2B58983638}" ClassID="f70b0c3c-7b7b-4e63-8b1e-8e0e6e6b1234">
+    <MasterClipRef ObjectRef="{428877D6-A514-4D5C-973D-08C6DA5074E1}"/>
+    <In>980786511936000</In>
+    <Out>992938383360000</Out>
+    <Start>753470895744001</Start>
+    <End>765622767168001</End>
+  </ClipItem>
+  <MasterClip ObjectID="{3756883B-38B9-41ED-BEA1-629FA264461E}" ClassID="945b3f14-40f7-4e63-9e81-e37756cd9d5d">
+    <Media>
+      <Video>
+        <FrameRate>60.0</FrameRate>
+        <FrameWidth>1920</FrameWidth>
+        <FrameHeight>1080</FrameHeight>
+      </Video>
+    </Media>
+    <File ObjectID="{B351BAC9-34F2-415B-B2EB-EF881003018B}" ClassID="1d64faf1-9e3e-11d3-9ed1-00600806d7c5">
+      <MediaFilePath>C:/Users/Artem/Videos/Макашенец/МОДНАЯ ПРОПАГАНДА/Копия Keyed-Video_2608311425_0001.mov</MediaFilePath>
+    </File>
+    <ClipIn>998411158079999</ClipIn>
+    <ClipOut>1002122077824000</ClipOut>
+  </MasterClip>
+  <ClipItem ObjectID="{D6A41429-EFB9-4F82-A799-F2F4DF8E837D}" ClassID="f70b0c3c-7b7b-4e63-8b1e-8e0e6e6b1234">
+    <MasterClipRef ObjectRef="{3756883B-38B9-41ED-BEA1-629FA264461E}"/>
+    <In>998411158079999</In>
+    <Out>1002122077824000</Out>
+    <Start>765622767168001</Start>
+    <End>769333686912001</End>
+  </ClipItem>
+  <MasterClip ObjectID="{22F31A4D-8AFD-4EF4-A02F-D4B13E175107}" ClassID="945b3f14-40f7-4e63-9e81-e37756cd9d5d">
+    <Media>
+      <Video>
+        <FrameRate>60.0</FrameRate>
+        <FrameWidth>1920</FrameWidth>
+        <FrameHeight>1080</FrameHeight>
+      </Video>
+    </Media>
+    <File ObjectID="{9C065A30-AA9F-4EE3-BC42-66B9E02B79A4}" ClassID="1d64faf1-9e3e-11d3-9ed1-00600806d7c5">
+      <MediaFilePath>C:/Users/Artem/Videos/Макашенец/МОДНАЯ ПРОПАГАНДА/Копия Keyed-Video_2608311425_0001.mov</MediaFilePath>
+    </File>
+    <ClipIn>1007946664704000</ClipIn>
+    <ClipOut>1012946969664000</ClipOut>
+  </MasterClip>
+  <ClipItem ObjectID="{9F02870F-C059-4625-A354-31995C6CC12A}" ClassID="f70b0c3c-7b7b-4e63-8b1e-8e0e6e6b1234">
+    <MasterClipRef ObjectRef="{22F31A4D-8AFD-4EF4-A02F-D4B13E175107}"/>
+    <In>1007946664704000</In>
+    <Out>1012946969664000</Out>
+    <Start>769333686912001</Start>
+    <End>774333991872001</End>
+  </ClipItem>
+  <MasterClip ObjectID="{4E2C5B9A-168E-4EB4-AF3B-6D098EF0975C}" ClassID="945b3f14-40f7-4e63-9e81-e37756cd9d5d">
+    <Media>
+      <Video>
+        <FrameRate>60.0</FrameRate>
+        <FrameWidth>1920</FrameWidth>
+        <FrameHeight>1080</FrameHeight>
+      </Video>
+    </Media>
+    <File ObjectID="{E880CFE7-B7DC-46D7-AAFD-0A487D67A584}" ClassID="1d64faf1-9e3e-11d3-9ed1-00600806d7c5">
+      <MediaFilePath>C:/Users/Artem/Videos/Макашенец/МОДНАЯ ПРОПАГАНДА/Копия Keyed-Video_2608311425_0001.mov</MediaFilePath>
+    </File>
+    <ClipIn>1015664686848000</ClipIn>
+    <ClipOut>1022775610752000</ClipOut>
+  </MasterClip>
+  <ClipItem ObjectID="{52E1390D-48DD-4A09-BE9C-2BBC627B1846}" ClassID="f70b0c3c-7b7b-4e63-8b1e-8e0e6e6b1234">
+    <MasterClipRef ObjectRef="{4E2C5B9A-168E-4EB4-AF3B-6D098EF0975C}"/>
+    <In>1015664686848000</In>
+    <Out>1022775610752000</Out>
+    <Start>774333991872001</Start>
+    <End>781444915776001</End>
+  </ClipItem>
+  <MasterClip ObjectID="{55105432-F57F-4101-8A46-D71093C05849}" ClassID="945b3f14-40f7-4e63-9e81-e37756cd9d5d">
+    <Media>
+      <Video>
+        <FrameRate>60.0</FrameRate>
+        <FrameWidth>1920</FrameWidth>
+        <FrameHeight>1080</FrameHeight>
+      </Video>
+    </Media>
+    <File ObjectID="{8F217C41-1AC3-428D-86B9-789EF30E832E}" ClassID="1d64faf1-9e3e-11d3-9ed1-00600806d7c5">
+      <MediaFilePath>C:/Users/Artem/Videos/Макашенец/МОДНАЯ ПРОПАГАНДА/Копия Keyed-Video_2608311425_0001.mov</MediaFilePath>
+    </File>
+    <ClipIn>1047885854400000</ClipIn>
+    <ClipOut>1061092908288000</ClipOut>
+  </MasterClip>
+  <ClipItem ObjectID="{FCBB15ED-0096-4D9F-B697-8AEEFA79734F}" ClassID="f70b0c3c-7b7b-4e63-8b1e-8e0e6e6b1234">
+    <MasterClipRef ObjectRef="{55105432-F57F-4101-8A46-D71093C05849}"/>
+    <In>1047885854400000</In>
+    <Out>1061092908288000</Out>
+    <Start>781444915776001</Start>
+    <End>794651969664001</End>
+  </ClipItem>
+  <MasterClip ObjectID="{2C2A2600-6468-41FA-9243-F22BB7371960}" ClassID="945b3f14-40f7-4e63-9e81-e37756cd9d5d">
+    <Media>
+      <Video>
+        <FrameRate>60.0</FrameRate>
+        <FrameWidth>1920</FrameWidth>
+        <FrameHeight>1080</FrameHeight>
+      </Video>
+    </Media>
+    <File ObjectID="{7286E731-81C3-4A02-AFCB-DE7DFA2D2901}" ClassID="1d64faf1-9e3e-11d3-9ed1-00600806d7c5">
+      <MediaFilePath>C:/Users/Artem/Videos/Макашенец/МОДНАЯ ПРОПАГАНДА/Копия Keyed-Video_2608311425_0001.mov</MediaFilePath>
+    </File>
+    <ClipIn>1067034596544000</ClipIn>
+    <ClipOut>1071683343360000</ClipOut>
+  </MasterClip>
+  <ClipItem ObjectID="{B4FE5811-80DD-4968-9D54-045FF968A1EB}" ClassID="f70b0c3c-7b7b-4e63-8b1e-8e0e6e6b1234">
+    <MasterClipRef ObjectRef="{2C2A2600-6468-41FA-9243-F22BB7371960}"/>
+    <In>1067034596544000</In>
+    <Out>1071683343360000</Out>
+    <Start>794651969664001</Start>
+    <End>799300716480001</End>
+  </ClipItem>
+  <MasterClip ObjectID="{D579856C-6E2B-4C3D-AA63-A540F13A756D}" ClassID="945b3f14-40f7-4e63-9e81-e37756cd9d5d">
+    <Media>
+      <Video>
+        <FrameRate>60.0</FrameRate>
+        <FrameWidth>1920</FrameWidth>
+        <FrameHeight>1080</FrameHeight>
+      </Video>
+    </Media>
+    <File ObjectID="{CFE9FF5C-2835-4402-BBB9-1E37E67FBF44}" ClassID="1d64faf1-9e3e-11d3-9ed1-00600806d7c5">
+      <MediaFilePath>C:/Users/Artem/Videos/Макашенец/МОДНАЯ ПРОПАГАНДА/Копия Keyed-Video_2608311425_0001.mov</MediaFilePath>
+    </File>
+    <ClipIn>1074401060544000</ClipIn>
+    <ClipOut>1084442821056000</ClipOut>
+  </MasterClip>
+  <ClipItem ObjectID="{2DF7F8DC-AFC4-4449-91E7-67ACE5458021}" ClassID="f70b0c3c-7b7b-4e63-8b1e-8e0e6e6b1234">
+    <MasterClipRef ObjectRef="{D579856C-6E2B-4C3D-AA63-A540F13A756D}"/>
+    <In>1074401060544000</In>
+    <Out>1084442821056000</Out>
+    <Start>799300716480001</Start>
+    <End>809342476992001</End>
+  </ClipItem>
+  <MasterClip ObjectID="{C71F7BE0-4E3D-472C-A71A-A1D8EB3831A0}" ClassID="945b3f14-40f7-4e63-9e81-e37756cd9d5d">
+    <Media>
+      <Video>
+        <FrameRate>60.0</FrameRate>
+        <FrameWidth>1920</FrameWidth>
+        <FrameHeight>1080</FrameHeight>
+      </Video>
+    </Media>
+    <File ObjectID="{BA449C41-BE06-4719-BB5C-EF5A41F26BE2}" ClassID="1d64faf1-9e3e-11d3-9ed1-00600806d7c5">
+      <MediaFilePath>C:/Users/Artem/Videos/Макашенец/МОДНАЯ ПРОПАГАНДА/Копия Keyed-Video_2608311425_0001.mov</MediaFilePath>
+    </File>
+    <ClipIn>1115063179776000</ClipIn>
+    <ClipOut>1129208314752000</ClipOut>
+  </MasterClip>
+  <ClipItem ObjectID="{F1B6213B-6308-4EC6-B2D1-9473C497AD0A}" ClassID="f70b0c3c-7b7b-4e63-8b1e-8e0e6e6b1234">
+    <MasterClipRef ObjectRef="{C71F7BE0-4E3D-472C-A71A-A1D8EB3831A0}"/>
+    <In>1115063179776000</In>
+    <Out>1129208314752000</Out>
+    <Start>809342476992001</Start>
+    <End>823487611968001</End>
+  </ClipItem>
+  <MasterClip ObjectID="{B15D5A0E-895D-4ECC-B0F2-53BA3B6FEB8A}" ClassID="945b3f14-40f7-4e63-9e81-e37756cd9d5d">
+    <Media>
+      <Video>
+        <FrameRate>60.0</FrameRate>
+        <FrameWidth>1920</FrameWidth>
+        <FrameHeight>1080</FrameHeight>
+      </Video>
+    </Media>
+    <File ObjectID="{BCE624FD-D8F9-4DC6-8BF8-4488D418B3A3}" ClassID="1d64faf1-9e3e-11d3-9ed1-00600806d7c5">
+      <MediaFilePath>C:/Users/Artem/Videos/Макашенец/МОДНАЯ ПРОПАГАНДА/Копия Keyed-Video_2608311425_0001.mov</MediaFilePath>
+    </File>
+    <ClipIn>1135618916544000</ClipIn>
+    <ClipOut>1142026216128000</ClipOut>
+  </MasterClip>
+  <ClipItem ObjectID="{4A594A5D-F1AF-404C-8F49-89E5375B5B65}" ClassID="f70b0c3c-7b7b-4e63-8b1e-8e0e6e6b1234">
+    <MasterClipRef ObjectRef="{B15D5A0E-895D-4ECC-B0F2-53BA3B6FEB8A}"/>
+    <In>1135618916544000</In>
+    <Out>1142026216128000</Out>
+    <Start>823487611968001</Start>
+    <End>829894911552001</End>
+  </ClipItem>
+  <Marker ObjectID="{B7C28FD9-8786-4E83-A03F-BEA31AD2F3CF}" ClassID="b3b3b3b3-b3b3-b3b3-b3b3-b3b3b3b3b3b3">
+    <In>12151871424000</In>
+    <Name/>
+    <Comment>ЛАЙВ | https://www.youtube.com/watch?v=Tm0L6YP6w | 0:20—0:51</Comment>
+    <Type>0</Type>
+  </Marker>
+  <Marker ObjectID="{DBFD4BC2-6BAF-4B6E-BF38-4EB9799388E7}" ClassID="b3b3b3b3-b3b3-b3b3-b3b3-b3b3b3b3b3b3">
+    <In>25964753471999</In>
+    <Name/>
+    <Comment>ЛАЙВ | https://www.youtube.com/watch?v=Tm0L6YP6w | 1:25—1:54</Comment>
+    <Type>0</Type>
+  </Marker>
+  <Marker ObjectID="{237F18FB-7A7B-45F3-AF2A-ACE3E88C0ED5}" ClassID="b3b3b3b3-b3b3-b3b3-b3b3-b3b3b3b3b3b3">
+    <In>33331217471999</In>
+    <Name/>
+    <Comment>ЛАЙВ | http://kremlin.ru/events/president/news/69390 | 9:30—9:50</Comment>
+    <Type>0</Type>
+  </Marker>
+  <Marker ObjectID="{8A0250F7-5758-4050-B9FA-ACA996E39B73}" ClassID="b3b3b3b3-b3b3-b3b3-b3b3-b3b3b3b3b3b3">
+    <In>45287750591999</In>
+    <Name/>
+    <Comment>ЛАЙВ | https://www.youtube.com/watch?v=Tm0L6YP6w | 5:40—6:02</Comment>
+    <Type>0</Type>
+  </Marker>
+  <Marker ObjectID="{8C996E61-6C99-4DC8-8326-DD44D5FE3293}" ClassID="b3b3b3b3-b3b3-b3b3-b3b3-b3b3b3b3b3b3">
+    <In>55993762943999</In>
+    <Name/>
+    <Comment>ЛАЙВ | https://www.youtube.com/watch?v=PuKuothgmT8</Comment>
+    <Type>0</Type>
+  </Marker>
+  <Marker ObjectID="{F81D2533-7FE3-435A-BDDF-D9FA9880335F}" ClassID="b3b3b3b3-b3b3-b3b3-b3b3-b3b3b3b3b3b3">
+    <In>59001312383999</In>
+    <Name/>
+    <Comment>ЛАЙВ | https://www.youtube.com/watch?v=Tm0L6YP6w | 8:39—9:07</Comment>
+    <Type>0</Type>
+  </Marker>
+  <Marker ObjectID="{B10E353A-CE3A-430E-8725-6CBDB40E6CE3}" ClassID="b3b3b3b3-b3b3-b3b3-b3b3-b3b3b3b3b3b3">
+    <In>78265631807999</In>
+    <Name/>
+    <Comment>ЛАЙВ | https://www.youtube.com/watch?v=Tm0L6YP6w | 9:33—9:40</Comment>
+    <Type>0</Type>
+  </Marker>
+  <Marker ObjectID="{E8FDC142-E064-4960-8F53-638958244A22}" ClassID="b3b3b3b3-b3b3-b3b3-b3b3-b3b3b3b3b3b3">
+    <In>82699481087999</In>
+    <Name/>
+    <Comment>ЛАЙВ | https://www.youtube.com/watch?v=Tm0L6YP6w</Comment>
+    <Type>0</Type>
+  </Marker>
+  <Marker ObjectID="{A16188AB-5F6D-42DA-A2B3-E1F29F61A5D3}" ClassID="b3b3b3b3-b3b3-b3b3-b3b3-b3b3b3b3b3b3">
+    <In>89810150976000</In>
+    <Name/>
+    <Comment>ЛАЙВ | https://www.youtube.com/watch?v=Tm0L6YP6w</Comment>
+    <Type>0</Type>
+  </Marker>
+  <Marker ObjectID="{674C4927-F4D5-492D-9889-F1C026DEB962}" ClassID="b3b3b3b3-b3b3-b3b3-b3b3-b3b3b3b3b3b3">
+    <In>93755273472000</In>
+    <Name/>
+    <Comment>ЛАЙВ | https://www.</Comment>
+    <Type>0</Type>
+  </Marker>
+  <Marker ObjectID="{8B356907-04E9-4048-AD09-4062FE27F8B7}" ClassID="b3b3b3b3-b3b3-b3b3-b3b3-b3b3b3b3b3b3">
+    <In>98638477056000</In>
+    <Name/>
+    <Comment>ЛАЙВ | http://kremlin.ru/events/president/news/50971 | 2:06—6:20</Comment>
+    <Type>0</Type>
+  </Marker>
+  <Marker ObjectID="{721C19A7-B142-49FF-857D-CCD5C366CAF5}" ClassID="b3b3b3b3-b3b3-b3b3-b3b3-b3b3b3b3b3b3">
+    <In>185469274368000</In>
+    <Name/>
+    <Comment>ЛАЙВ | https://www.youtube.com/watch?v=Tm0L6YP6w</Comment>
+    <Type>0</Type>
+  </Marker>
+  <Marker ObjectID="{1AB35B3E-5258-4074-B491-310BB74B4B38}" ClassID="b3b3b3b3-b3b3-b3b3-b3b3-b3b3b3b3b3b3">
+    <In>194338497024000</In>
+    <Name/>
+    <Comment>ЛАЙВ | http://kremlin.ru/events/president/news/78632 | 9:15—9:22</Comment>
+    <Type>0</Type>
+  </Marker>
+  <Marker ObjectID="{A58715C1-1232-40D8-AC0D-C1E8567C06BD}" ClassID="b3b3b3b3-b3b3-b3b3-b3b3-b3b3b3b3b3b3">
+    <In>204751374912000</In>
+    <Name/>
+    <Comment>ЛАЙВ | https://www.youtube.com/watch?v=Tm0L6YP6w | 0:21—0:28</Comment>
+    <Type>0</Type>
+  </Marker>
+  <Marker ObjectID="{476A5BD4-E97A-4CC8-8ED0-FD0DD883AAFB}" ClassID="b3b3b3b3-b3b3-b3b3-b3b3-b3b3b3b3b3b3">
+    <In>213640156800000</In>
+    <Name/>
+    <Comment>ЛАЙВ | https://www.youtube.com/watch?v=AUUVyAs-ARg | 0:10—0:22</Comment>
+    <Type>0</Type>
+  </Marker>
+  <Marker ObjectID="{63081114-0D1B-4E09-995B-DD74E9084B7A}" ClassID="b3b3b3b3-b3b3-b3b3-b3b3-b3b3b3b3b3b3">
+    <In>220164557760000</In>
+    <Name/>
+    <Comment>ЛАЙВ | https://www.youtube.com/watch?v=AUUVyAs-ARg | 1:06—1:14</Comment>
+    <Type>0</Type>
+  </Marker>
+  <Marker ObjectID="{613DA773-042E-4193-ACDD-20A40324D55E}" ClassID="b3b3b3b3-b3b3-b3b3-b3b3-b3b3b3b3b3b3">
+    <In>220164557760000</In>
+    <Name/>
+    <Comment>ЛАЙВ | https://www.youtube.com/watch?v=AUUVyAs-ARg | 1:20—1:31</Comment>
+    <Type>0</Type>
+  </Marker>
+  <Marker ObjectID="{81BF9056-54E4-4117-9755-3FA5712BC5C4}" ClassID="b3b3b3b3-b3b3-b3b3-b3b3-b3b3b3b3b3b3">
+    <In>233860084416000</In>
+    <Name/>
+    <Comment>ЛАЙВ | https://www.youtube.com/watch?v=AUUVyAs-ARg | 1:40—1:59</Comment>
+    <Type>0</Type>
+  </Marker>
+  <Marker ObjectID="{5CA3098D-A898-4999-BECD-19D4DC312B00}" ClassID="b3b3b3b3-b3b3-b3b3-b3b3-b3b3b3b3b3b3">
+    <In>239935385088000</In>
+    <Name/>
+    <Comment>ЛАЙВ | https://www.youtube.com/watch?v=DKMTD1I0gr4</Comment>
+    <Type>0</Type>
+  </Marker>
+  <Marker ObjectID="{09EA00F1-ACD8-4273-92DB-E4355D300B5E}" ClassID="b3b3b3b3-b3b3-b3b3-b3b3-b3b3b3b3b3b3">
+    <In>243646050816000</In>
+    <Name/>
+    <Comment>ЛАЙВ | https://www.youtube.com/watch?v=AUUVyAs-ARg | 8:28—9:11</Comment>
+    <Type>0</Type>
+  </Marker>
+  <Marker ObjectID="{1898E8C3-A4FE-4712-BA22-F8DD3C67207F}" ClassID="b3b3b3b3-b3b3-b3b3-b3b3-b3b3b3b3b3b3">
+    <In>261679408704000</In>
+    <Name/>
+    <Comment>ЛАЙВ | https://t.me/bazabazon/22579</Comment>
+    <Type>0</Type>
+  </Marker>
+  <Marker ObjectID="{C8E1675D-672E-4BDB-848B-D86BB08BBEC6}" ClassID="b3b3b3b3-b3b3-b3b3-b3b3-b3b3b3b3b3b3">
+    <In>265859241984000</In>
+    <Name/>
+    <Comment>ЛАЙВ | https://www.youtube.com/watch?v=AUUVyAs-ARg | 9:22—9:36</Comment>
+    <Type>0</Type>
+  </Marker>
+  <Marker ObjectID="{C1E84C0B-C607-4D30-B2AE-8918D208C68D}" ClassID="b3b3b3b3-b3b3-b3b3-b3b3-b3b3b3b3b3b3">
+    <In>280043241408000</In>
+    <Name/>
+    <Comment>ЛАЙВ | https://www.youtube.com/watch?v=AUUVyAs-ARg | 3:14—3:40</Comment>
+    <Type>0</Type>
+  </Marker>
+  <Marker ObjectID="{15E10024-9799-47F6-BBBB-BBF8F2B342C4}" ClassID="b3b3b3b3-b3b3-b3b3-b3b3-b3b3b3b3b3b3">
+    <In>289420750080000</In>
+    <Name/>
+    <Comment>ЛАЙВ | https://www.[youtube.com/watch?v=AUUVyAs-ARg</Comment>
+    <Type>0</Type>
+  </Marker>
+  <Marker ObjectID="{7BBBEC8C-1C54-4E07-B979-325F5D055E41}" ClassID="b3b3b3b3-b3b3-b3b3-b3b3-b3b3b3b3b3b3">
+    <In>289420750080000</In>
+    <Name/>
+    <Comment>ЛАЙВ | https://www.[youtube.com/watch?v=AUUVyAs-ARg</Comment>
+    <Type>0</Type>
+  </Marker>
+  <Marker ObjectID="{3ED0B149-6739-4F82-B340-5EEB3F9D4525}" ClassID="b3b3b3b3-b3b3-b3b3-b3b3-b3b3b3b3b3b3">
+    <In>293717684735999</In>
+    <Name/>
+    <Comment>ЛАЙВ | https://www.youtube.com/watch?v=V80WPXBktzo</Comment>
+    <Type>0</Type>
+  </Marker>
+  <Marker ObjectID="{5D1ADF61-E063-4752-9B10-8A8622F14FB9}" ClassID="b3b3b3b3-b3b3-b3b3-b3b3-b3b3b3b3b3b3">
+    <In>295552696319999</In>
+    <Name/>
+    <Comment>ЛАЙВ | https://www.</Comment>
+    <Type>0</Type>
+  </Marker>
+  <Marker ObjectID="{291D87B8-5E20-4DD3-A2A2-12D8AB6FAF09}" ClassID="b3b3b3b3-b3b3-b3b3-b3b3-b3b3b3b3b3b3">
+    <In>304421918975999</In>
+    <Name/>
+    <Comment>ЛАЙВ | https://www.</Comment>
+    <Type>0</Type>
+  </Marker>
+  <Marker ObjectID="{D44C60CB-33D5-4BD2-9EC1-EC868E409AB6}" ClassID="b3b3b3b3-b3b3-b3b3-b3b3-b3b3b3b3b3b3">
+    <In>305905118399999</In>
+    <Name/>
+    <Comment>ЛАЙВ | https://www.youtube.com/watch?v=kOWXvxDOxk8</Comment>
+    <Type>0</Type>
+  </Marker>
+  <Marker ObjectID="{83C738A4-B15E-4104-8EB2-108C452BF215}" ClassID="b3b3b3b3-b3b3-b3b3-b3b3-b3b3b3b3b3b3">
+    <In>310788321983999</In>
+    <Name/>
+    <Comment>ЛАЙВ | https://www.</Comment>
+    <Type>0</Type>
+  </Marker>
+  <Marker ObjectID="{4CB8C8EB-8064-42D3-A7F7-9FF7B7D472FE}" ClassID="b3b3b3b3-b3b3-b3b3-b3b3-b3b3b3b3b3b3">
+    <In>313561160639999</In>
+    <Name/>
+    <Comment>ЛАЙВ | https://www.youtube.com/watch?v=AUUVyAs-ARg</Comment>
+    <Type>0</Type>
+  </Marker>
+  <Marker ObjectID="{91DE4681-97C1-467F-AC3D-2A9070B70B3D}" ClassID="b3b3b3b3-b3b3-b3b3-b3b3-b3b3b3b3b3b3">
+    <In>318796176383999</In>
+    <Name/>
+    <Comment>ЛАЙВ | https://smotrim.ru/brand/65238 | 1:34—4:35</Comment>
+    <Type>0</Type>
+  </Marker>
+  <Marker ObjectID="{1A2D1D8E-22C9-47CB-8053-478A33CBE86C}" ClassID="b3b3b3b3-b3b3-b3b3-b3b3-b3b3b3b3b3b3">
+    <In>372352655807999</In>
+    <Name/>
+    <Comment>ЛАЙВ | https://www.youtube.com/watch?v=AUUVyAs-ARg | 0:31—0:50</Comment>
+    <Type>0</Type>
+  </Marker>
+  <Marker ObjectID="{CA6114D5-3865-4020-8C7D-04B797F575C5}" ClassID="b3b3b3b3-b3b3-b3b3-b3b3-b3b3b3b3b3b3">
+    <In>377178959807999</In>
+    <Name/>
+    <Comment>ЛАЙВ | https://www.youtube.com/watch?v=Tm0L6YP6w | 7:00—7:12</Comment>
+    <Type>0</Type>
+  </Marker>
+  <Marker ObjectID="{54A58FF5-BC1A-4B61-AD34-50111122CAFF}" ClassID="b3b3b3b3-b3b3-b3b3-b3b3-b3b3b3b3b3b3">
+    <In>389917100159999</In>
+    <Name/>
+    <Comment>ЛАЙВ | https://www.youtube.com/watch?v=ETwYGGK3sW8 | 0:56—1:19</Comment>
+    <Type>0</Type>
+  </Marker>
+  <Marker ObjectID="{E25D0725-F5AA-46E0-B690-6997591C7609}" ClassID="b3b3b3b3-b3b3-b3b3-b3b3-b3b3b3b3b3b3">
+    <In>400877128511999</In>
+    <Name/>
+    <Comment>ЛАЙВ | https://www.youtube.com/watch?v=xKo8uHegb5k | 4:06—4:30</Comment>
+    <Type>0</Type>
+  </Marker>
+  <Marker ObjectID="{F86789AE-C095-4618-BD58-3CC742205531}" ClassID="b3b3b3b3-b3b3-b3b3-b3b3-b3b3b3b3b3b3">
+    <In>418070201471999</In>
+    <Name/>
+    <Comment>ЛАЙВ | https://www.youtube.com/watch?v=3tnT2V0gyLU | 2:35—2:39</Comment>
+    <Type>0</Type>
+  </Marker>
+  <Marker ObjectID="{207FAB20-0E28-4F3B-BF80-F4D2EFC21D76}" ClassID="b3b3b3b3-b3b3-b3b3-b3b3-b3b3b3b3b3b3">
+    <In>423500555519999</In>
+    <Name/>
+    <Comment>ЛАЙВ | https://www.instagram.com/reel/Db8HyWVMM0E/ | 0:00—0:10</Comment>
+    <Type>0</Type>
+  </Marker>
+  <Marker ObjectID="{09B44F5B-5585-4F9A-AFBA-88C23E6E65EB}" ClassID="b3b3b3b3-b3b3-b3b3-b3b3-b3b3b3b3b3b3">
+    <In>426040715519999</In>
+    <Name/>
+    <Comment>ЛАЙВ | https://www.tiktok.com/@frontrowside/video/7564746347283483927 | 0:00—0:14</Comment>
+    <Type>0</Type>
+  </Marker>
+  <Marker ObjectID="{30B09355-4C9E-49A3-B111-DB306D76DB3E}" ClassID="b3b3b3b3-b3b3-b3b3-b3b3-b3b3b3b3b3b3">
+    <In>431666407871999</In>
+    <Name/>
+    <Comment>ЛАЙВ | https://xn--b1aedk0adbpf1i.xn--p1ai/interview | 0:07—0:17</Comment>
+    <Type>0</Type>
+  </Marker>
+  <Marker ObjectID="{68DDACA1-67BF-4499-8995-6393BBBFF8EB}" ClassID="b3b3b3b3-b3b3-b3b3-b3b3-b3b3b3b3b3b3">
+    <In>439207126847999</In>
+    <Name/>
+    <Comment>ЛАЙВ | https://xn--b1aedk0adbpf1i.xn--p1ai/interview</Comment>
+    <Type>0</Type>
+  </Marker>
+  <Marker ObjectID="{23A60B28-4519-41E2-81B2-78265E1B6EEF}" ClassID="b3b3b3b3-b3b3-b3b3-b3b3-b3b3b3b3b3b3">
+    <In>444090330431999</In>
+    <Name/>
+    <Comment>ЛАЙВ | https://aeb25bef-e00a-4dc2-8de9-d3e317ab7aac.selstorage.ru/files/civileva</Comment>
+    <Type>0</Type>
+  </Marker>
+  <Marker ObjectID="{47BA748A-9D91-42D7-9508-44474DEE4064}" ClassID="b3b3b3b3-b3b3-b3b3-b3b3-b3b3b3b3b3b3">
+    <In>444090330431999</In>
+    <Name/>
+    <Comment>ЛАЙВ | https://aeb25bef-e00a-4dc2-8de9-d3e317ab7aac.selstorage.ru/files/podguzova | 0:55—1:02</Comment>
+    <Type>0</Type>
+  </Marker>
+  <Marker ObjectID="{DB80A0A8-6B4A-4C92-9C6F-C78ADB0C76F7}" ClassID="b3b3b3b3-b3b3-b3b3-b3b3-b3b3b3b3b3b3">
+    <In>450399833855999</In>
+    <Name/>
+    <Comment>ЛАЙВ | https://xn--b1aedk0adbpf1i.xn--p1ai/interview | 3:45—3:47</Comment>
+    <Type>0</Type>
+  </Marker>
+  <Marker ObjectID="{DC3C46A7-DA95-4639-B3BE-ACD019B7DCEB}" ClassID="b3b3b3b3-b3b3-b3b3-b3b3-b3b3b3b3b3b3">
+    <In>456494439744000</In>
+    <Name/>
+    <Comment>ЛАЙВ | https://www.instagram.com/reel/DbF07H9MZUd/ | 0:00—0:10</Comment>
+    <Type>0</Type>
+  </Marker>
+  <Marker ObjectID="{D38F3788-F922-4150-8BDD-54FADC00CFFB}" ClassID="b3b3b3b3-b3b3-b3b3-b3b3-b3b3b3b3b3b3">
+    <In>468372735936000</In>
+    <Name/>
+    <Comment>ЛАЙВ | https://vkvideo.ru/video-220147210 | 0:00—0:30</Comment>
+    <Type>0</Type>
+  </Marker>
+  <Marker ObjectID="{855B86BA-FE96-4B08-85A8-5973986C3DC3}" ClassID="b3b3b3b3-b3b3-b3b3-b3b3-b3b3b3b3b3b3">
+    <In>479938338432000</In>
+    <Name/>
+    <Comment>ЛАЙВ | https://vkvideo.ru/video-220147210</Comment>
+    <Type>0</Type>
+  </Marker>
+  <Marker ObjectID="{EBA2C977-85B3-4339-9B61-5A7C0F45199A}" ClassID="b3b3b3b3-b3b3-b3b3-b3b3-b3b3b3b3b3b3">
+    <In>486580094784000</In>
+    <Name/>
+    <Comment>ЛАЙВ | https://rutube.ru/video/1f75f0b2d3dceed52e9817bce77e1e8b/</Comment>
+    <Type>0</Type>
+  </Marker>
+  <Marker ObjectID="{107FE62D-BE39-4826-B628-6C4CA53AFD34}" ClassID="b3b3b3b3-b3b3-b3b3-b3b3-b3b3b3b3b3b3">
+    <In>489235832064000</In>
+    <Name/>
+    <Comment>ЛАЙВ | https://rutube.ru/video/1f75f0b2d3dceed52e9817bce77e1e8b/</Comment>
+    <Type>0</Type>
+  </Marker>
+  <Marker ObjectID="{3F9E0588-AA20-4C98-AAD9-7E6005EE9250}" ClassID="b3b3b3b3-b3b3-b3b3-b3b3-b3b3b3b3b3b3">
+    <In>494939507328000</In>
+    <Name/>
+    <Comment>ЛАЙВ | https://www.youtube.com/watch?v=y58OrQA-FZM</Comment>
+    <Type>0</Type>
+  </Marker>
+  <Marker ObjectID="{F2B13546-A929-408C-BDA2-89AFC7406870}" ClassID="b3b3b3b3-b3b3-b3b3-b3b3-b3b3b3b3b3b3">
+    <In>501305910336000</In>
+    <Name/>
+    <Comment>ЛАЙВ | https://www.youtube.com/watch?v=ZGBCPbsZuds | 3:37—3:49</Comment>
+    <Type>0</Type>
+  </Marker>
+  <Marker ObjectID="{19B23385-6A01-47DC-BDD7-3075DD05D163}" ClassID="b3b3b3b3-b3b3-b3b3-b3b3-b3b3b3b3b3b3">
+    <In>512168142528000</In>
+    <Name/>
+    <Comment>ЛАЙВ | https://www.youtube.com/watch?v=ZGBCPbsZuds</Comment>
+    <Type>0</Type>
+  </Marker>
+  <Marker ObjectID="{CFE7A4A5-7473-4D1C-9C09-419BDE195F6E}" ClassID="b3b3b3b3-b3b3-b3b3-b3b3-b3b3b3b3b3b3">
+    <In>516816635328000</In>
+    <Name/>
+    <Comment>ЛАЙВ | https://www.youtube.com/shorts/ynADzU1eOiM</Comment>
+    <Type>0</Type>
+  </Marker>
+  <Marker ObjectID="{92653D9C-1874-4953-89B0-C787A023415B}" ClassID="b3b3b3b3-b3b3-b3b3-b3b3-b3b3b3b3b3b3">
+    <In>516816635328000</In>
+    <Name/>
+    <Comment>ЛАЙВ | None</Comment>
+    <Type>0</Type>
+  </Marker>
+  <Marker ObjectID="{6C2FEC76-58A1-4991-8FE0-DA53157DC86D}" ClassID="b3b3b3b3-b3b3-b3b3-b3b3-b3b3b3b3b3b3">
+    <In>522872122752000</In>
+    <Name/>
+    <Comment>ЛАЙВ | https://www.youtube.com/watch?v=ZGBCPbsZuds</Comment>
+    <Type>0</Type>
+  </Marker>
+  <Marker ObjectID="{C39CD68F-6FD3-4316-9088-2B5675DD2C9B}" ClassID="b3b3b3b3-b3b3-b3b3-b3b3-b3b3b3b3b3b3">
+    <In>529396523712000</In>
+    <Name/>
+    <Comment>ЛАЙВ | https://www.youtube.com/watch?v=ZGBCPbsZuds</Comment>
+    <Type>0</Type>
+  </Marker>
+  <Marker ObjectID="{246F8D8D-55C7-4A91-A132-25184D24A240}" ClassID="b3b3b3b3-b3b3-b3b3-b3b3-b3b3b3b3b3b3">
+    <In>531934905600000</In>
+    <Name/>
+    <Comment>ЛАЙВ | https://www.youtube.com/watch?v=ZGBCPbsZuds</Comment>
+    <Type>0</Type>
+  </Marker>
+  <Marker ObjectID="{0A4D10E5-167C-4596-B4E2-058E44CDA58E}" ClassID="b3b3b3b3-b3b3-b3b3-b3b3-b3b3b3b3b3b3">
+    <In>540921483648000</In>
+    <Name/>
+    <Comment>ЛАЙВ | https://www.youtube.com/watch?v=ZGBCPbsZuds | 1:03—4:07</Comment>
+    <Type>0</Type>
+  </Marker>
+  <Marker ObjectID="{EDC1CE3D-E752-4D19-A1C8-AFC38AE5B617}" ClassID="b3b3b3b3-b3b3-b3b3-b3b3-b3b3b3b3b3b3">
+    <In>596295193536000</In>
+    <Name/>
+    <Comment>ЛАЙВ | https://www.youtube.com/watch?v=e5bRVIPBG34 | 1:25—5:54</Comment>
+    <Type>0</Type>
+  </Marker>
+  <Marker ObjectID="{9BA55744-A6C8-4DA2-AB45-051F9B21F391}" ClassID="b3b3b3b3-b3b3-b3b3-b3b3-b3b3b3b3b3b3">
+    <In>686660877504000</In>
+    <Name/>
+    <Comment>ЛАЙВ | None</Comment>
+    <Type>0</Type>
+  </Marker>
+  <Marker ObjectID="{9843FF38-1E31-4794-8E77-CCB76BD12364}" ClassID="b3b3b3b3-b3b3-b3b3-b3b3-b3b3b3b3b3b3">
+    <In>716745008448001</In>
+    <Name/>
+    <Comment>ЛАЙВ | https://www.youtube.com/watch?v=D78TsJbDufo&gt;</Comment>
+    <Type>0</Type>
+  </Marker>
+  <Marker ObjectID="{076A0586-6A6D-46B0-A91D-96EE8A06D793}" ClassID="b3b3b3b3-b3b3-b3b3-b3b3-b3b3b3b3b3b3">
+    <In>741125464128001</In>
+    <Name/>
+    <Comment>ЛАЙВ | https://www.youtube.com/watch?v=e5bRVIPBG34</Comment>
+    <Type>0</Type>
+  </Marker>
+  <Marker ObjectID="{1A63B387-471F-4837-B77F-46756DAE9D5D}" ClassID="b3b3b3b3-b3b3-b3b3-b3b3-b3b3b3b3b3b3">
+    <In>749408417856001</In>
+    <Name/>
+    <Comment>ЛАЙВ | None</Comment>
+    <Type>0</Type>
+  </Marker>
+  <Marker ObjectID="{236B699B-2108-4A7A-A37E-65CFD3640C3F}" ClassID="b3b3b3b3-b3b3-b3b3-b3b3-b3b3b3b3b3b3">
+    <In>749408417856001</In>
+    <Name/>
+    <Comment>ЛАЙВ | https://www.youtube.com/watch?v=e5bRVIPBG34</Comment>
+    <Type>0</Type>
+  </Marker>
+  <Marker ObjectID="{B1EA12DA-D5B3-4115-BA57-74E354743576}" ClassID="b3b3b3b3-b3b3-b3b3-b3b3-b3b3b3b3b3b3">
+    <In>753470895744001</In>
+    <Name/>
+    <Comment>ЛАЙВ | None</Comment>
+    <Type>0</Type>
+  </Marker>
+  <Marker ObjectID="{0E44F045-7C30-4C01-820B-1DBE7B75C2E1}" ClassID="b3b3b3b3-b3b3-b3b3-b3b3-b3b3b3b3b3b3">
+    <In>769333686912001</In>
+    <Name/>
+    <Comment>ЛАЙВ | None</Comment>
+    <Type>0</Type>
+  </Marker>
+  <Marker ObjectID="{C7707052-6684-4422-9D1B-9A9F46561903}" ClassID="b3b3b3b3-b3b3-b3b3-b3b3-b3b3b3b3b3b3">
+    <In>774333991872001</In>
+    <Name/>
+    <Comment>ЛАЙВ | None</Comment>
+    <Type>0</Type>
+  </Marker>
+  <Marker ObjectID="{89161ED1-A0CC-40E9-90BA-9A93072982AC}" ClassID="b3b3b3b3-b3b3-b3b3-b3b3-b3b3b3b3b3b3">
+    <In>809342476992001</In>
+    <Name/>
+    <Comment>ЛАЙВ | None</Comment>
+    <Type>0</Type>
+  </Marker>
+  <Marker ObjectID="{A3F4497C-5E4B-4744-89BB-7895B6641932}" ClassID="b3b3b3b3-b3b3-b3b3-b3b3-b3b3b3b3b3b3">
+    <In>829894911552001</In>
+    <Name/>
+    <Comment>ЛАЙВ | https://www.youtube.com/watch?v=BFW6ugvzpQ0 | 0:00—0:05</Comment>
+    <Type>0</Type>
+  </Marker>
+  <Marker ObjectID="{3479FCFC-2097-4164-B2AB-64794FF8C26F}" ClassID="b3b3b3b3-b3b3-b3b3-b3b3-b3b3b3b3b3b3">
+    <In>831164991552001</In>
+    <Name/>
+    <Comment>ЛАЙВ | https://www.youtube.com/watch?v=tvHrEjlZj0I&gt;</Comment>
+    <Type>0</Type>
+  </Marker>
+  <Project ObjectID="{6DD47F20-D725-4F69-AF85-E6A65F5A3D53}" ClassID="62ad66dd-0dcd-42da-a660-6d8fbde94876">
+    <ProjectSettings/>
+    <RootProjectItem ObjectRef="{FBC0AC3C-737E-46AB-97FB-891EB9C5828A}"/>
+  </Project>
+  <Sequence ObjectID="{920CE941-3366-4775-94A7-353B8FF28545}" ClassID="7f4b7c80-c9f8-11d2-9dd7-006008a3a6d7">
+    <Name>Мп_v1</Name>
+    <Settings>
+      <VideoFrameWidth>1920</VideoFrameWidth>
+      <VideoFrameHeight>1080</VideoFrameHeight>
+      <VideoFrameRate>60.0</VideoFrameRate>
+    </Settings>
+    <VideoTrack ObjectID="{4F0CCF33-5709-4D62-B66C-EF9AD07155B1}" ClassID="a1b2c3d4-e5f6-7890-abcd-ef1234567890">
+      <ClipItemRef ObjectRef="{6032CC7A-6019-4E18-9462-FB2B676732EC}"/>
+      <ClipItemRef ObjectRef="{A466BC54-94CF-4061-B1DE-357DB231B78F}"/>
+      <ClipItemRef ObjectRef="{7FDCF5ED-EA10-4937-8685-BBA208AE3A21}"/>
+      <ClipItemRef ObjectRef="{28E1FA85-F8F0-4973-B49A-4AA9D787427D}"/>
+      <ClipItemRef ObjectRef="{9B107A74-551F-4DD4-84C3-AE4873A5D950}"/>
+      <ClipItemRef ObjectRef="{4B12BF2F-8A71-43B9-8718-09B556D91870}"/>
+      <ClipItemRef ObjectRef="{C9AE82E9-8B2D-441D-8B6F-115E8517769A}"/>
+      <ClipItemRef ObjectRef="{7C145BFA-43EB-4A54-9A85-51D4B82BAB3F}"/>
+      <ClipItemRef ObjectRef="{0CD258AA-842F-4498-ACDA-D132E5ABB7C6}"/>
+      <ClipItemRef ObjectRef="{F1C91277-C02E-436C-8BEE-05E0AE579657}"/>
+      <ClipItemRef ObjectRef="{DC4C3B92-CBEB-4645-BAD2-CB519A017C98}"/>
+      <ClipItemRef ObjectRef="{CB99161A-2A7D-4802-AB22-EEE0D91C61E9}"/>
+      <ClipItemRef ObjectRef="{982DBE72-BBFD-4CA7-B9DC-78DD76CA3904}"/>
+      <ClipItemRef ObjectRef="{0BF49EBC-39B2-47E7-B32C-96CE4DA9B0B2}"/>
+      <ClipItemRef ObjectRef="{3EFBFEE6-B07D-48E4-A590-6CEEA8B5FC23}"/>
+      <ClipItemRef ObjectRef="{BC88B6A8-2BD2-4EBB-ACCE-6D9C37F3B058}"/>
+      <ClipItemRef ObjectRef="{DA8B8BCA-B82E-445A-90CC-FAA4DC6CCC33}"/>
+      <ClipItemRef ObjectRef="{C58AC630-29F5-4FC8-BD89-EF017F4E09E6}"/>
+      <ClipItemRef ObjectRef="{5870B7D2-C839-4A38-83FD-E9005CB74F90}"/>
+      <ClipItemRef ObjectRef="{D336F2C5-178A-48C9-958A-12CE2827695D}"/>
+      <ClipItemRef ObjectRef="{747EA9CA-6180-434A-9AE4-8C0F38F8E348}"/>
+      <ClipItemRef ObjectRef="{B6B099B8-6227-44E9-BD36-4EF5F3CFE3D1}"/>
+      <ClipItemRef ObjectRef="{0E78C5C2-1AEB-4A47-9E02-B161DCEA3A2B}"/>
+      <ClipItemRef ObjectRef="{9BA1B882-5192-4A03-B27E-5B2CE05CB8E5}"/>
+      <ClipItemRef ObjectRef="{7CC7EB45-CD44-4CED-8453-4428172BAF82}"/>
+      <ClipItemRef ObjectRef="{340D53B1-51DA-4257-94FE-038FD5218154}"/>
+      <ClipItemRef ObjectRef="{2A3ADDB5-ECCD-4FA9-B9FE-F3A5B16424D3}"/>
+      <ClipItemRef ObjectRef="{41BA57A5-40AD-4635-AE1D-43CC38BADBC4}"/>
+      <ClipItemRef ObjectRef="{404B5FD6-6530-454E-A37A-5EE1536180F7}"/>
+      <ClipItemRef ObjectRef="{9B544283-996A-43C9-9B61-8564F6597BD6}"/>
+      <ClipItemRef ObjectRef="{F14F389A-405D-4111-98C8-85F817903F99}"/>
+      <ClipItemRef ObjectRef="{85B5745D-F569-4F2D-ACF9-7ACF41BCA867}"/>
+      <ClipItemRef ObjectRef="{D96CC233-F3B3-4E33-967F-BAED8570D1DD}"/>
+      <ClipItemRef ObjectRef="{2680F466-D858-4657-8E21-A459007D9E13}"/>
+      <ClipItemRef ObjectRef="{916F0244-830D-4C92-98EB-AF91CDF219D7}"/>
+      <ClipItemRef ObjectRef="{772709EE-BBA9-4321-8AA1-75280F7CCA61}"/>
+      <ClipItemRef ObjectRef="{12F7EFA5-0707-4591-94C6-28217CBD3639}"/>
+      <ClipItemRef ObjectRef="{3B665F52-3630-4001-AA1E-97B12F851D4B}"/>
+      <ClipItemRef ObjectRef="{4CAC06C1-E458-45E5-9D2F-DDFB14D52583}"/>
+      <ClipItemRef ObjectRef="{AC1EDCDB-5A48-4FF3-938C-7CF1CDC6E5E2}"/>
+      <ClipItemRef ObjectRef="{29CA32FB-F791-4952-B43C-EE932EBC2A44}"/>
+      <ClipItemRef ObjectRef="{3BED8F9D-3983-49E5-9218-38CED8D33222}"/>
+      <ClipItemRef ObjectRef="{BEF07C12-8EEE-428E-95BF-EFBA972416F1}"/>
+      <ClipItemRef ObjectRef="{78270A35-A6CF-47D9-BD5C-FA541CB70191}"/>
+      <ClipItemRef ObjectRef="{2F2366A1-E557-4C94-9FC4-F3ED73DFF105}"/>
+      <ClipItemRef ObjectRef="{6096C89C-1279-4E6B-8AA4-F6A0D826571A}"/>
+      <ClipItemRef ObjectRef="{0237EEE9-ECB9-423E-BF91-0AABA8821F5A}"/>
+      <ClipItemRef ObjectRef="{294F0CE2-D027-4FA2-AA21-8BF3458F22EC}"/>
+      <ClipItemRef ObjectRef="{3B95EEC3-9D2F-405B-B087-000614FBCBAB}"/>
+      <ClipItemRef ObjectRef="{D98F88DD-B986-4154-9224-3F93D018BED6}"/>
+      <ClipItemRef ObjectRef="{76C00F31-8530-47A2-ACBF-02C9CA2BDD91}"/>
+      <ClipItemRef ObjectRef="{BE72DDD6-6B49-47B7-85C7-2E54DDBCFFED}"/>
+      <ClipItemRef ObjectRef="{3CE84909-5F03-4C85-B600-719FBE3B1F73}"/>
+      <ClipItemRef ObjectRef="{C9CE43A6-B8D5-4CD5-82D0-4B969B42972B}"/>
+      <ClipItemRef ObjectRef="{C8B94A89-786E-4565-9936-59F0396BA993}"/>
+      <ClipItemRef ObjectRef="{0CABCCFC-827B-4B3C-BAAC-3E79D222F19E}"/>
+      <ClipItemRef ObjectRef="{E5C261AD-5292-4964-8699-684F91CB9782}"/>
+      <ClipItemRef ObjectRef="{F0EB657C-7DE6-4727-A7A7-D6425A31EE22}"/>
+      <ClipItemRef ObjectRef="{644DD235-87EF-49D9-A60E-9C98C245B0B1}"/>
+      <ClipItemRef ObjectRef="{182DAC11-2626-4F62-9F1B-5D87215E9DEC}"/>
+      <ClipItemRef ObjectRef="{B3AC4015-268D-4BEC-9BFB-37379F28D806}"/>
+      <ClipItemRef ObjectRef="{408F6814-EAA6-4453-833D-7D6B655B7413}"/>
+      <ClipItemRef ObjectRef="{E98BEBA8-7ACE-4CDC-BD44-7358066C1B56}"/>
+      <ClipItemRef ObjectRef="{851E0718-1CF6-4B67-B751-8837A93C0F29}"/>
+      <ClipItemRef ObjectRef="{586CF85F-C2C4-4354-A2C0-8EC47C0FFC28}"/>
+      <ClipItemRef ObjectRef="{4D0DF2EA-6F5F-4A54-B024-232791EBF450}"/>
+      <ClipItemRef ObjectRef="{9EEFCA35-15F8-44ED-BEB6-CE2B58983638}"/>
+      <ClipItemRef ObjectRef="{D6A41429-EFB9-4F82-A799-F2F4DF8E837D}"/>
+      <ClipItemRef ObjectRef="{9F02870F-C059-4625-A354-31995C6CC12A}"/>
+      <ClipItemRef ObjectRef="{52E1390D-48DD-4A09-BE9C-2BBC627B1846}"/>
+      <ClipItemRef ObjectRef="{FCBB15ED-0096-4D9F-B697-8AEEFA79734F}"/>
+      <ClipItemRef ObjectRef="{B4FE5811-80DD-4968-9D54-045FF968A1EB}"/>
+      <ClipItemRef ObjectRef="{2DF7F8DC-AFC4-4449-91E7-67ACE5458021}"/>
+      <ClipItemRef ObjectRef="{F1B6213B-6308-4EC6-B2D1-9473C497AD0A}"/>
+      <ClipItemRef ObjectRef="{4A594A5D-F1AF-404C-8F49-89E5375B5B65}"/>
+    </VideoTrack>
+    <MarkerRef ObjectRef="{B7C28FD9-8786-4E83-A03F-BEA31AD2F3CF}"/>
+    <MarkerRef ObjectRef="{DBFD4BC2-6BAF-4B6E-BF38-4EB9799388E7}"/>
+    <MarkerRef ObjectRef="{237F18FB-7A7B-45F3-AF2A-ACE3E88C0ED5}"/>
+    <MarkerRef ObjectRef="{8A0250F7-5758-4050-B9FA-ACA996E39B73}"/>
+    <MarkerRef ObjectRef="{8C996E61-6C99-4DC8-8326-DD44D5FE3293}"/>
+    <MarkerRef ObjectRef="{F81D2533-7FE3-435A-BDDF-D9FA9880335F}"/>
+    <MarkerRef ObjectRef="{B10E353A-CE3A-430E-8725-6CBDB40E6CE3}"/>
+    <MarkerRef ObjectRef="{E8FDC142-E064-4960-8F53-638958244A22}"/>
+    <MarkerRef ObjectRef="{A16188AB-5F6D-42DA-A2B3-E1F29F61A5D3}"/>
+    <MarkerRef ObjectRef="{674C4927-F4D5-492D-9889-F1C026DEB962}"/>
+    <MarkerRef ObjectRef="{8B356907-04E9-4048-AD09-4062FE27F8B7}"/>
+    <MarkerRef ObjectRef="{721C19A7-B142-49FF-857D-CCD5C366CAF5}"/>
+    <MarkerRef ObjectRef="{1AB35B3E-5258-4074-B491-310BB74B4B38}"/>
+    <MarkerRef ObjectRef="{A58715C1-1232-40D8-AC0D-C1E8567C06BD}"/>
+    <MarkerRef ObjectRef="{476A5BD4-E97A-4CC8-8ED0-FD0DD883AAFB}"/>
+    <MarkerRef ObjectRef="{63081114-0D1B-4E09-995B-DD74E9084B7A}"/>
+    <MarkerRef ObjectRef="{613DA773-042E-4193-ACDD-20A40324D55E}"/>
+    <MarkerRef ObjectRef="{81BF9056-54E4-4117-9755-3FA5712BC5C4}"/>
+    <MarkerRef ObjectRef="{5CA3098D-A898-4999-BECD-19D4DC312B00}"/>
+    <MarkerRef ObjectRef="{09EA00F1-ACD8-4273-92DB-E4355D300B5E}"/>
+    <MarkerRef ObjectRef="{1898E8C3-A4FE-4712-BA22-F8DD3C67207F}"/>
+    <MarkerRef ObjectRef="{C8E1675D-672E-4BDB-848B-D86BB08BBEC6}"/>
+    <MarkerRef ObjectRef="{C1E84C0B-C607-4D30-B2AE-8918D208C68D}"/>
+    <MarkerRef ObjectRef="{15E10024-9799-47F6-BBBB-BBF8F2B342C4}"/>
+    <MarkerRef ObjectRef="{7BBBEC8C-1C54-4E07-B979-325F5D055E41}"/>
+    <MarkerRef ObjectRef="{3ED0B149-6739-4F82-B340-5EEB3F9D4525}"/>
+    <MarkerRef ObjectRef="{5D1ADF61-E063-4752-9B10-8A8622F14FB9}"/>
+    <MarkerRef ObjectRef="{291D87B8-5E20-4DD3-A2A2-12D8AB6FAF09}"/>
+    <MarkerRef ObjectRef="{D44C60CB-33D5-4BD2-9EC1-EC868E409AB6}"/>
+    <MarkerRef ObjectRef="{83C738A4-B15E-4104-8EB2-108C452BF215}"/>
+    <MarkerRef ObjectRef="{4CB8C8EB-8064-42D3-A7F7-9FF7B7D472FE}"/>
+    <MarkerRef ObjectRef="{91DE4681-97C1-467F-AC3D-2A9070B70B3D}"/>
+    <MarkerRef ObjectRef="{1A2D1D8E-22C9-47CB-8053-478A33CBE86C}"/>
+    <MarkerRef ObjectRef="{CA6114D5-3865-4020-8C7D-04B797F575C5}"/>
+    <MarkerRef ObjectRef="{54A58FF5-BC1A-4B61-AD34-50111122CAFF}"/>
+    <MarkerRef ObjectRef="{E25D0725-F5AA-46E0-B690-6997591C7609}"/>
+    <MarkerRef ObjectRef="{F86789AE-C095-4618-BD58-3CC742205531}"/>
+    <MarkerRef ObjectRef="{207FAB20-0E28-4F3B-BF80-F4D2EFC21D76}"/>
+    <MarkerRef ObjectRef="{09B44F5B-5585-4F9A-AFBA-88C23E6E65EB}"/>
+    <MarkerRef ObjectRef="{30B09355-4C9E-49A3-B111-DB306D76DB3E}"/>
+    <MarkerRef ObjectRef="{68DDACA1-67BF-4499-8995-6393BBBFF8EB}"/>
+    <MarkerRef ObjectRef="{23A60B28-4519-41E2-81B2-78265E1B6EEF}"/>
+    <MarkerRef ObjectRef="{47BA748A-9D91-42D7-9508-44474DEE4064}"/>
+    <MarkerRef ObjectRef="{DB80A0A8-6B4A-4C92-9C6F-C78ADB0C76F7}"/>
+    <MarkerRef ObjectRef="{DC3C46A7-DA95-4639-B3BE-ACD019B7DCEB}"/>
+    <MarkerRef ObjectRef="{D38F3788-F922-4150-8BDD-54FADC00CFFB}"/>
+    <MarkerRef ObjectRef="{855B86BA-FE96-4B08-85A8-5973986C3DC3}"/>
+    <MarkerRef ObjectRef="{EBA2C977-85B3-4339-9B61-5A7C0F45199A}"/>
+    <MarkerRef ObjectRef="{107FE62D-BE39-4826-B628-6C4CA53AFD34}"/>
+    <MarkerRef ObjectRef="{3F9E0588-AA20-4C98-AAD9-7E6005EE9250}"/>
+    <MarkerRef ObjectRef="{F2B13546-A929-408C-BDA2-89AFC7406870}"/>
+    <MarkerRef ObjectRef="{19B23385-6A01-47DC-BDD7-3075DD05D163}"/>
+    <MarkerRef ObjectRef="{CFE7A4A5-7473-4D1C-9C09-419BDE195F6E}"/>
+    <MarkerRef ObjectRef="{92653D9C-1874-4953-89B0-C787A023415B}"/>
+    <MarkerRef ObjectRef="{6C2FEC76-58A1-4991-8FE0-DA53157DC86D}"/>
+    <MarkerRef ObjectRef="{C39CD68F-6FD3-4316-9088-2B5675DD2C9B}"/>
+    <MarkerRef ObjectRef="{246F8D8D-55C7-4A91-A132-25184D24A240}"/>
+    <MarkerRef ObjectRef="{0A4D10E5-167C-4596-B4E2-058E44CDA58E}"/>
+    <MarkerRef ObjectRef="{EDC1CE3D-E752-4D19-A1C8-AFC38AE5B617}"/>
+    <MarkerRef ObjectRef="{9BA55744-A6C8-4DA2-AB45-051F9B21F391}"/>
+    <MarkerRef ObjectRef="{9843FF38-1E31-4794-8E77-CCB76BD12364}"/>
+    <MarkerRef ObjectRef="{076A0586-6A6D-46B0-A91D-96EE8A06D793}"/>
+    <MarkerRef ObjectRef="{1A63B387-471F-4837-B77F-46756DAE9D5D}"/>
+    <MarkerRef ObjectRef="{236B699B-2108-4A7A-A37E-65CFD3640C3F}"/>
+    <MarkerRef ObjectRef="{B1EA12DA-D5B3-4115-BA57-74E354743576}"/>
+    <MarkerRef ObjectRef="{0E44F045-7C30-4C01-820B-1DBE7B75C2E1}"/>
+    <MarkerRef ObjectRef="{C7707052-6684-4422-9D1B-9A9F46561903}"/>
+    <MarkerRef ObjectRef="{89161ED1-A0CC-40E9-90BA-9A93072982AC}"/>
+    <MarkerRef ObjectRef="{A3F4497C-5E4B-4744-89BB-7895B6641932}"/>
+    <MarkerRef ObjectRef="{3479FCFC-2097-4164-B2AB-64794FF8C26F}"/>
+  </Sequence>
+</PremiereData>
