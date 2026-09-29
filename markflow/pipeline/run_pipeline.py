@@ -31,6 +31,7 @@ sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.dirname(__file__))))
 from markflow.core.parse_doc import load_and_parse_gdoc
 from markflow.core.align import align, aligned_to_edit_plan
 from markflow.build.build_prproj import build
+from markflow.build.build_xml import build_xmeml
 from markflow.build.check_project import check
 
 
@@ -106,8 +107,12 @@ def run(
     with open(plan_path, "w", encoding="utf-8") as f:
         json.dump(edit_plan, f, ensure_ascii=False, indent=2)
 
+    # Генерируем FCP7 XML — надёжный формат для импорта в Premiere Pro
+    xml_path = build_xmeml(edit_plan, out_dir)
+    print(f"     → {xml_path}  [FCP7 XML — импортируй через File → Import]")
+
     prproj_path = build(edit_plan, out_dir)
-    print(f"     → {prproj_path}")
+    print(f"     → {prproj_path}  [экспериментальный, может не открыться]")
 
     # ── 6. Validate ───────────────────────────────────────────────────────────
     print("[6/6] Validating .prproj...")
@@ -119,7 +124,9 @@ def run(
         sys.exit(1)
     else:
         print("ИТОГ: OK")
-        print(f"\n✓ Готово: {prproj_path}")
+        print(f"\n✓ Готово:")
+        print(f"  {xml_path}  ← ОТКРЫВАЙ ЭТОТ (File → Import в Premiere)")
+        print(f"  {prproj_path}")
         print(f"  Clips on timeline: {len(edit_plan['clips'])}")
         print(f"  Markers:           {len(edit_plan['markers'])}")
 

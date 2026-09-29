@@ -1,0 +1,1668 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE xmeml>
+<xmeml version="5">
+  <sequence>
+    <name>Мп_v1</name>
+    <duration>196626</duration>
+    <rate>
+      <timebase>60</timebase>
+      <ntsc>FALSE</ntsc>
+    </rate>
+    <settings>
+      <format/>
+      <videoTracks>
+        <track/>
+      </videoTracks>
+    </settings>
+    <media>
+      <video>
+        <format>
+          <samplecharacteristics>
+            <rate>
+              <timebase>60</timebase>
+              <ntsc>FALSE</ntsc>
+            </rate>
+            <width>1920</width>
+            <height>1080</height>
+            <pixelaspectratio>square</pixelaspectratio>
+            <fielddominance>none</fielddominance>
+          </samplecharacteristics>
+        </format>
+        <track>
+          <clipitem id="clipitem-1">
+            <name>Копия Keyed-Video_2608311425_0001.mov</name>
+            <duration>2871</duration>
+            <rate>
+              <timebase>60</timebase>
+              <ntsc>FALSE</ntsc>
+            </rate>
+            <start>0</start>
+            <end>2871</end>
+            <in>293</in>
+            <out>3164</out>
+            <file id="file-1">
+              <name>Копия Keyed-Video_2608311425_0001.mov</name>
+              <pathurl>file:///C:/Users/Artem/Videos/Макашенец/МОДНАЯ ПРОПАГАНДА/Копия Keyed-Video_2608311425_0001.mov</pathurl>
+              <rate>
+                <timebase>60</timebase>
+                <ntsc>FALSE</ntsc>
+              </rate>
+              <timecode/>
+            </file>
+            <comments/>
+            <labels/>
+            <note>Зачем я это все так подробно разбираю? А чтобы в полной мере</note>
+          </clipitem>
+          <clipitem id="clipitem-2">
+            <name>Копия Keyed-Video_2608311425_0001.mov</name>
+            <duration>1403</duration>
+            <rate>
+              <timebase>60</timebase>
+              <ntsc>FALSE</ntsc>
+            </rate>
+            <start>4730</start>
+            <end>6133</end>
+            <in>10175</in>
+            <out>11578</out>
+            <file id="file-1"/>
+            <comments/>
+            <labels/>
+            <note>Дальше вы думаете, что Антонов скажет, почему вероятность мо</note>
+          </clipitem>
+          <clipitem id="clipitem-3">
+            <name>Копия Keyed-Video_2608311425_0001.mov</name>
+            <duration>1624</duration>
+            <rate>
+              <timebase>60</timebase>
+              <ntsc>FALSE</ntsc>
+            </rate>
+            <start>9073</start>
+            <end>10697</end>
+            <in>14652</in>
+            <out>16276</out>
+            <file id="file-1"/>
+            <comments/>
+            <labels/>
+            <note>Вероятно, здесь Антонов рассуждает про вторую волну мобилиза</note>
+          </clipitem>
+          <clipitem id="clipitem-4">
+            <name>Копия Keyed-Video_2608311425_0001.mov</name>
+            <duration>1209</duration>
+            <rate>
+              <timebase>60</timebase>
+              <ntsc>FALSE</ntsc>
+            </rate>
+            <start>12017</start>
+            <end>13226</end>
+            <in>17652</in>
+            <out>18861</out>
+            <file id="file-1"/>
+            <comments/>
+            <labels/>
+            <note>На случай, например, вторжения в соседнюю страну. Особенно, </note>
+          </clipitem>
+          <clipitem id="clipitem-5">
+            <name>Копия Keyed-Video_2608311425_0001.mov</name>
+            <duration>711</duration>
+            <rate>
+              <timebase>60</timebase>
+              <ntsc>FALSE</ntsc>
+            </rate>
+            <start>13226</start>
+            <end>13937</end>
+            <in>20070</in>
+            <out>20781</out>
+            <file id="file-1"/>
+            <comments/>
+            <labels/>
+            <note>Но вернемся к мобилизации. О той, что началась в 2022-м году</note>
+          </clipitem>
+          <clipitem id="clipitem-6">
+            <name>Копия Keyed-Video_2608311425_0001.mov</name>
+            <duration>2871</duration>
+            <rate>
+              <timebase>60</timebase>
+              <ntsc>FALSE</ntsc>
+            </rate>
+            <start>15616</start>
+            <end>18487</end>
+            <in>22987</in>
+            <out>25858</out>
+            <file id="file-1"/>
+            <comments/>
+            <labels/>
+            <note>Я бы это перефразировал так: часто ли мы видим, что блогеры-</note>
+          </clipitem>
+          <clipitem id="clipitem-7">
+            <name>Копия Keyed-Video_2608311425_0001.mov</name>
+            <duration>627</duration>
+            <rate>
+              <timebase>60</timebase>
+              <ntsc>FALSE</ntsc>
+            </rate>
+            <start>18907</start>
+            <end>19534</end>
+            <in>27040</in>
+            <out>27667</out>
+            <file id="file-1"/>
+            <comments/>
+            <labels/>
+            <note>То есть в следующий раз будет лучше? Вроде бы в начале ролик</note>
+          </clipitem>
+          <clipitem id="clipitem-8">
+            <name>Копия Keyed-Video_2608311425_0001.mov</name>
+            <duration>1679</duration>
+            <rate>
+              <timebase>60</timebase>
+              <ntsc>FALSE</ntsc>
+            </rate>
+            <start>19534</start>
+            <end>21213</end>
+            <in>29292</in>
+            <out>30971</out>
+            <file id="file-1"/>
+            <comments/>
+            <labels/>
+            <note>Братан, остановись. Ты ровно две минуты назад говорил про то</note>
+          </clipitem>
+          <clipitem id="clipitem-9">
+            <name>Копия Keyed-Video_2608311425_0001.mov</name>
+            <duration>932</duration>
+            <rate>
+              <timebase>60</timebase>
+              <ntsc>FALSE</ntsc>
+            </rate>
+            <start>21214</start>
+            <end>22146</end>
+            <in>32236</in>
+            <out>33168</out>
+            <file id="file-1"/>
+            <comments/>
+            <labels/>
+            <note>Что ж,  зафиксируем. Антонов говорит, что реальная мобилизац</note>
+          </clipitem>
+          <clipitem id="clipitem-10">
+            <name>Копия Keyed-Video_2608311425_0001.mov</name>
+            <duration>1154</duration>
+            <rate>
+              <timebase>60</timebase>
+              <ntsc>FALSE</ntsc>
+            </rate>
+            <start>22146</start>
+            <end>23300</end>
+            <in>34544</in>
+            <out>35698</out>
+            <file id="file-1"/>
+            <comments/>
+            <labels/>
+            <note>(нюхает) Чувствуете? Пахнет пиздежом. 2018-й год, выборы пре</note>
+          </clipitem>
+          <clipitem id="clipitem-11">
+            <name>Копия Keyed-Video_2608311425_0001.mov</name>
+            <duration>2787</duration>
+            <rate>
+              <timebase>60</timebase>
+              <ntsc>FALSE</ntsc>
+            </rate>
+            <start>38539</start>
+            <end>41326</end>
+            <in>37849</in>
+            <out>40636</out>
+            <file id="file-1"/>
+            <comments/>
+            <labels/>
+            <note>Те, кто не помнит — угадайте, что произошло осенью 2018-го, </note>
+          </clipitem>
+          <clipitem id="clipitem-12">
+            <name>Копия Keyed-Video_2608311425_0001.mov</name>
+            <duration>2483</duration>
+            <rate>
+              <timebase>60</timebase>
+              <ntsc>FALSE</ntsc>
+            </rate>
+            <start>41326</start>
+            <end>43809</end>
+            <in>42676</in>
+            <out>45159</out>
+            <file id="file-1"/>
+            <comments/>
+            <labels/>
+            <note>Ээээ, а это какими цифрами? Россия не публикует данные о пот</note>
+          </clipitem>
+          <clipitem id="clipitem-13">
+            <name>Копия Keyed-Video_2608311425_0001.mov</name>
+            <duration>2095</duration>
+            <rate>
+              <timebase>60</timebase>
+              <ntsc>FALSE</ntsc>
+            </rate>
+            <start>43809</start>
+            <end>45904</end>
+            <in>47116</in>
+            <out>49211</out>
+            <file id="file-1"/>
+            <comments/>
+            <labels/>
+            <note>Сначала Антонов говорит, что Россия худо-бедно наступает. В </note>
+          </clipitem>
+          <clipitem id="clipitem-14">
+            <name>Копия Keyed-Video_2608311425_0001.mov</name>
+            <duration>2040</duration>
+            <rate>
+              <timebase>60</timebase>
+              <ntsc>FALSE</ntsc>
+            </rate>
+            <start>46324</start>
+            <end>48364</end>
+            <in>49853</in>
+            <out>51893</out>
+            <file id="file-1"/>
+            <comments/>
+            <labels/>
+            <note>Наверное, если попытаться обобщить слова Антонова до какой-т</note>
+          </clipitem>
+          <clipitem id="clipitem-15">
+            <name>Копия Keyed-Video_2608311425_0001.mov</name>
+            <duration>1679</duration>
+            <rate>
+              <timebase>60</timebase>
+              <ntsc>FALSE</ntsc>
+            </rate>
+            <start>48783</start>
+            <end>50462</end>
+            <in>57880</in>
+            <out>59559</out>
+            <file id="file-1"/>
+            <comments/>
+            <labels/>
+            <note>Впрочем, у того же Антонова есть еще один примечательный рол</note>
+          </clipitem>
+          <clipitem id="clipitem-16">
+            <name>Копия Keyed-Video_2608311425_0001.mov</name>
+            <duration>822</duration>
+            <rate>
+              <timebase>60</timebase>
+              <ntsc>FALSE</ntsc>
+            </rate>
+            <start>51183</start>
+            <end>52005</end>
+            <in>60796</in>
+            <out>61618</out>
+            <file id="file-1"/>
+            <comments/>
+            <labels/>
+            <note>Ну то есть ожидания вполне конкретные: сейчас Антонов докаже</note>
+          </clipitem>
+          <clipitem id="clipitem-17">
+            <name>Копия Keyed-Video_2608311425_0001.mov</name>
+            <duration>2094</duration>
+            <rate>
+              <timebase>60</timebase>
+              <ntsc>FALSE</ntsc>
+            </rate>
+            <start>53144</start>
+            <end>55238</end>
+            <in>63520</in>
+            <out>65614</out>
+            <file id="file-1"/>
+            <comments/>
+            <labels/>
+            <note>Первая минута — первый пиздеж. Снова повторюсь, Антонов очев</note>
+          </clipitem>
+          <clipitem id="clipitem-18">
+            <name>Копия Keyed-Video_2608311425_0001.mov</name>
+            <duration>295</duration>
+            <rate>
+              <timebase>60</timebase>
+              <ntsc>FALSE</ntsc>
+            </rate>
+            <start>56379</start>
+            <end>56674</end>
+            <in>66630</in>
+            <out>66925</out>
+            <file id="file-1"/>
+            <comments/>
+            <labels/>
+            <note>Зачитывание вслух текста с официального сайта агентства — по</note>
+          </clipitem>
+          <clipitem id="clipitem-19">
+            <name>Копия Keyed-Video_2608311425_0001.mov</name>
+            <duration>877</duration>
+            <rate>
+              <timebase>60</timebase>
+              <ntsc>FALSE</ntsc>
+            </rate>
+            <start>56674</start>
+            <end>57551</end>
+            <in>68273</in>
+            <out>69150</out>
+            <file id="file-1"/>
+            <comments/>
+            <labels/>
+            <note>На самом деле нет. Антонов долго и нудно рассказывает об аге</note>
+          </clipitem>
+          <clipitem id="clipitem-20">
+            <name>Копия Keyed-Video_2608311425_0001.mov</name>
+            <duration>1679</duration>
+            <rate>
+              <timebase>60</timebase>
+              <ntsc>FALSE</ntsc>
+            </rate>
+            <start>60131</start>
+            <end>61810</end>
+            <in>70803</in>
+            <out>72482</out>
+            <file id="file-1"/>
+            <comments/>
+            <labels/>
+            <note>И опять мы видим, как Антонов почему-то перескакивает с одно</note>
+          </clipitem>
+          <clipitem id="clipitem-21">
+            <name>Копия Keyed-Video_2608311425_0001.mov</name>
+            <duration>987</duration>
+            <rate>
+              <timebase>60</timebase>
+              <ntsc>FALSE</ntsc>
+            </rate>
+            <start>61810</start>
+            <end>62797</end>
+            <in>73775</in>
+            <out>74762</out>
+            <file id="file-1"/>
+            <comments/>
+            <labels/>
+            <note>Так вот, по мнению блогера Антонова — это так, небольшой бар</note>
+          </clipitem>
+          <clipitem id="clipitem-22">
+            <name>Копия Keyed-Video_2608311425_0001.mov</name>
+            <duration>2510</duration>
+            <rate>
+              <timebase>60</timebase>
+              <ntsc>FALSE</ntsc>
+            </rate>
+            <start>63637</start>
+            <end>66147</end>
+            <in>75404</in>
+            <out>77914</out>
+            <file id="file-1"/>
+            <comments/>
+            <labels/>
+            <note>Антонов вроде как и не утверждает напрямую, но непрозрачно н</note>
+          </clipitem>
+          <clipitem id="clipitem-23">
+            <name>Копия Keyed-Video_2608311425_0001.mov</name>
+            <duration>655</duration>
+            <rate>
+              <timebase>60</timebase>
+              <ntsc>FALSE</ntsc>
+            </rate>
+            <start>67708</start>
+            <end>68363</end>
+            <in>84150</in>
+            <out>84805</out>
+            <file id="file-1"/>
+            <comments/>
+            <labels/>
+            <note>И типа эта новость про поддержку медиа в странах Балтии от 2</note>
+          </clipitem>
+          <clipitem id="clipitem-24">
+            <name>Копия Keyed-Video_2608311425_0001.mov</name>
+            <duration>1014</duration>
+            <rate>
+              <timebase>60</timebase>
+              <ntsc>FALSE</ntsc>
+            </rate>
+            <start>68363</start>
+            <end>69377</end>
+            <in>88240</in>
+            <out>89254</out>
+            <file id="file-1"/>
+            <comments/>
+            <labels/>
+            <note>20 счастливчиков в Латвии, Литве и Эстонии, которые получили</note>
+          </clipitem>
+          <clipitem id="clipitem-25">
+            <name>Копия Keyed-Video_2608311425_0001.mov</name>
+            <duration>433</duration>
+            <rate>
+              <timebase>60</timebase>
+              <ntsc>FALSE</ntsc>
+            </rate>
+            <start>69378</start>
+            <end>69811</end>
+            <in>90326</in>
+            <out>90759</out>
+            <file id="file-1"/>
+            <comments/>
+            <labels/>
+            <note>Как от этого провести ниточку к Дудю?  А вот как — инструкци</note>
+          </clipitem>
+          <clipitem id="clipitem-26">
+            <name>Копия Keyed-Video_2608311425_0001.mov</name>
+            <duration>2095</duration>
+            <rate>
+              <timebase>60</timebase>
+              <ntsc>FALSE</ntsc>
+            </rate>
+            <start>69811</start>
+            <end>71906</end>
+            <in>92716</in>
+            <out>94811</out>
+            <file id="file-1"/>
+            <comments/>
+            <labels/>
+            <note>Че то я не понял, Антонов говорит, что у экстремиста Навальн</note>
+          </clipitem>
+          <clipitem id="clipitem-27">
+            <name>Копия Keyed-Video_2608311425_0001.mov</name>
+            <duration>350</duration>
+            <rate>
+              <timebase>60</timebase>
+              <ntsc>FALSE</ntsc>
+            </rate>
+            <start>71906</start>
+            <end>72256</end>
+            <in>95772</in>
+            <out>96122</out>
+            <file id="file-1"/>
+            <comments/>
+            <labels/>
+            <note>Что ж, фиксируем. Британское правительство выделило деньги н</note>
+          </clipitem>
+          <clipitem id="clipitem-28">
+            <name>Копия Keyed-Video_2608311425_0001.mov</name>
+            <duration>1153</duration>
+            <rate>
+              <timebase>60</timebase>
+              <ntsc>FALSE</ntsc>
+            </rate>
+            <start>72256</start>
+            <end>73409</end>
+            <in>97526</in>
+            <out>98679</out>
+            <file id="file-1"/>
+            <comments/>
+            <labels/>
+            <note>Большую часть бюджета, понятно, съели эти выдающиеся штаны. </note>
+          </clipitem>
+          <clipitem id="clipitem-29">
+            <name>Копия Keyed-Video_2608311425_0001.mov</name>
+            <duration>655</duration>
+            <rate>
+              <timebase>60</timebase>
+              <ntsc>FALSE</ntsc>
+            </rate>
+            <start>73410</start>
+            <end>74065</end>
+            <in>99861</in>
+            <out>100516</out>
+            <file id="file-1"/>
+            <comments/>
+            <labels/>
+            <note>Дудю дали на штаны, а Варламову — на дизайнера обложек на ви</note>
+          </clipitem>
+          <clipitem id="clipitem-30">
+            <name>Копия Keyed-Video_2608311425_0001.mov</name>
+            <duration>1236</duration>
+            <rate>
+              <timebase>60</timebase>
+              <ntsc>FALSE</ntsc>
+            </rate>
+            <start>74065</start>
+            <end>75301</end>
+            <in>101975</in>
+            <out>103211</out>
+            <file id="file-1"/>
+            <comments/>
+            <labels/>
+            <note>Я, конечно, свечку не держал, но наверное тактика заключаетс</note>
+          </clipitem>
+          <clipitem id="clipitem-31">
+            <name>Копия Keyed-Video_2608311425_0001.mov</name>
+            <duration>1791</duration>
+            <rate>
+              <timebase>60</timebase>
+              <ntsc>FALSE</ntsc>
+            </rate>
+            <start>86161</start>
+            <end>87952</end>
+            <in>104947</in>
+            <out>106738</out>
+            <file id="file-1"/>
+            <comments/>
+            <labels/>
+            <note>Вообще-то так выживают на ютубе даже в эмиграции. У Дудя ест</note>
+          </clipitem>
+          <clipitem id="clipitem-32">
+            <name>Копия Keyed-Video_2608311425_0001.mov</name>
+            <duration>2288</duration>
+            <rate>
+              <timebase>60</timebase>
+              <ntsc>FALSE</ntsc>
+            </rate>
+            <start>89812</start>
+            <end>92100</end>
+            <in>108723</in>
+            <out>111011</out>
+            <file id="file-1"/>
+            <comments/>
+            <labels/>
+            <note>Как говорится, это было пиздец как смело\! Но насколько така</note>
+          </clipitem>
+          <clipitem id="clipitem-33">
+            <name>Копия Keyed-Video_2608311425_0001.mov</name>
+            <duration>1209</duration>
+            <rate>
+              <timebase>60</timebase>
+              <ntsc>FALSE</ntsc>
+            </rate>
+            <start>93481</start>
+            <end>94690</end>
+            <in>112415</in>
+            <out>113624</out>
+            <file id="file-1"/>
+            <comments/>
+            <labels/>
+            <note>Но главное — и у Антонова, и у Ебкова есть ангел хранитель. </note>
+          </clipitem>
+          <clipitem id="clipitem-34">
+            <name>Копия Keyed-Video_2608311425_0001.mov</name>
+            <duration>2621</duration>
+            <rate>
+              <timebase>60</timebase>
+              <ntsc>FALSE</ntsc>
+            </rate>
+            <start>96129</start>
+            <end>98750</end>
+            <in>115692</in>
+            <out>118313</out>
+            <file id="file-1"/>
+            <comments/>
+            <labels/>
+            <note>У Ебкова самый популярный видос — обзор на интервью Лебедева</note>
+          </clipitem>
+          <clipitem id="clipitem-35">
+            <name>Копия Keyed-Video_2608311425_0001.mov</name>
+            <duration>1042</duration>
+            <rate>
+              <timebase>60</timebase>
+              <ntsc>FALSE</ntsc>
+            </rate>
+            <start>98991</start>
+            <end>100033</end>
+            <in>119689</in>
+            <out>120731</out>
+            <file id="file-1"/>
+            <comments/>
+            <labels/>
+            <note>Лебедев пока НЕ приходил на интервью и вообще никак не участ</note>
+          </clipitem>
+          <clipitem id="clipitem-36">
+            <name>Копия Keyed-Video_2608311425_0001.mov</name>
+            <duration>489</duration>
+            <rate>
+              <timebase>60</timebase>
+              <ntsc>FALSE</ntsc>
+            </rate>
+            <start>101473</start>
+            <end>101962</end>
+            <in>121747</in>
+            <out>122236</out>
+            <file id="file-1"/>
+            <comments/>
+            <labels/>
+            <note>~~Почти. Чадина, видимо, добилась расположения племянницы Пы</note>
+          </clipitem>
+          <clipitem id="clipitem-37">
+            <name>Копия Keyed-Video_2608311425_0001.mov</name>
+            <duration>1181</duration>
+            <rate>
+              <timebase>60</timebase>
+              <ntsc>FALSE</ntsc>
+            </rate>
+            <start>102562</start>
+            <end>103743</end>
+            <in>123584</in>
+            <out>124765</out>
+            <file id="file-1"/>
+            <comments/>
+            <labels/>
+            <note>Относительно недавно Цивилеву назначили замминистра обороны.</note>
+          </clipitem>
+          <clipitem id="clipitem-38">
+            <name>Копия Keyed-Video_2608311425_0001.mov</name>
+            <duration>1153</duration>
+            <rate>
+              <timebase>60</timebase>
+              <ntsc>FALSE</ntsc>
+            </rate>
+            <start>103743</start>
+            <end>104896</end>
+            <in>126169</in>
+            <out>127322</out>
+            <file id="file-1"/>
+            <comments/>
+            <labels/>
+            <note>У нас таких историй, когда искалеченных войной людей надо во</note>
+          </clipitem>
+          <clipitem id="clipitem-39">
+            <name>Копия Keyed-Video_2608311425_0001.mov</name>
+            <duration>1070</duration>
+            <rate>
+              <timebase>60</timebase>
+              <ntsc>FALSE</ntsc>
+            </rate>
+            <start>105317</start>
+            <end>106387</end>
+            <in>128698</in>
+            <out>129768</out>
+            <file id="file-1"/>
+            <comments/>
+            <labels/>
+            <note>Еще недавно о Подгузовой мало кто слышал — она работала в ме</note>
+          </clipitem>
+          <clipitem id="clipitem-40">
+            <name>Копия Keyed-Video_2608311425_0001.mov</name>
+            <duration>1320</duration>
+            <rate>
+              <timebase>60</timebase>
+              <ntsc>FALSE</ntsc>
+            </rate>
+            <start>106507</start>
+            <end>107827</end>
+            <in>131310</in>
+            <out>132630</out>
+            <file id="file-1"/>
+            <comments/>
+            <labels/>
+            <note>Про взлет Чадиной я рассказывал вам в одном из своих прошлых</note>
+          </clipitem>
+          <clipitem id="clipitem-41">
+            <name>Копия Keyed-Video_2608311425_0001.mov</name>
+            <duration>2206</duration>
+            <rate>
+              <timebase>60</timebase>
+              <ntsc>FALSE</ntsc>
+            </rate>
+            <start>108427</start>
+            <end>110633</end>
+            <in>134587</in>
+            <out>136793</out>
+            <file id="file-1"/>
+            <comments/>
+            <labels/>
+            <note>Есть, конечно, некий оверхайп вокруг ее фигуры, но пускай ст</note>
+          </clipitem>
+          <clipitem id="clipitem-42">
+            <name>Копия Keyed-Video_2608311425_0001.mov</name>
+            <duration>932</duration>
+            <rate>
+              <timebase>60</timebase>
+              <ntsc>FALSE</ntsc>
+            </rate>
+            <start>112432</start>
+            <end>113364</end>
+            <in>138058</in>
+            <out>138990</out>
+            <file id="file-1"/>
+            <comments/>
+            <labels/>
+            <note>Уфф… Выглядит…. странновато — какая-то постановочная съемка,</note>
+          </clipitem>
+          <clipitem id="clipitem-43">
+            <name>Копия Keyed-Video_2608311425_0001.mov</name>
+            <duration>1569</duration>
+            <rate>
+              <timebase>60</timebase>
+              <ntsc>FALSE</ntsc>
+            </rate>
+            <start>113364</start>
+            <end>114933</end>
+            <in>140587</in>
+            <out>142156</out>
+            <file id="file-1"/>
+            <comments/>
+            <labels/>
+            <note>К слову Чадина в этих фильмах только на постановочной началк</note>
+          </clipitem>
+          <clipitem id="clipitem-44">
+            <name>Копия Keyed-Video_2608311425_0001.mov</name>
+            <duration>628</duration>
+            <rate>
+              <timebase>60</timebase>
+              <ntsc>FALSE</ntsc>
+            </rate>
+            <start>114933</start>
+            <end>115561</end>
+            <in>143310</in>
+            <out>143938</out>
+            <file id="file-1"/>
+            <comments/>
+            <labels/>
+            <note>В одном из роликов Чадиной собрался весь свет новой российск</note>
+          </clipitem>
+          <clipitem id="clipitem-45">
+            <name>Копия Keyed-Video_2608311425_0001.mov</name>
+            <duration>1347</duration>
+            <rate>
+              <timebase>60</timebase>
+              <ntsc>FALSE</ntsc>
+            </rate>
+            <start>115560</start>
+            <end>116907</end>
+            <in>145452</in>
+            <out>146799</out>
+            <file id="file-1"/>
+            <comments/>
+            <labels/>
+            <note>Это самый удивительный персонаж за столом. У всех так или ин</note>
+          </clipitem>
+          <clipitem id="clipitem-46">
+            <name>Копия Keyed-Video_2608311425_0001.mov</name>
+            <duration>1264</duration>
+            <rate>
+              <timebase>60</timebase>
+              <ntsc>FALSE</ntsc>
+            </rate>
+            <start>116907</start>
+            <end>118171</end>
+            <in>148203</in>
+            <out>149467</out>
+            <file id="file-1"/>
+            <comments/>
+            <labels/>
+            <note>Но все его писательское творчество так и не вышло за рамки Ф</note>
+          </clipitem>
+          <clipitem id="clipitem-47">
+            <name>Копия Keyed-Video_2608311425_0001.mov</name>
+            <duration>240</duration>
+            <rate>
+              <timebase>60</timebase>
+              <ntsc>FALSE</ntsc>
+            </rate>
+            <start>118172</start>
+            <end>118412</end>
+            <in>150427</in>
+            <out>150667</out>
+            <file id="file-1"/>
+            <comments/>
+            <labels/>
+            <note>….но сейчас главное его занятие — походы на интервью.</note>
+          </clipitem>
+          <clipitem id="clipitem-48">
+            <name>Копия Keyed-Video_2608311425_0001.mov</name>
+            <duration>1846</duration>
+            <rate>
+              <timebase>60</timebase>
+              <ntsc>FALSE</ntsc>
+            </rate>
+            <start>119131</start>
+            <end>120977</end>
+            <in>152347</in>
+            <out>154193</out>
+            <file id="file-1"/>
+            <comments/>
+            <labels/>
+            <note>Важная информация для контекста. В начале 10-х годов, когда </note>
+          </clipitem>
+          <clipitem id="clipitem-49">
+            <name>Копия Keyed-Video_2608311425_0001.mov</name>
+            <duration>1098</duration>
+            <rate>
+              <timebase>60</timebase>
+              <ntsc>FALSE</ntsc>
+            </rate>
+            <start>120977</start>
+            <end>122075</end>
+            <in>155541</in>
+            <out>156639</out>
+            <file id="file-1"/>
+            <comments/>
+            <labels/>
+            <note>И нет, это не какое-то стародавнее интервью — Конев и сейчас</note>
+          </clipitem>
+          <clipitem id="clipitem-50">
+            <name>Копия Keyed-Video_2608311425_0001.mov</name>
+            <duration>1431</duration>
+            <rate>
+              <timebase>60</timebase>
+              <ntsc>FALSE</ntsc>
+            </rate>
+            <start>122075</start>
+            <end>123506</end>
+            <in>158236</in>
+            <out>159667</out>
+            <file id="file-1"/>
+            <comments/>
+            <labels/>
+            <note>Блять, в этом меме Фасолька что ли за кадром вопросы задает?</note>
+          </clipitem>
+          <clipitem id="clipitem-51">
+            <name>Копия Keyed-Video_2608311425_0001.mov</name>
+            <duration>1541</duration>
+            <rate>
+              <timebase>60</timebase>
+              <ntsc>FALSE</ntsc>
+            </rate>
+            <start>123505</start>
+            <end>125046</end>
+            <in>161292</in>
+            <out>162833</out>
+            <file id="file-1"/>
+            <comments/>
+            <labels/>
+            <note>Еще раз: Конев очень загадочный персонаж. У него нет ни боль</note>
+          </clipitem>
+          <clipitem id="clipitem-52">
+            <name>Копия Keyed-Video_2608311425_0001.mov</name>
+            <duration>599</duration>
+            <rate>
+              <timebase>60</timebase>
+              <ntsc>FALSE</ntsc>
+            </rate>
+            <start>125046</start>
+            <end>125645</end>
+            <in>163960</in>
+            <out>164559</out>
+            <file id="file-1"/>
+            <comments/>
+            <labels/>
+            <note>Но в любом случае Конев в этой тусовке разочаровался, сначал</note>
+          </clipitem>
+          <clipitem id="clipitem-53">
+            <name>Копия Keyed-Video_2608311425_0001.mov</name>
+            <duration>2123</duration>
+            <rate>
+              <timebase>60</timebase>
+              <ntsc>FALSE</ntsc>
+            </rate>
+            <start>125646</start>
+            <end>127769</end>
+            <in>166433</in>
+            <out>168556</out>
+            <file id="file-1"/>
+            <comments/>
+            <labels/>
+            <note>Ох, от этого тейка прямо разрывает. Для тех, кто не бывал в </note>
+          </clipitem>
+          <clipitem id="clipitem-54">
+            <name>Копия Keyed-Video_2608311425_0001.mov</name>
+            <duration>2039</duration>
+            <rate>
+              <timebase>60</timebase>
+              <ntsc>FALSE</ntsc>
+            </rate>
+            <start>138809</start>
+            <end>140848</end>
+            <in>170403</in>
+            <out>172442</out>
+            <file id="file-1"/>
+            <comments/>
+            <labels/>
+            <note>По большому счету и делать нихуя не нужно — просто ходи по э</note>
+          </clipitem>
+          <clipitem id="clipitem-55">
+            <name>Копия Keyed-Video_2608311425_0001.mov</name>
+            <duration>1015</duration>
+            <rate>
+              <timebase>60</timebase>
+              <ntsc>FALSE</ntsc>
+            </rate>
+            <start>156988</start>
+            <end>158003</end>
+            <in>173735</in>
+            <out>174750</out>
+            <file id="file-1"/>
+            <comments/>
+            <labels/>
+            <note>Иногда они — спасибо за эту милость — все же нехотя, но отве</note>
+          </clipitem>
+          <clipitem id="clipitem-56">
+            <name>Копия Keyed-Video_2608311425_0001.mov</name>
+            <duration>3756</duration>
+            <rate>
+              <timebase>60</timebase>
+              <ntsc>FALSE</ntsc>
+            </rate>
+            <start>158003</start>
+            <end>161759</end>
+            <in>175392</in>
+            <out>179148</out>
+            <file id="file-1"/>
+            <comments/>
+            <labels/>
+            <note>Что ж, готов продублировать здесь мое предложение к Марии — </note>
+          </clipitem>
+          <clipitem id="clipitem-57">
+            <name>Копия Keyed-Video_2608311425_0001.mov</name>
+            <duration>434</duration>
+            <rate>
+              <timebase>60</timebase>
+              <ntsc>FALSE</ntsc>
+            </rate>
+            <start>161760</start>
+            <end>162194</end>
+            <in>187904</in>
+            <out>188338</out>
+            <file id="file-1"/>
+            <comments/>
+            <labels/>
+            <note>Финальное испытание в нашем видео – Алена Максимович. Кто – </note>
+          </clipitem>
+          <clipitem id="clipitem-58">
+            <name>Копия Keyed-Video_2608311425_0001.mov</name>
+            <duration>1126</duration>
+            <rate>
+              <timebase>60</timebase>
+              <ntsc>FALSE</ntsc>
+            </rate>
+            <start>162193</start>
+            <end>163319</end>
+            <in>189796</in>
+            <out>190922</out>
+            <file id="file-1"/>
+            <comments/>
+            <labels/>
+            <note>Меган Маркл есть у нас дома. Она же – не популярная, но зато</note>
+          </clipitem>
+          <clipitem id="clipitem-59">
+            <name>Копия Keyed-Video_2608311425_0001.mov</name>
+            <duration>2317</duration>
+            <rate>
+              <timebase>60</timebase>
+              <ntsc>FALSE</ntsc>
+            </rate>
+            <start>163319</start>
+            <end>165636</end>
+            <in>191564</in>
+            <out>193881</out>
+            <file id="file-1"/>
+            <comments/>
+            <labels/>
+            <note>Тут я позволю себе довериться своей психологической интуиции</note>
+          </clipitem>
+          <clipitem id="clipitem-60">
+            <name>Копия Keyed-Video_2608311425_0001.mov</name>
+            <duration>1929</duration>
+            <rate>
+              <timebase>60</timebase>
+              <ntsc>FALSE</ntsc>
+            </rate>
+            <start>165635</start>
+            <end>167564</end>
+            <in>199798</in>
+            <out>201727</out>
+            <file id="file-1"/>
+            <comments/>
+            <labels/>
+            <note>То, что Алене настоящее искусство ближе, чем журналистское р</note>
+          </clipitem>
+          <clipitem id="clipitem-61">
+            <name>Копия Keyed-Video_2608311425_0001.mov</name>
+            <duration>1735</duration>
+            <rate>
+              <timebase>60</timebase>
+              <ntsc>FALSE</ntsc>
+            </rate>
+            <start>167564</start>
+            <end>169299</end>
+            <in>207575</in>
+            <out>209310</out>
+            <file id="file-1"/>
+            <comments/>
+            <labels/>
+            <note>Если фрагмент из сериала так и не появился, значит, мне приш</note>
+          </clipitem>
+          <clipitem id="clipitem-62">
+            <name>Копия Keyed-Video_2608311425_0001.mov</name>
+            <duration>2400</duration>
+            <rate>
+              <timebase>60</timebase>
+              <ntsc>FALSE</ntsc>
+            </rate>
+            <start>169299</start>
+            <end>171699</end>
+            <in>211378</in>
+            <out>213778</out>
+            <file id="file-1"/>
+            <comments/>
+            <labels/>
+            <note>В 22-м году Максимович напишет такой пост: уверена, весь мир</note>
+          </clipitem>
+          <clipitem id="clipitem-63">
+            <name>Копия Keyed-Video_2608311425_0001.mov</name>
+            <duration>2205</duration>
+            <rate>
+              <timebase>60</timebase>
+              <ntsc>FALSE</ntsc>
+            </rate>
+            <start>171699</start>
+            <end>173904</end>
+            <in>214420</in>
+            <out>216625</out>
+            <file id="file-1"/>
+            <comments/>
+            <labels/>
+            <note>(вкрадчиво)
+
+За Малую Токмачку… А что случилось с Аленой пос</note>
+          </clipitem>
+          <clipitem id="clipitem-64">
+            <name>Копия Keyed-Video_2608311425_0001.mov</name>
+            <duration>1153</duration>
+            <rate>
+              <timebase>60</timebase>
+              <ntsc>FALSE</ntsc>
+            </rate>
+            <start>173905</start>
+            <end>175058</end>
+            <in>222252</in>
+            <out>223405</out>
+            <file id="file-1"/>
+            <comments/>
+            <labels/>
+            <note>Про то, что «вопросов никогда не будет» мы заскринили. На са</note>
+          </clipitem>
+          <clipitem id="clipitem-65">
+            <name>Копия Keyed-Video_2608311425_0001.mov</name>
+            <duration>1956</duration>
+            <rate>
+              <timebase>60</timebase>
+              <ntsc>FALSE</ntsc>
+            </rate>
+            <start>175058</start>
+            <end>177014</end>
+            <in>225252</in>
+            <out>227208</out>
+            <file id="file-1"/>
+            <comments/>
+            <labels/>
+            <note>А у Алены – наоборот, такой друг есть. После 22 года она про</note>
+          </clipitem>
+          <clipitem id="clipitem-66">
+            <name>Копия Keyed-Video_2608311425_0001.mov</name>
+            <duration>960</duration>
+            <rate>
+              <timebase>60</timebase>
+              <ntsc>FALSE</ntsc>
+            </rate>
+            <start>177014</start>
+            <end>177974</end>
+            <in>228501</in>
+            <out>229461</out>
+            <file id="file-1"/>
+            <comments/>
+            <labels/>
+            <note>Разоблачая вранье уехавших, самое главное не выйти на саму с</note>
+          </clipitem>
+          <clipitem id="clipitem-67">
+            <name>Копия Keyed-Video_2608311425_0001.mov</name>
+            <duration>2871</duration>
+            <rate>
+              <timebase>60</timebase>
+              <ntsc>FALSE</ntsc>
+            </rate>
+            <start>177974</start>
+            <end>180845</end>
+            <in>231667</in>
+            <out>234538</out>
+            <file id="file-1"/>
+            <comments/>
+            <labels/>
+            <note>Алена, если вы думаете, что в России сложно стать предателем</note>
+          </clipitem>
+          <clipitem id="clipitem-68">
+            <name>Копия Keyed-Video_2608311425_0001.mov</name>
+            <duration>877</duration>
+            <rate>
+              <timebase>60</timebase>
+              <ntsc>FALSE</ntsc>
+            </rate>
+            <start>180844</start>
+            <end>181721</end>
+            <in>235830</in>
+            <out>236707</out>
+            <file id="file-1"/>
+            <comments/>
+            <labels/>
+            <note>И в Тайланде в 2025 году Алена пожить успела – во всяком слу</note>
+          </clipitem>
+          <clipitem id="clipitem-69">
+            <name>Копия Keyed-Video_2608311425_0001.mov</name>
+            <duration>1181</duration>
+            <rate>
+              <timebase>60</timebase>
+              <ntsc>FALSE</ntsc>
+            </rate>
+            <start>181721</start>
+            <end>182902</end>
+            <in>238083</in>
+            <out>239264</out>
+            <file id="file-1"/>
+            <comments/>
+            <labels/>
+            <note>Алена, поясню на примере. Вот у вас же есть сестра? Скажите,</note>
+          </clipitem>
+          <clipitem id="clipitem-70">
+            <name>Копия Keyed-Video_2608311425_0001.mov</name>
+            <duration>1679</duration>
+            <rate>
+              <timebase>60</timebase>
+              <ntsc>FALSE</ntsc>
+            </rate>
+            <start>182902</start>
+            <end>184581</end>
+            <in>239906</in>
+            <out>241585</out>
+            <file id="file-1"/>
+            <comments/>
+            <labels/>
+            <note>Короче, уровень аналитики вы поняли. Под жесткий разбор Макс</note>
+          </clipitem>
+          <clipitem id="clipitem-71">
+            <name>Копия Keyed-Video_2608311425_0001.mov</name>
+            <duration>3119</duration>
+            <rate>
+              <timebase>60</timebase>
+              <ntsc>FALSE</ntsc>
+            </rate>
+            <start>184582</start>
+            <end>187701</end>
+            <in>247517</in>
+            <out>250636</out>
+            <file id="file-1"/>
+            <comments/>
+            <labels/>
+            <note>Хммм… выходит план Даллеса все-таки работает … Алена у меня </note>
+          </clipitem>
+          <clipitem id="clipitem-72">
+            <name>Копия Keyed-Video_2608311425_0001.mov</name>
+            <duration>1098</duration>
+            <rate>
+              <timebase>60</timebase>
+              <ntsc>FALSE</ntsc>
+            </rate>
+            <start>187701</start>
+            <end>188799</end>
+            <in>252040</in>
+            <out>253138</out>
+            <file id="file-1"/>
+            <comments/>
+            <labels/>
+            <note>А блять примеры будут какие-то? Ну типа кто так говорил, это</note>
+          </clipitem>
+          <clipitem id="clipitem-73">
+            <name>Копия Keyed-Video_2608311425_0001.mov</name>
+            <duration>2371</duration>
+            <rate>
+              <timebase>60</timebase>
+              <ntsc>FALSE</ntsc>
+            </rate>
+            <start>188799</start>
+            <end>191170</end>
+            <in>253780</in>
+            <out>256151</out>
+            <file id="file-1"/>
+            <comments/>
+            <labels/>
+            <note>Если вдруг меня сейчас смотрят какие-то участники СВОУ, для </note>
+          </clipitem>
+          <clipitem id="clipitem-74">
+            <name>Копия Keyed-Video_2608311425_0001.mov</name>
+            <duration>3341</duration>
+            <rate>
+              <timebase>60</timebase>
+              <ntsc>FALSE</ntsc>
+            </rate>
+            <start>191171</start>
+            <end>194512</end>
+            <in>263384</in>
+            <out>266725</out>
+            <file id="file-1"/>
+            <comments/>
+            <labels/>
+            <note>Что ж, ставьте лайки и подписывайтесь на канал. Пока\! 
+
+*КО</note>
+          </clipitem>
+          <clipitem id="clipitem-75">
+            <name>Копия Keyed-Video_2608311425_0001.mov</name>
+            <duration>1513</duration>
+            <rate>
+              <timebase>60</timebase>
+              <ntsc>FALSE</ntsc>
+            </rate>
+            <start>194512</start>
+            <end>196025</end>
+            <in>268240</in>
+            <out>269753</out>
+            <file id="file-1"/>
+            <comments/>
+            <labels/>
+            <note>Так будут в конце-концов нормальные доводы или нет? Нет, не </note>
+          </clipitem>
+        </track>
+      </video>
+    </media>
+    <marker>
+      <name>ЛАЙВ</name>
+      <in>2870</in>
+      <out>-1</out>
+      <comment>ЛАЙВ | https://www.youtube.com/watch?v=Tm0L6YP6w | 0:20—0:51</comment>
+    </marker>
+    <marker>
+      <name>ЛАЙВ</name>
+      <in>6133</in>
+      <out>-1</out>
+      <comment>ЛАЙВ | https://www.youtube.com/watch?v=Tm0L6YP6w | 1:25—1:54</comment>
+    </marker>
+    <marker>
+      <name>ЛАЙВ</name>
+      <in>7873</in>
+      <out>-1</out>
+      <comment>ЛАЙВ | http://kremlin.ru/events/president/news/69390 | 9:30—9:50</comment>
+    </marker>
+    <marker>
+      <name>ЛАЙВ</name>
+      <in>10697</in>
+      <out>-1</out>
+      <comment>ЛАЙВ | https://www.youtube.com/watch?v=Tm0L6YP6w | 5:40—6:02</comment>
+    </marker>
+    <marker>
+      <name>ЛАЙВ</name>
+      <in>13226</in>
+      <out>-1</out>
+      <comment>ЛАЙВ | https://www.youtube.com/watch?v=PuKuothgmT8</comment>
+    </marker>
+    <marker>
+      <name>ЛАЙВ</name>
+      <in>13936</in>
+      <out>-1</out>
+      <comment>ЛАЙВ | https://www.youtube.com/watch?v=Tm0L6YP6w | 8:39—9:07</comment>
+    </marker>
+    <marker>
+      <name>ЛАЙВ</name>
+      <in>18487</in>
+      <out>-1</out>
+      <comment>ЛАЙВ | https://www.youtube.com/watch?v=Tm0L6YP6w | 9:33—9:40</comment>
+    </marker>
+    <marker>
+      <name>ЛАЙВ</name>
+      <in>19534</in>
+      <out>-1</out>
+      <comment>ЛАЙВ | https://www.youtube.com/watch?v=Tm0L6YP6w</comment>
+    </marker>
+    <marker>
+      <name>ЛАЙВ</name>
+      <in>21214</in>
+      <out>-1</out>
+      <comment>ЛАЙВ | https://www.youtube.com/watch?v=Tm0L6YP6w</comment>
+    </marker>
+    <marker>
+      <name>ЛАЙВ</name>
+      <in>22146</in>
+      <out>-1</out>
+      <comment>ЛАЙВ | https://www.</comment>
+    </marker>
+    <marker>
+      <name>ЛАЙВ</name>
+      <in>23299</in>
+      <out>-1</out>
+      <comment>ЛАЙВ | http://kremlin.ru/events/president/news/50971 | 2:06—6:20</comment>
+    </marker>
+    <marker>
+      <name>ЛАЙВ</name>
+      <in>43809</in>
+      <out>-1</out>
+      <comment>ЛАЙВ | https://www.youtube.com/watch?v=Tm0L6YP6w</comment>
+    </marker>
+    <marker>
+      <name>ЛАЙВ</name>
+      <in>45904</in>
+      <out>-1</out>
+      <comment>ЛАЙВ | http://kremlin.ru/events/president/news/78632 | 9:15—9:22</comment>
+    </marker>
+    <marker>
+      <name>ЛАЙВ</name>
+      <in>48363</in>
+      <out>-1</out>
+      <comment>ЛАЙВ | https://www.youtube.com/watch?v=Tm0L6YP6w | 0:21—0:28</comment>
+    </marker>
+    <marker>
+      <name>ЛАЙВ</name>
+      <in>50463</in>
+      <out>-1</out>
+      <comment>ЛАЙВ | https://www.youtube.com/watch?v=AUUVyAs-ARg | 0:10—0:22</comment>
+    </marker>
+    <marker>
+      <name>ЛАЙВ</name>
+      <in>52004</in>
+      <out>-1</out>
+      <comment>ЛАЙВ | https://www.youtube.com/watch?v=AUUVyAs-ARg | 1:06—1:14</comment>
+    </marker>
+    <marker>
+      <name>ЛАЙВ</name>
+      <in>52004</in>
+      <out>-1</out>
+      <comment>ЛАЙВ | https://www.youtube.com/watch?v=AUUVyAs-ARg | 1:20—1:31</comment>
+    </marker>
+    <marker>
+      <name>ЛАЙВ</name>
+      <in>55239</in>
+      <out>-1</out>
+      <comment>ЛАЙВ | https://www.youtube.com/watch?v=AUUVyAs-ARg | 1:40—1:59</comment>
+    </marker>
+    <marker>
+      <name>ЛАЙВ</name>
+      <in>56674</in>
+      <out>-1</out>
+      <comment>ЛАЙВ | https://www.youtube.com/watch?v=DKMTD1I0gr4</comment>
+    </marker>
+    <marker>
+      <name>ЛАЙВ</name>
+      <in>57551</in>
+      <out>-1</out>
+      <comment>ЛАЙВ | https://www.youtube.com/watch?v=AUUVyAs-ARg | 8:28—9:11</comment>
+    </marker>
+    <marker>
+      <name>ЛАЙВ</name>
+      <in>61810</in>
+      <out>-1</out>
+      <comment>ЛАЙВ | https://t.me/bazabazon/22579</comment>
+    </marker>
+    <marker>
+      <name>ЛАЙВ</name>
+      <in>62797</in>
+      <out>-1</out>
+      <comment>ЛАЙВ | https://www.youtube.com/watch?v=AUUVyAs-ARg | 9:22—9:36</comment>
+    </marker>
+    <marker>
+      <name>ЛАЙВ</name>
+      <in>66148</in>
+      <out>-1</out>
+      <comment>ЛАЙВ | https://www.youtube.com/watch?v=AUUVyAs-ARg | 3:14—3:40</comment>
+    </marker>
+    <marker>
+      <name>ЛАЙВ</name>
+      <in>68363</in>
+      <out>-1</out>
+      <comment>ЛАЙВ | https://www.[youtube.com/watch?v=AUUVyAs-ARg</comment>
+    </marker>
+    <marker>
+      <name>ЛАЙВ</name>
+      <in>68363</in>
+      <out>-1</out>
+      <comment>ЛАЙВ | https://www.[youtube.com/watch?v=AUUVyAs-ARg</comment>
+    </marker>
+    <marker>
+      <name>ЛАЙВ</name>
+      <in>69378</in>
+      <out>-1</out>
+      <comment>ЛАЙВ | https://www.youtube.com/watch?v=V80WPXBktzo</comment>
+    </marker>
+    <marker>
+      <name>ЛАЙВ</name>
+      <in>69811</in>
+      <out>-1</out>
+      <comment>ЛАЙВ | https://www.</comment>
+    </marker>
+    <marker>
+      <name>ЛАЙВ</name>
+      <in>71906</in>
+      <out>-1</out>
+      <comment>ЛАЙВ | https://www.</comment>
+    </marker>
+    <marker>
+      <name>ЛАЙВ</name>
+      <in>72256</in>
+      <out>-1</out>
+      <comment>ЛАЙВ | https://www.youtube.com/watch?v=kOWXvxDOxk8</comment>
+    </marker>
+    <marker>
+      <name>ЛАЙВ</name>
+      <in>73410</in>
+      <out>-1</out>
+      <comment>ЛАЙВ | https://www.</comment>
+    </marker>
+    <marker>
+      <name>ЛАЙВ</name>
+      <in>74065</in>
+      <out>-1</out>
+      <comment>ЛАЙВ | https://www.youtube.com/watch?v=AUUVyAs-ARg</comment>
+    </marker>
+    <marker>
+      <name>ЛАЙВ</name>
+      <in>75301</in>
+      <out>-1</out>
+      <comment>ЛАЙВ | https://smotrim.ru/brand/65238 | 1:34—4:35</comment>
+    </marker>
+    <marker>
+      <name>ЛАЙВ</name>
+      <in>87952</in>
+      <out>-1</out>
+      <comment>ЛАЙВ | https://www.youtube.com/watch?v=AUUVyAs-ARg | 0:31—0:50</comment>
+    </marker>
+    <marker>
+      <name>ЛАЙВ</name>
+      <in>89092</in>
+      <out>-1</out>
+      <comment>ЛАЙВ | https://www.youtube.com/watch?v=Tm0L6YP6w | 7:00—7:12</comment>
+    </marker>
+    <marker>
+      <name>ЛАЙВ</name>
+      <in>92101</in>
+      <out>-1</out>
+      <comment>ЛАЙВ | https://www.youtube.com/watch?v=ETwYGGK3sW8 | 0:56—1:19</comment>
+    </marker>
+    <marker>
+      <name>ЛАЙВ</name>
+      <in>94689</in>
+      <out>-1</out>
+      <comment>ЛАЙВ | https://www.youtube.com/watch?v=xKo8uHegb5k | 4:06—4:30</comment>
+    </marker>
+    <marker>
+      <name>ЛАЙВ</name>
+      <in>98751</in>
+      <out>-1</out>
+      <comment>ЛАЙВ | https://www.youtube.com/watch?v=3tnT2V0gyLU | 2:35—2:39</comment>
+    </marker>
+    <marker>
+      <name>ЛАЙВ</name>
+      <in>100033</in>
+      <out>-1</out>
+      <comment>ЛАЙВ | https://www.instagram.com/reel/Db8HyWVMM0E/ | 0:00—0:10</comment>
+    </marker>
+    <marker>
+      <name>ЛАЙВ</name>
+      <in>100633</in>
+      <out>-1</out>
+      <comment>ЛАЙВ | https://www.tiktok.com/@frontrowside/video/7564746347283483927 | 0:00—0:14</comment>
+    </marker>
+    <marker>
+      <name>ЛАЙВ</name>
+      <in>101962</in>
+      <out>-1</out>
+      <comment>ЛАЙВ | https://xn--b1aedk0adbpf1i.xn--p1ai/interview | 0:07—0:17</comment>
+    </marker>
+    <marker>
+      <name>ЛАЙВ</name>
+      <in>103743</in>
+      <out>-1</out>
+      <comment>ЛАЙВ | https://xn--b1aedk0adbpf1i.xn--p1ai/interview</comment>
+    </marker>
+    <marker>
+      <name>ЛАЙВ</name>
+      <in>104897</in>
+      <out>-1</out>
+      <comment>ЛАЙВ | https://aeb25bef-e00a-4dc2-8de9-d3e317ab7aac.selstorage.ru/files/civileva</comment>
+    </marker>
+    <marker>
+      <name>ЛАЙВ</name>
+      <in>104897</in>
+      <out>-1</out>
+      <comment>ЛАЙВ | https://aeb25bef-e00a-4dc2-8de9-d3e317ab7aac.selstorage.ru/files/podguzova | 0:55—1:02</comment>
+    </marker>
+    <marker>
+      <name>ЛАЙВ</name>
+      <in>106387</in>
+      <out>-1</out>
+      <comment>ЛАЙВ | https://xn--b1aedk0adbpf1i.xn--p1ai/interview | 3:45—3:47</comment>
+    </marker>
+    <marker>
+      <name>ЛАЙВ</name>
+      <in>107827</in>
+      <out>-1</out>
+      <comment>ЛАЙВ | https://www.instagram.com/reel/DbF07H9MZUd/ | 0:00—0:10</comment>
+    </marker>
+    <marker>
+      <name>ЛАЙВ</name>
+      <in>110632</in>
+      <out>-1</out>
+      <comment>ЛАЙВ | https://vkvideo.ru/video-220147210 | 0:00—0:30</comment>
+    </marker>
+    <marker>
+      <name>ЛАЙВ</name>
+      <in>113364</in>
+      <out>-1</out>
+      <comment>ЛАЙВ | https://vkvideo.ru/video-220147210</comment>
+    </marker>
+    <marker>
+      <name>ЛАЙВ</name>
+      <in>114933</in>
+      <out>-1</out>
+      <comment>ЛАЙВ | https://rutube.ru/video/1f75f0b2d3dceed52e9817bce77e1e8b/</comment>
+    </marker>
+    <marker>
+      <name>ЛАЙВ</name>
+      <in>115560</in>
+      <out>-1</out>
+      <comment>ЛАЙВ | https://rutube.ru/video/1f75f0b2d3dceed52e9817bce77e1e8b/</comment>
+    </marker>
+    <marker>
+      <name>ЛАЙВ</name>
+      <in>116907</in>
+      <out>-1</out>
+      <comment>ЛАЙВ | https://www.youtube.com/watch?v=y58OrQA-FZM</comment>
+    </marker>
+    <marker>
+      <name>ЛАЙВ</name>
+      <in>118411</in>
+      <out>-1</out>
+      <comment>ЛАЙВ | https://www.youtube.com/watch?v=ZGBCPbsZuds | 3:37—3:49</comment>
+    </marker>
+    <marker>
+      <name>ЛАЙВ</name>
+      <in>120977</in>
+      <out>-1</out>
+      <comment>ЛАЙВ | https://www.youtube.com/watch?v=ZGBCPbsZuds</comment>
+    </marker>
+    <marker>
+      <name>ЛАЙВ</name>
+      <in>122075</in>
+      <out>-1</out>
+      <comment>ЛАЙВ | https://www.youtube.com/shorts/ynADzU1eOiM</comment>
+    </marker>
+    <marker>
+      <name>ЛАЙВ</name>
+      <in>122075</in>
+      <out>-1</out>
+      <comment>ЛАЙВ | None</comment>
+    </marker>
+    <marker>
+      <name>ЛАЙВ</name>
+      <in>123505</in>
+      <out>-1</out>
+      <comment>ЛАЙВ | https://www.youtube.com/watch?v=ZGBCPbsZuds</comment>
+    </marker>
+    <marker>
+      <name>ЛАЙВ</name>
+      <in>125046</in>
+      <out>-1</out>
+      <comment>ЛАЙВ | https://www.youtube.com/watch?v=ZGBCPbsZuds</comment>
+    </marker>
+    <marker>
+      <name>ЛАЙВ</name>
+      <in>125646</in>
+      <out>-1</out>
+      <comment>ЛАЙВ | https://www.youtube.com/watch?v=ZGBCPbsZuds</comment>
+    </marker>
+    <marker>
+      <name>ЛАЙВ</name>
+      <in>127769</in>
+      <out>-1</out>
+      <comment>ЛАЙВ | https://www.youtube.com/watch?v=ZGBCPbsZuds | 1:03—4:07</comment>
+    </marker>
+    <marker>
+      <name>ЛАЙВ</name>
+      <in>140848</in>
+      <out>-1</out>
+      <comment>ЛАЙВ | https://www.youtube.com/watch?v=e5bRVIPBG34 | 1:25—5:54</comment>
+    </marker>
+    <marker>
+      <name>ЛАЙВ</name>
+      <in>162193</in>
+      <out>-1</out>
+      <comment>ЛАЙВ | None</comment>
+    </marker>
+    <marker>
+      <name>ЛАЙВ</name>
+      <in>169299</in>
+      <out>-1</out>
+      <comment>ЛАЙВ | https://www.youtube.com/watch?v=D78TsJbDufo&gt;</comment>
+    </marker>
+    <marker>
+      <name>ЛАЙВ</name>
+      <in>175058</in>
+      <out>-1</out>
+      <comment>ЛАЙВ | https://www.youtube.com/watch?v=e5bRVIPBG34</comment>
+    </marker>
+    <marker>
+      <name>ЛАЙВ</name>
+      <in>177014</in>
+      <out>-1</out>
+      <comment>ЛАЙВ | None</comment>
+    </marker>
+    <marker>
+      <name>ЛАЙВ</name>
+      <in>177014</in>
+      <out>-1</out>
+      <comment>ЛАЙВ | https://www.youtube.com/watch?v=e5bRVIPBG34</comment>
+    </marker>
+    <marker>
+      <name>ЛАЙВ</name>
+      <in>177974</in>
+      <out>-1</out>
+      <comment>ЛАЙВ | None</comment>
+    </marker>
+    <marker>
+      <name>ЛАЙВ</name>
+      <in>181721</in>
+      <out>-1</out>
+      <comment>ЛАЙВ | None</comment>
+    </marker>
+    <marker>
+      <name>ЛАЙВ</name>
+      <in>182902</in>
+      <out>-1</out>
+      <comment>ЛАЙВ | None</comment>
+    </marker>
+    <marker>
+      <name>ЛАЙВ</name>
+      <in>191171</in>
+      <out>-1</out>
+      <comment>ЛАЙВ | None</comment>
+    </marker>
+    <marker>
+      <name>ЛАЙВ</name>
+      <in>196026</in>
+      <out>-1</out>
+      <comment>ЛАЙВ | https://www.youtube.com/watch?v=BFW6ugvzpQ0 | 0:00—0:05</comment>
+    </marker>
+    <marker>
+      <name>ЛАЙВ</name>
+      <in>196326</in>
+      <out>-1</out>
+      <comment>ЛАЙВ | https://www.youtube.com/watch?v=tvHrEjlZj0I&gt;</comment>
+    </marker>
+  </sequence>
+</xmeml>
