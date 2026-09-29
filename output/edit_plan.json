@@ -1,0 +1,816 @@
+{
+  "project_name": "Модная пропаганда ч2",
+  "sequence_name": "Мп_v1",
+  "fps": 60.0,
+  "width": 1920,
+  "height": 1080,
+  "clips": [
+    {
+      "source_path": "C:/Users/Artem/Videos/Макашенец/МОДНАЯ ПРОПАГАНДА/Копия Keyed-Video_2608311425_0001.mov",
+      "in_point": 4.89,
+      "out_point": 52.729,
+      "timeline_start": 0.0,
+      "label": "Зачем я это все так подробно разбираю? А чтобы в полной мере"
+    },
+    {
+      "source_path": "C:/Users/Artem/Videos/Макашенец/МОДНАЯ ПРОПАГАНДА/Копия Keyed-Video_2608311425_0001.mov",
+      "in_point": 169.582,
+      "out_point": 192.95999999999998,
+      "timeline_start": 78.839,
+      "label": "Дальше вы думаете, что Антонов скажет, почему вероятность мо"
+    },
+    {
+      "source_path": "C:/Users/Artem/Videos/Макашенец/МОДНАЯ ПРОПАГАНДА/Копия Keyed-Video_2608311425_0001.mov",
+      "in_point": 244.19799999999998,
+      "out_point": 271.268,
+      "timeline_start": 151.21699999999998,
+      "label": "Вероятно, здесь Антонов рассуждает про вторую волну мобилиза"
+    },
+    {
+      "source_path": "C:/Users/Artem/Videos/Макашенец/МОДНАЯ ПРОПАГАНДА/Копия Keyed-Video_2608311425_0001.mov",
+      "in_point": 294.198,
+      "out_point": 314.34499999999997,
+      "timeline_start": 200.28699999999998,
+      "label": "На случай, например, вторжения в соседнюю страну. Особенно, "
+    },
+    {
+      "source_path": "C:/Users/Artem/Videos/Макашенец/МОДНАЯ ПРОПАГАНДА/Копия Keyed-Video_2608311425_0001.mov",
+      "in_point": 334.505,
+      "out_point": 346.34499999999997,
+      "timeline_start": 220.43399999999997,
+      "label": "Но вернемся к мобилизации. О той, что началась в 2022-м году"
+    },
+    {
+      "source_path": "C:/Users/Artem/Videos/Макашенец/МОДНАЯ ПРОПАГАНДА/Копия Keyed-Video_2608311425_0001.mov",
+      "in_point": 383.121,
+      "out_point": 430.96,
+      "timeline_start": 260.27399999999994,
+      "label": "Я бы это перефразировал так: часто ли мы видим, что блогеры-"
+    },
+    {
+      "source_path": "C:/Users/Artem/Videos/Макашенец/МОДНАЯ ПРОПАГАНДА/Копия Keyed-Video_2608311425_0001.mov",
+      "in_point": 450.659,
+      "out_point": 461.114,
+      "timeline_start": 315.11299999999994,
+      "label": "То есть в следующий раз будет лучше? Вроде бы в начале ролик"
+    },
+    {
+      "source_path": "C:/Users/Artem/Videos/Макашенец/МОДНАЯ ПРОПАГАНДА/Копия Keyed-Video_2608311425_0001.mov",
+      "in_point": 488.198,
+      "out_point": 516.191,
+      "timeline_start": 325.5679999999999,
+      "label": "Братан, остановись. Ты ровно две минуты назад говорил про то"
+    },
+    {
+      "source_path": "C:/Users/Artem/Videos/Макашенец/МОДНАЯ ПРОПАГАНДА/Копия Keyed-Video_2608311425_0001.mov",
+      "in_point": 537.275,
+      "out_point": 552.806,
+      "timeline_start": 353.561,
+      "label": "Что ж,  зафиксируем. Антонов говорит, что реальная мобилизац"
+    },
+    {
+      "source_path": "C:/Users/Artem/Videos/Макашенец/МОДНАЯ ПРОПАГАНДА/Копия Keyed-Video_2608311425_0001.mov",
+      "in_point": 575.736,
+      "out_point": 594.96,
+      "timeline_start": 369.09200000000004,
+      "label": "(нюхает) Чувствуете? Пахнет пиздежом. 2018-й год, выборы пре"
+    },
+    {
+      "source_path": "C:/Users/Artem/Videos/Макашенец/МОДНАЯ ПРОПАГАНДА/Копия Keyed-Video_2608311425_0001.mov",
+      "in_point": 630.813,
+      "out_point": 677.268,
+      "timeline_start": 642.316,
+      "label": "Те, кто не помнит — угадайте, что произошло осенью 2018-го, "
+    },
+    {
+      "source_path": "C:/Users/Artem/Videos/Макашенец/МОДНАЯ ПРОПАГАНДА/Копия Keyed-Video_2608311425_0001.mov",
+      "in_point": 711.275,
+      "out_point": 752.652,
+      "timeline_start": 688.7710000000001,
+      "label": "Ээээ, а это какими цифрами? Россия не публикует данные о пот"
+    },
+    {
+      "source_path": "C:/Users/Artem/Videos/Макашенец/МОДНАЯ ПРОПАГАНДА/Копия Keyed-Video_2608311425_0001.mov",
+      "in_point": 785.275,
+      "out_point": 820.191,
+      "timeline_start": 730.1480000000001,
+      "label": "Сначала Антонов говорит, что Россия худо-бедно наступает. В "
+    },
+    {
+      "source_path": "C:/Users/Artem/Videos/Макашенец/МОДНАЯ ПРОПАГАНДА/Копия Keyed-Video_2608311425_0001.mov",
+      "in_point": 830.89,
+      "out_point": 864.883,
+      "timeline_start": 772.0640000000002,
+      "label": "Наверное, если попытаться обобщить слова Антонова до какой-т"
+    },
+    {
+      "source_path": "C:/Users/Artem/Videos/Макашенец/МОДНАЯ ПРОПАГАНДА/Копия Keyed-Video_2608311425_0001.mov",
+      "in_point": 964.659,
+      "out_point": 992.652,
+      "timeline_start": 813.0570000000002,
+      "label": "Впрочем, у того же Антонова есть еще один примечательный рол"
+    },
+    {
+      "source_path": "C:/Users/Artem/Videos/Макашенец/МОДНАЯ ПРОПАГАНДА/Копия Keyed-Video_2608311425_0001.mov",
+      "in_point": 1013.275,
+      "out_point": 1026.96,
+      "timeline_start": 853.0500000000003,
+      "label": "Ну то есть ожидания вполне конкретные: сейчас Антонов докаже"
+    },
+    {
+      "source_path": "C:/Users/Artem/Videos/Макашенец/МОДНАЯ ПРОПАГАНДА/Копия Keyed-Video_2608311425_0001.mov",
+      "in_point": 1058.659,
+      "out_point": 1093.575,
+      "timeline_start": 885.7350000000004,
+      "label": "Первая минута — первый пиздеж. Снова повторюсь, Антонов очев"
+    },
+    {
+      "source_path": "C:/Users/Artem/Videos/Макашенец/МОДНАЯ ПРОПАГАНДА/Копия Keyed-Video_2608311425_0001.mov",
+      "in_point": 1110.505,
+      "out_point": 1115.422,
+      "timeline_start": 939.6510000000003,
+      "label": "Зачитывание вслух текста с официального сайта агентства — по"
+    },
+    {
+      "source_path": "C:/Users/Artem/Videos/Макашенец/МОДНАЯ ПРОПАГАНДА/Копия Keyed-Video_2608311425_0001.mov",
+      "in_point": 1137.89,
+      "out_point": 1152.498,
+      "timeline_start": 944.5680000000002,
+      "label": "На самом деле нет. Антонов долго и нудно рассказывает об аге"
+    },
+    {
+      "source_path": "C:/Users/Artem/Videos/Макашенец/МОДНАЯ ПРОПАГАНДА/Копия Keyed-Video_2608311425_0001.mov",
+      "in_point": 1180.044,
+      "out_point": 1208.037,
+      "timeline_start": 1002.1760000000002,
+      "label": "И опять мы видим, как Антонов почему-то перескакивает с одно"
+    },
+    {
+      "source_path": "C:/Users/Artem/Videos/Макашенец/МОДНАЯ ПРОПАГАНДА/Копия Keyed-Video_2608311425_0001.mov",
+      "in_point": 1229.582,
+      "out_point": 1246.037,
+      "timeline_start": 1030.169,
+      "label": "Так вот, по мнению блогера Антонова — это так, небольшой бар"
+    },
+    {
+      "source_path": "C:/Users/Artem/Videos/Макашенец/МОДНАЯ ПРОПАГАНДА/Копия Keyed-Video_2608311425_0001.mov",
+      "in_point": 1256.736,
+      "out_point": 1298.575,
+      "timeline_start": 1060.624,
+      "label": "Антонов вроде как и не утверждает напрямую, но непрозрачно н"
+    },
+    {
+      "source_path": "C:/Users/Artem/Videos/Макашенец/МОДНАЯ ПРОПАГАНДА/Копия Keyed-Video_2608311425_0001.mov",
+      "in_point": 1402.505,
+      "out_point": 1413.422,
+      "timeline_start": 1128.463,
+      "label": "И типа эта новость про поддержку медиа в странах Балтии от 2"
+    },
+    {
+      "source_path": "C:/Users/Artem/Videos/Макашенец/МОДНАЯ ПРОПАГАНДА/Копия Keyed-Video_2608311425_0001.mov",
+      "in_point": 1470.659,
+      "out_point": 1487.575,
+      "timeline_start": 1139.3799999999999,
+      "label": "20 счастливчиков в Латвии, Литве и Эстонии, которые получили"
+    },
+    {
+      "source_path": "C:/Users/Artem/Videos/Макашенец/МОДНАЯ ПРОПАГАНДА/Копия Keyed-Video_2608311425_0001.mov",
+      "in_point": 1505.428,
+      "out_point": 1512.652,
+      "timeline_start": 1156.2959999999998,
+      "label": "Как от этого провести ниточку к Дудю?  А вот как — инструкци"
+    },
+    {
+      "source_path": "C:/Users/Artem/Videos/Макашенец/МОДНАЯ ПРОПАГАНДА/Копия Keyed-Video_2608311425_0001.mov",
+      "in_point": 1545.275,
+      "out_point": 1580.191,
+      "timeline_start": 1163.5199999999998,
+      "label": "Че то я не понял, Антонов говорит, что у экстремиста Навальн"
+    },
+    {
+      "source_path": "C:/Users/Artem/Videos/Макашенец/МОДНАЯ ПРОПАГАНДА/Копия Keyed-Video_2608311425_0001.mov",
+      "in_point": 1596.198,
+      "out_point": 1602.037,
+      "timeline_start": 1198.4359999999997,
+      "label": "Что ж, фиксируем. Британское правительство выделило деньги н"
+    },
+    {
+      "source_path": "C:/Users/Artem/Videos/Макашенец/МОДНАЯ ПРОПАГАНДА/Копия Keyed-Video_2608311425_0001.mov",
+      "in_point": 1625.428,
+      "out_point": 1644.652,
+      "timeline_start": 1204.2749999999996,
+      "label": "Большую часть бюджета, понятно, съели эти выдающиеся штаны. "
+    },
+    {
+      "source_path": "C:/Users/Artem/Videos/Макашенец/МОДНАЯ ПРОПАГАНДА/Копия Keyed-Video_2608311425_0001.mov",
+      "in_point": 1664.352,
+      "out_point": 1675.268,
+      "timeline_start": 1223.4989999999996,
+      "label": "Дудю дали на штаны, а Варламову — на дизайнера обложек на ви"
+    },
+    {
+      "source_path": "C:/Users/Artem/Videos/Макашенец/МОДНАЯ ПРОПАГАНДА/Копия Keyed-Video_2608311425_0001.mov",
+      "in_point": 1699.582,
+      "out_point": 1720.191,
+      "timeline_start": 1234.4149999999995,
+      "label": "Я, конечно, свечку не держал, но наверное тактика заключаетс"
+    },
+    {
+      "source_path": "C:/Users/Artem/Videos/Макашенец/МОДНАЯ ПРОПАГАНДА/Копия Keyed-Video_2608311425_0001.mov",
+      "in_point": 1749.121,
+      "out_point": 1778.96,
+      "timeline_start": 1436.0239999999994,
+      "label": "Вообще-то так выживают на ютубе даже в эмиграции. У Дудя ест"
+    },
+    {
+      "source_path": "C:/Users/Artem/Videos/Макашенец/МОДНАЯ ПРОПАГАНДА/Копия Keyed-Video_2608311425_0001.mov",
+      "in_point": 1812.044,
+      "out_point": 1850.191,
+      "timeline_start": 1496.8629999999994,
+      "label": "Как говорится, это было пиздец как смело\\! Но насколько така"
+    },
+    {
+      "source_path": "C:/Users/Artem/Videos/Макашенец/МОДНАЯ ПРОПАГАНДА/Копия Keyed-Video_2608311425_0001.mov",
+      "in_point": 1873.582,
+      "out_point": 1893.729,
+      "timeline_start": 1558.0099999999993,
+      "label": "Но главное — и у Антонова, и у Ебкова есть ангел хранитель. "
+    },
+    {
+      "source_path": "C:/Users/Artem/Videos/Макашенец/МОДНАЯ ПРОПАГАНДА/Копия Keyed-Video_2608311425_0001.mov",
+      "in_point": 1928.198,
+      "out_point": 1971.883,
+      "timeline_start": 1602.1569999999992,
+      "label": "У Ебкова самый популярный видос — обзор на интервью Лебедева"
+    },
+    {
+      "source_path": "C:/Users/Artem/Videos/Макашенец/МОДНАЯ ПРОПАГАНДА/Копия Keyed-Video_2608311425_0001.mov",
+      "in_point": 1994.813,
+      "out_point": 2012.191,
+      "timeline_start": 1649.8419999999992,
+      "label": "Лебедев пока НЕ приходил на интервью и вообще никак не участ"
+    },
+    {
+      "source_path": "C:/Users/Artem/Videos/Макашенец/МОДНАЯ ПРОПАГАНДА/Копия Keyed-Video_2608311425_0001.mov",
+      "in_point": 2029.121,
+      "out_point": 2037.268,
+      "timeline_start": 1691.2199999999991,
+      "label": "~~Почти. Чадина, видимо, добилась расположения племянницы Пы"
+    },
+    {
+      "source_path": "C:/Users/Artem/Videos/Макашенец/МОДНАЯ ПРОПАГАНДА/Копия Keyed-Video_2608311425_0001.mov",
+      "in_point": 2059.736,
+      "out_point": 2079.422,
+      "timeline_start": 1709.366999999999,
+      "label": "Относительно недавно Цивилеву назначили замминистра обороны."
+    },
+    {
+      "source_path": "C:/Users/Artem/Videos/Макашенец/МОДНАЯ ПРОПАГАНДА/Копия Keyed-Video_2608311425_0001.mov",
+      "in_point": 2102.8129999999996,
+      "out_point": 2122.0370000000003,
+      "timeline_start": 1729.0529999999992,
+      "label": "У нас таких историй, когда искалеченных войной людей надо во"
+    },
+    {
+      "source_path": "C:/Users/Artem/Videos/Макашенец/МОДНАЯ ПРОПАГАНДА/Копия Keyed-Video_2608311425_0001.mov",
+      "in_point": 2144.967,
+      "out_point": 2162.806,
+      "timeline_start": 1755.2769999999998,
+      "label": "Еще недавно о Подгузовой мало кто слышал — она работала в ме"
+    },
+    {
+      "source_path": "C:/Users/Artem/Videos/Макашенец/МОДНАЯ ПРОПАГАНДА/Копия Keyed-Video_2608311425_0001.mov",
+      "in_point": 2188.5049999999997,
+      "out_point": 2210.498,
+      "timeline_start": 1775.1159999999998,
+      "label": "Про взлет Чадиной я рассказывал вам в одном из своих прошлых"
+    },
+    {
+      "source_path": "C:/Users/Artem/Videos/Макашенец/МОДНАЯ ПРОПАГАНДА/Копия Keyed-Video_2608311425_0001.mov",
+      "in_point": 2243.121,
+      "out_point": 2279.8830000000003,
+      "timeline_start": 1807.1090000000002,
+      "label": "Есть, конечно, некий оверхайп вокруг ее фигуры, но пускай ст"
+    },
+    {
+      "source_path": "C:/Users/Artem/Videos/Макашенец/МОДНАЯ ПРОПАГАНДА/Копия Keyed-Video_2608311425_0001.mov",
+      "in_point": 2300.967,
+      "out_point": 2316.498,
+      "timeline_start": 1873.8710000000003,
+      "label": "Уфф… Выглядит…. странновато — какая-то постановочная съемка,"
+    },
+    {
+      "source_path": "C:/Users/Artem/Videos/Макашенец/МОДНАЯ ПРОПАГАНДА/Копия Keyed-Video_2608311425_0001.mov",
+      "in_point": 2343.121,
+      "out_point": 2369.268,
+      "timeline_start": 1889.4020000000003,
+      "label": "К слову Чадина в этих фильмах только на постановочной началк"
+    },
+    {
+      "source_path": "C:/Users/Artem/Videos/Макашенец/МОДНАЯ ПРОПАГАНДА/Копия Keyed-Video_2608311425_0001.mov",
+      "in_point": 2388.5049999999997,
+      "out_point": 2398.96,
+      "timeline_start": 1915.5490000000002,
+      "label": "В одном из роликов Чадиной собрался весь свет новой российск"
+    },
+    {
+      "source_path": "C:/Users/Artem/Videos/Макашенец/МОДНАЯ ПРОПАГАНДА/Копия Keyed-Video_2608311425_0001.mov",
+      "in_point": 2424.198,
+      "out_point": 2446.652,
+      "timeline_start": 1926.0040000000006,
+      "label": "Это самый удивительный персонаж за столом. У всех так или ин"
+    },
+    {
+      "source_path": "C:/Users/Artem/Videos/Макашенец/МОДНАЯ ПРОПАГАНДА/Копия Keyed-Video_2608311425_0001.mov",
+      "in_point": 2470.044,
+      "out_point": 2491.114,
+      "timeline_start": 1948.4580000000008,
+      "label": "Но все его писательское творчество так и не вышло за рамки Ф"
+    },
+    {
+      "source_path": "C:/Users/Artem/Videos/Макашенец/МОДНАЯ ПРОПАГАНДА/Копия Keyed-Video_2608311425_0001.mov",
+      "in_point": 2507.121,
+      "out_point": 2511.114,
+      "timeline_start": 1969.528000000001,
+      "label": "….но сейчас главное его занятие — походы на интервью."
+    },
+    {
+      "source_path": "C:/Users/Artem/Videos/Макашенец/МОДНАЯ ПРОПАГАНДА/Копия Keyed-Video_2608311425_0001.mov",
+      "in_point": 2539.121,
+      "out_point": 2569.8830000000003,
+      "timeline_start": 1985.5210000000009,
+      "label": "Важная информация для контекста. В начале 10-х годов, когда "
+    },
+    {
+      "source_path": "C:/Users/Artem/Videos/Макашенец/МОДНАЯ ПРОПАГАНДА/Копия Keyed-Video_2608311425_0001.mov",
+      "in_point": 2592.352,
+      "out_point": 2610.652,
+      "timeline_start": 2016.283000000001,
+      "label": "И нет, это не какое-то стародавнее интервью — Конев и сейчас"
+    },
+    {
+      "source_path": "C:/Users/Artem/Videos/Макашенец/МОДНАЯ ПРОПАГАНДА/Копия Keyed-Video_2608311425_0001.mov",
+      "in_point": 2637.275,
+      "out_point": 2661.114,
+      "timeline_start": 2034.5830000000012,
+      "label": "Блять, в этом меме Фасолька что ли за кадром вопросы задает?"
+    },
+    {
+      "source_path": "C:/Users/Artem/Videos/Макашенец/МОДНАЯ ПРОПАГАНДА/Копия Keyed-Video_2608311425_0001.mov",
+      "in_point": 2688.198,
+      "out_point": 2713.8830000000003,
+      "timeline_start": 2058.4220000000014,
+      "label": "Еще раз: Конев очень загадочный персонаж. У него нет ни боль"
+    },
+    {
+      "source_path": "C:/Users/Artem/Videos/Макашенец/МОДНАЯ ПРОПАГАНДА/Копия Keyed-Video_2608311425_0001.mov",
+      "in_point": 2732.6589999999997,
+      "out_point": 2742.652,
+      "timeline_start": 2084.107000000002,
+      "label": "Но в любом случае Конев в этой тусовке разочаровался, сначал"
+    },
+    {
+      "source_path": "C:/Users/Artem/Videos/Макашенец/МОДНАЯ ПРОПАГАНДА/Копия Keyed-Video_2608311425_0001.mov",
+      "in_point": 2773.89,
+      "out_point": 2809.268,
+      "timeline_start": 2094.100000000002,
+      "label": "Ох, от этого тейка прямо разрывает. Для тех, кто не бывал в "
+    },
+    {
+      "source_path": "C:/Users/Artem/Videos/Макашенец/МОДНАЯ ПРОПАГАНДА/Копия Keyed-Video_2608311425_0001.mov",
+      "in_point": 2840.044,
+      "out_point": 2874.0370000000003,
+      "timeline_start": 2313.4780000000023,
+      "label": "По большому счету и делать нихуя не нужно — просто ходи по э"
+    },
+    {
+      "source_path": "C:/Users/Artem/Videos/Макашенец/МОДНАЯ ПРОПАГАНДА/Копия Keyed-Video_2608311425_0001.mov",
+      "in_point": 2895.582,
+      "out_point": 2912.498,
+      "timeline_start": 2616.4710000000027,
+      "label": "Иногда они — спасибо за эту милость — все же нехотя, но отве"
+    },
+    {
+      "source_path": "C:/Users/Artem/Videos/Макашенец/МОДНАЯ ПРОПАГАНДА/Копия Keyed-Video_2608311425_0001.mov",
+      "in_point": 2923.198,
+      "out_point": 2985.806,
+      "timeline_start": 2633.387000000003,
+      "label": "Что ж, готов продублировать здесь мое предложение к Марии — "
+    },
+    {
+      "source_path": "C:/Users/Artem/Videos/Макашенец/МОДНАЯ ПРОПАГАНДА/Копия Keyed-Video_2608311425_0001.mov",
+      "in_point": 3131.736,
+      "out_point": 3138.96,
+      "timeline_start": 2695.995000000003,
+      "label": "Финальное испытание в нашем видео – Алена Максимович. Кто – "
+    },
+    {
+      "source_path": "C:/Users/Artem/Videos/Макашенец/МОДНАЯ ПРОПАГАНДА/Копия Keyed-Video_2608311425_0001.mov",
+      "in_point": 3163.275,
+      "out_point": 3182.0370000000003,
+      "timeline_start": 2703.2190000000032,
+      "label": "Меган Маркл есть у нас дома. Она же – не популярная, но зато"
+    },
+    {
+      "source_path": "C:/Users/Artem/Videos/Макашенец/МОДНАЯ ПРОПАГАНДА/Копия Keyed-Video_2608311425_0001.mov",
+      "in_point": 3192.736,
+      "out_point": 3231.3450000000003,
+      "timeline_start": 2721.9810000000034,
+      "label": "Тут я позволю себе довериться своей психологической интуиции"
+    },
+    {
+      "source_path": "C:/Users/Artem/Videos/Макашенец/МОДНАЯ ПРОПАГАНДА/Копия Keyed-Video_2608311425_0001.mov",
+      "in_point": 3329.967,
+      "out_point": 3362.114,
+      "timeline_start": 2760.590000000004,
+      "label": "То, что Алене настоящее искусство ближе, чем журналистское р"
+    },
+    {
+      "source_path": "C:/Users/Artem/Videos/Макашенец/МОДНАЯ ПРОПАГАНДА/Копия Keyed-Video_2608311425_0001.mov",
+      "in_point": 3459.582,
+      "out_point": 3488.498,
+      "timeline_start": 2792.7370000000037,
+      "label": "Если фрагмент из сериала так и не появился, значит, мне приш"
+    },
+    {
+      "source_path": "C:/Users/Artem/Videos/Макашенец/МОДНАЯ ПРОПАГАНДА/Копия Keyed-Video_2608311425_0001.mov",
+      "in_point": 3522.967,
+      "out_point": 3562.96,
+      "timeline_start": 2821.653000000004,
+      "label": "В 22-м году Максимович напишет такой пост: уверена, весь мир"
+    },
+    {
+      "source_path": "C:/Users/Artem/Videos/Макашенец/МОДНАЯ ПРОПАГАНДА/Копия Keyed-Video_2608311425_0001.mov",
+      "in_point": 3573.6589999999997,
+      "out_point": 3610.422,
+      "timeline_start": 2861.646000000004,
+      "label": "(вкрадчиво)\n\nЗа Малую Токмачку… А что случилось с Аленой пос"
+    },
+    {
+      "source_path": "C:/Users/Artem/Videos/Макашенец/МОДНАЯ ПРОПАГАНДА/Копия Keyed-Video_2608311425_0001.mov",
+      "in_point": 3704.198,
+      "out_point": 3723.422,
+      "timeline_start": 2898.409000000004,
+      "label": "Про то, что «вопросов никогда не будет» мы заскринили. На са"
+    },
+    {
+      "source_path": "C:/Users/Artem/Videos/Макашенец/МОДНАЯ ПРОПАГАНДА/Копия Keyed-Video_2608311425_0001.mov",
+      "in_point": 3754.198,
+      "out_point": 3786.806,
+      "timeline_start": 2917.6330000000044,
+      "label": "А у Алены – наоборот, такой друг есть. После 22 года она про"
+    },
+    {
+      "source_path": "C:/Users/Artem/Videos/Макашенец/МОДНАЯ ПРОПАГАНДА/Копия Keyed-Video_2608311425_0001.mov",
+      "in_point": 3808.352,
+      "out_point": 3824.3450000000003,
+      "timeline_start": 2950.2410000000045,
+      "label": "Разоблачая вранье уехавших, самое главное не выйти на саму с"
+    },
+    {
+      "source_path": "C:/Users/Artem/Videos/Макашенец/МОДНАЯ ПРОПАГАНДА/Копия Keyed-Video_2608311425_0001.mov",
+      "in_point": 3861.121,
+      "out_point": 3908.96,
+      "timeline_start": 2966.234000000005,
+      "label": "Алена, если вы думаете, что в России сложно стать предателем"
+    },
+    {
+      "source_path": "C:/Users/Artem/Videos/Макашенец/МОДНАЯ ПРОПАГАНДА/Копия Keyed-Video_2608311425_0001.mov",
+      "in_point": 3930.5049999999997,
+      "out_point": 3945.114,
+      "timeline_start": 3014.073000000005,
+      "label": "И в Тайланде в 2025 году Алена пожить успела – во всяком слу"
+    },
+    {
+      "source_path": "C:/Users/Artem/Videos/Макашенец/МОДНАЯ ПРОПАГАНДА/Копия Keyed-Video_2608311425_0001.mov",
+      "in_point": 3968.044,
+      "out_point": 3987.7290000000003,
+      "timeline_start": 3028.6820000000052,
+      "label": "Алена, поясню на примере. Вот у вас же есть сестра? Скажите,"
+    },
+    {
+      "source_path": "C:/Users/Artem/Videos/Макашенец/МОДНАЯ ПРОПАГАНДА/Копия Keyed-Video_2608311425_0001.mov",
+      "in_point": 3998.428,
+      "out_point": 4026.422,
+      "timeline_start": 3048.3670000000056,
+      "label": "Короче, уровень аналитики вы поняли. Под жесткий разбор Макс"
+    },
+    {
+      "source_path": "C:/Users/Artem/Videos/Макашенец/МОДНАЯ ПРОПАГАНДА/Копия Keyed-Video_2608311425_0001.mov",
+      "in_point": 4125.275000000001,
+      "out_point": 4177.268,
+      "timeline_start": 3076.361000000006,
+      "label": "Хммм… выходит план Даллеса все-таки работает … Алена у меня "
+    },
+    {
+      "source_path": "C:/Users/Artem/Videos/Макашенец/МОДНАЯ ПРОПАГАНДА/Копия Keyed-Video_2608311425_0001.mov",
+      "in_point": 4200.659000000001,
+      "out_point": 4218.96,
+      "timeline_start": 3128.3540000000053,
+      "label": "А блять примеры будут какие-то? Ну типа кто так говорил, это"
+    },
+    {
+      "source_path": "C:/Users/Artem/Videos/Макашенец/МОДНАЯ ПРОПАГАНДА/Копия Keyed-Video_2608311425_0001.mov",
+      "in_point": 4229.659000000001,
+      "out_point": 4269.191,
+      "timeline_start": 3146.6550000000047,
+      "label": "Если вдруг меня сейчас смотрят какие-то участники СВОУ, для "
+    },
+    {
+      "source_path": "C:/Users/Artem/Videos/Макашенец/МОДНАЯ ПРОПАГАНДА/Копия Keyed-Video_2608311425_0001.mov",
+      "in_point": 4389.736,
+      "out_point": 4445.4220000000005,
+      "timeline_start": 3186.187000000004,
+      "label": "Что ж, ставьте лайки и подписывайтесь на канал. Пока\\! \n\n*КО"
+    },
+    {
+      "source_path": "C:/Users/Artem/Videos/Макашенец/МОДНАЯ ПРОПАГАНДА/Копия Keyed-Video_2608311425_0001.mov",
+      "in_point": 4470.659000000001,
+      "out_point": 4495.883,
+      "timeline_start": 3241.8730000000046,
+      "label": "Так будут в конце-концов нормальные доводы или нет? Нет, не "
+    }
+  ],
+  "markers": [
+    {
+      "time": 47.839,
+      "comment": "ЛАЙВ | https://www.youtube.com/watch?v=Tm0L6YP6w | 0:20—0:51"
+    },
+    {
+      "time": 102.21699999999998,
+      "comment": "ЛАЙВ | https://www.youtube.com/watch?v=Tm0L6YP6w | 1:25—1:54"
+    },
+    {
+      "time": 131.21699999999998,
+      "comment": "ЛАЙВ | http://kremlin.ru/events/president/news/69390 | 9:30—9:50"
+    },
+    {
+      "time": 178.28699999999998,
+      "comment": "ЛАЙВ | https://www.youtube.com/watch?v=Tm0L6YP6w | 5:40—6:02"
+    },
+    {
+      "time": 220.43399999999997,
+      "comment": "ЛАЙВ | https://www.youtube.com/watch?v=PuKuothgmT8"
+    },
+    {
+      "time": 232.27399999999994,
+      "comment": "ЛАЙВ | https://www.youtube.com/watch?v=Tm0L6YP6w | 8:39—9:07"
+    },
+    {
+      "time": 308.11299999999994,
+      "comment": "ЛАЙВ | https://www.youtube.com/watch?v=Tm0L6YP6w | 9:33—9:40"
+    },
+    {
+      "time": 325.5679999999999,
+      "comment": "ЛАЙВ | https://www.youtube.com/watch?v=Tm0L6YP6w"
+    },
+    {
+      "time": 353.561,
+      "comment": "ЛАЙВ | https://www.youtube.com/watch?v=Tm0L6YP6w"
+    },
+    {
+      "time": 369.09200000000004,
+      "comment": "ЛАЙВ | https://www."
+    },
+    {
+      "time": 388.3160000000001,
+      "comment": "ЛАЙВ | http://kremlin.ru/events/president/news/50971 | 2:06—6:20"
+    },
+    {
+      "time": 730.1480000000001,
+      "comment": "ЛАЙВ | https://www.youtube.com/watch?v=Tm0L6YP6w"
+    },
+    {
+      "time": 765.0640000000002,
+      "comment": "ЛАЙВ | http://kremlin.ru/events/president/news/78632 | 9:15—9:22"
+    },
+    {
+      "time": 806.0570000000002,
+      "comment": "ЛАЙВ | https://www.youtube.com/watch?v=Tm0L6YP6w | 0:21—0:28"
+    },
+    {
+      "time": 841.0500000000003,
+      "comment": "ЛАЙВ | https://www.youtube.com/watch?v=AUUVyAs-ARg | 0:10—0:22"
+    },
+    {
+      "time": 866.7350000000004,
+      "comment": "ЛАЙВ | https://www.youtube.com/watch?v=AUUVyAs-ARg | 1:06—1:14"
+    },
+    {
+      "time": 866.7350000000004,
+      "comment": "ЛАЙВ | https://www.youtube.com/watch?v=AUUVyAs-ARg | 1:20—1:31"
+    },
+    {
+      "time": 920.6510000000003,
+      "comment": "ЛАЙВ | https://www.youtube.com/watch?v=AUUVyAs-ARg | 1:40—1:59"
+    },
+    {
+      "time": 944.5680000000002,
+      "comment": "ЛАЙВ | https://www.youtube.com/watch?v=DKMTD1I0gr4"
+    },
+    {
+      "time": 959.1760000000002,
+      "comment": "ЛАЙВ | https://www.youtube.com/watch?v=AUUVyAs-ARg | 8:28—9:11"
+    },
+    {
+      "time": 1030.169,
+      "comment": "ЛАЙВ | https://t.me/bazabazon/22579"
+    },
+    {
+      "time": 1046.624,
+      "comment": "ЛАЙВ | https://www.youtube.com/watch?v=AUUVyAs-ARg | 9:22—9:36"
+    },
+    {
+      "time": 1102.463,
+      "comment": "ЛАЙВ | https://www.youtube.com/watch?v=AUUVyAs-ARg | 3:14—3:40"
+    },
+    {
+      "time": 1139.3799999999999,
+      "comment": "ЛАЙВ | https://www.[youtube.com/watch?v=AUUVyAs-ARg"
+    },
+    {
+      "time": 1139.3799999999999,
+      "comment": "ЛАЙВ | https://www.[youtube.com/watch?v=AUUVyAs-ARg"
+    },
+    {
+      "time": 1156.2959999999998,
+      "comment": "ЛАЙВ | https://www.youtube.com/watch?v=V80WPXBktzo"
+    },
+    {
+      "time": 1163.5199999999998,
+      "comment": "ЛАЙВ | https://www."
+    },
+    {
+      "time": 1198.4359999999997,
+      "comment": "ЛАЙВ | https://www."
+    },
+    {
+      "time": 1204.2749999999996,
+      "comment": "ЛАЙВ | https://www.youtube.com/watch?v=kOWXvxDOxk8"
+    },
+    {
+      "time": 1223.4989999999996,
+      "comment": "ЛАЙВ | https://www."
+    },
+    {
+      "time": 1234.4149999999995,
+      "comment": "ЛАЙВ | https://www.youtube.com/watch?v=AUUVyAs-ARg"
+    },
+    {
+      "time": 1255.0239999999994,
+      "comment": "ЛАЙВ | https://smotrim.ru/brand/65238 | 1:34—4:35"
+    },
+    {
+      "time": 1465.8629999999994,
+      "comment": "ЛАЙВ | https://www.youtube.com/watch?v=AUUVyAs-ARg | 0:31—0:50"
+    },
+    {
+      "time": 1484.8629999999994,
+      "comment": "ЛАЙВ | https://www.youtube.com/watch?v=Tm0L6YP6w | 7:00—7:12"
+    },
+    {
+      "time": 1535.0099999999993,
+      "comment": "ЛАЙВ | https://www.youtube.com/watch?v=ETwYGGK3sW8 | 0:56—1:19"
+    },
+    {
+      "time": 1578.1569999999992,
+      "comment": "ЛАЙВ | https://www.youtube.com/watch?v=xKo8uHegb5k | 4:06—4:30"
+    },
+    {
+      "time": 1645.8419999999992,
+      "comment": "ЛАЙВ | https://www.youtube.com/watch?v=3tnT2V0gyLU | 2:35—2:39"
+    },
+    {
+      "time": 1667.2199999999991,
+      "comment": "ЛАЙВ | https://www.instagram.com/reel/Db8HyWVMM0E/ | 0:00—0:10"
+    },
+    {
+      "time": 1677.2199999999991,
+      "comment": "ЛАЙВ | https://www.tiktok.com/@frontrowside/video/7564746347283483927 | 0:00—0:14"
+    },
+    {
+      "time": 1699.366999999999,
+      "comment": "ЛАЙВ | https://xn--b1aedk0adbpf1i.xn--p1ai/interview | 0:07—0:17"
+    },
+    {
+      "time": 1729.0529999999992,
+      "comment": "ЛАЙВ | https://xn--b1aedk0adbpf1i.xn--p1ai/interview"
+    },
+    {
+      "time": 1748.2769999999998,
+      "comment": "ЛАЙВ | https://aeb25bef-e00a-4dc2-8de9-d3e317ab7aac.selstorage.ru/files/civileva"
+    },
+    {
+      "time": 1748.2769999999998,
+      "comment": "ЛАЙВ | https://aeb25bef-e00a-4dc2-8de9-d3e317ab7aac.selstorage.ru/files/podguzova | 0:55—1:02"
+    },
+    {
+      "time": 1773.1159999999998,
+      "comment": "ЛАЙВ | https://xn--b1aedk0adbpf1i.xn--p1ai/interview | 3:45—3:47"
+    },
+    {
+      "time": 1797.1090000000002,
+      "comment": "ЛАЙВ | https://www.instagram.com/reel/DbF07H9MZUd/ | 0:00—0:10"
+    },
+    {
+      "time": 1843.8710000000003,
+      "comment": "ЛАЙВ | https://vkvideo.ru/video-220147210 | 0:00—0:30"
+    },
+    {
+      "time": 1889.4020000000003,
+      "comment": "ЛАЙВ | https://vkvideo.ru/video-220147210"
+    },
+    {
+      "time": 1915.5490000000002,
+      "comment": "ЛАЙВ | https://rutube.ru/video/1f75f0b2d3dceed52e9817bce77e1e8b/"
+    },
+    {
+      "time": 1926.0040000000006,
+      "comment": "ЛАЙВ | https://rutube.ru/video/1f75f0b2d3dceed52e9817bce77e1e8b/"
+    },
+    {
+      "time": 1948.4580000000008,
+      "comment": "ЛАЙВ | https://www.youtube.com/watch?v=y58OrQA-FZM"
+    },
+    {
+      "time": 1973.5210000000009,
+      "comment": "ЛАЙВ | https://www.youtube.com/watch?v=ZGBCPbsZuds | 3:37—3:49"
+    },
+    {
+      "time": 2016.283000000001,
+      "comment": "ЛАЙВ | https://www.youtube.com/watch?v=ZGBCPbsZuds"
+    },
+    {
+      "time": 2034.5830000000012,
+      "comment": "ЛАЙВ | https://www.youtube.com/shorts/ynADzU1eOiM"
+    },
+    {
+      "time": 2034.5830000000012,
+      "comment": "ЛАЙВ | None"
+    },
+    {
+      "time": 2058.4220000000014,
+      "comment": "ЛАЙВ | https://www.youtube.com/watch?v=ZGBCPbsZuds"
+    },
+    {
+      "time": 2084.107000000002,
+      "comment": "ЛАЙВ | https://www.youtube.com/watch?v=ZGBCPbsZuds"
+    },
+    {
+      "time": 2094.100000000002,
+      "comment": "ЛАЙВ | https://www.youtube.com/watch?v=ZGBCPbsZuds"
+    },
+    {
+      "time": 2129.4780000000023,
+      "comment": "ЛАЙВ | https://www.youtube.com/watch?v=ZGBCPbsZuds | 1:03—4:07"
+    },
+    {
+      "time": 2347.4710000000027,
+      "comment": "ЛАЙВ | https://www.youtube.com/watch?v=e5bRVIPBG34 | 1:25—5:54"
+    },
+    {
+      "time": 2703.2190000000032,
+      "comment": "ЛАЙВ | None"
+    },
+    {
+      "time": 2821.653000000004,
+      "comment": "ЛАЙВ | https://www.youtube.com/watch?v=D78TsJbDufo>"
+    },
+    {
+      "time": 2917.6330000000044,
+      "comment": "ЛАЙВ | https://www.youtube.com/watch?v=e5bRVIPBG34"
+    },
+    {
+      "time": 2950.2410000000045,
+      "comment": "ЛАЙВ | None"
+    },
+    {
+      "time": 2950.2410000000045,
+      "comment": "ЛАЙВ | https://www.youtube.com/watch?v=e5bRVIPBG34"
+    },
+    {
+      "time": 2966.234000000005,
+      "comment": "ЛАЙВ | None"
+    },
+    {
+      "time": 3028.6820000000052,
+      "comment": "ЛАЙВ | None"
+    },
+    {
+      "time": 3048.3670000000056,
+      "comment": "ЛАЙВ | None"
+    },
+    {
+      "time": 3186.187000000004,
+      "comment": "ЛАЙВ | None"
+    },
+    {
+      "time": 3267.097000000004,
+      "comment": "ЛАЙВ | https://www.youtube.com/watch?v=BFW6ugvzpQ0 | 0:00—0:05"
+    },
+    {
+      "time": 3272.097000000004,
+      "comment": "ЛАЙВ | https://www.youtube.com/watch?v=tvHrEjlZj0I>"
+    }
+  ]
+}

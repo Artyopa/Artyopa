@@ -131,9 +131,9 @@ def test_edit_plan_clips_from_aligned():
 
     assert len(plan["clips"]) >= 1
     clip = plan["clips"][0]
-    assert clip["src_in"] == 5.0
-    assert clip["src_out"] == 18.0
-    assert clip["file"] == "/video.mov"
+    assert clip["in_point"] == 5.0
+    assert clip["out_point"] == 18.0
+    assert clip["source_path"] == "/video.mov"
 
 
 if __name__ == "__main__":

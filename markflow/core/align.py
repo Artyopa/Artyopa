@@ -140,11 +140,10 @@ def aligned_to_edit_plan(
             seg = entry["segment"]
             duration = seg["end"] - seg["start"]
             clips.append({
-                "file": video_path,
-                "src_in": seg["start"],
-                "src_out": seg["end"],
-                "record_in": timeline_cursor,
-                "record_out": timeline_cursor + duration,
+                "source_path": video_path,
+                "in_point": seg["start"],
+                "out_point": seg["end"],
+                "timeline_start": timeline_cursor,
                 "label": entry["text"][:60],
             })
             timeline_cursor += duration + GAP
